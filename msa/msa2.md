@@ -1,7 +1,7 @@
 
-================================================================================
+
 FILE: 1-mysql-database-integration.md
-================================================================================
+
 
 # Tích Hợp Cơ Sở Dữ Liệu MySQL cho Microservices
 
@@ -200,9 +200,9 @@ Giai đoạn tiếp theo bao gồm:
 
 
 
-================================================================================
+
 FILE: 10-client-side-service-discovery-pattern.md
-================================================================================
+
 
 # Mô Hình Service Discovery Phía Client Trong Microservices
 
@@ -403,9 +403,9 @@ Mô hình hoạt động trơn tru ở hậu trường khi được cấu hình 
 
 
 
-================================================================================
+
 FILE: 11-implementing-client-side-service-discovery-with-spring-cloud.md
-================================================================================
+
 
 # Triển Khai Client-Side Service Discovery với Spring Cloud
 
@@ -526,9 +526,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ triển khai các thành ph�
 
 
 
-================================================================================
+
 FILE: 12-building-eureka-service-discovery-server.md
-================================================================================
+
 
 # Xây Dựng Eureka Service Discovery Server với Spring Cloud
 
@@ -743,9 +743,9 @@ Config Server (port 8071)
 
 
 
-================================================================================
+
 FILE: 13-implementing-eureka-client-in-accounts-microservice.md
-================================================================================
+
 
 # Triển Khai Eureka Client trong Accounts Microservice
 
@@ -895,9 +895,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ đề cập đến:
 
 
 
-================================================================================
+
 FILE: 14-registering-microservices-with-eureka-server.md
-================================================================================
+
 
 # Đăng Ký Microservices với Eureka Server
 
@@ -1103,9 +1103,9 @@ Hướng dẫn này đã trình bày cách đăng ký các microservices Cards v
 
 
 
-================================================================================
+
 FILE: 15-microservice-graceful-shutdown-and-deregistration.md
-================================================================================
+
 
 # Tắt Microservice Một Cách Linh Hoạt và Hủy Đăng Ký Khỏi Eureka Server
 
@@ -1299,9 +1299,9 @@ Graceful shutdown và hủy đăng ký đúng cách là rất quan trọng để
 
 
 
-================================================================================
+
 FILE: 16-microservice-heartbeat-and-eureka-server-communication.md
-================================================================================
+
 
 # Giao Tiếp Heartbeat và Eureka Server trong Microservice
 
@@ -1405,9 +1405,9 @@ Tích hợp Eureka Server trong microservices Spring Boot cung cấp một cơ c
 
 
 
-================================================================================
+
 FILE: 17-implementing-openfeign-client-for-microservice-communication.md
-================================================================================
+
 
 # Triển Khai OpenFeign Client Để Giao Tiếp Giữa Các Microservice
 
@@ -1599,9 +1599,9 @@ OpenFeign cung cấp cách tiếp cận khai báo cho giao tiếp microservice, 
 
 
 
-================================================================================
+
 FILE: 18-consolidated-customer-api-with-feign-client.md
-================================================================================
+
 
 # Xây Dựng API Tổng Hợp Thông Tin Khách Hàng Với Feign Client và Eureka
 
@@ -2345,9 +2345,9 @@ Chúc bạn code vui vẻ! 🚀
 
 
 
-================================================================================
+
 FILE: 19-eureka-self-preservation-mode.md
-================================================================================
+
 
 # Chế Độ Tự Bảo Vệ Của Eureka (Self-Preservation Mode)
 
@@ -2531,9 +2531,9 @@ Chế độ tự bảo vệ là một tính năng quan trọng để duy trì t�
 
 
 
-================================================================================
+
 FILE: 2-connecting-microservices-to-mysql-database.md
-================================================================================
+
 
 # Kết Nối Spring Boot Microservices với MySQL Database Cục Bộ
 
@@ -3161,9 +3161,9 @@ CREATE TABLE IF NOT EXISTS accounts (
 
 
 
-================================================================================
+
 FILE: 20-generating-docker-images-for-microservices.md
-================================================================================
+
 
 # Tạo Docker Images cho Microservices với Google Jib
 
@@ -3332,9 +3332,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ:
 
 
 
-================================================================================
+
 FILE: 21-updating-docker-compose-for-eureka-integration.md
-================================================================================
+
 
 # Cập Nhật Docker Compose Để Tích Hợp Eureka
 
@@ -3491,9 +3491,9 @@ Môi trường Docker hiện đã sẵn sàng để kiểm tra các pattern serv
 
 
 
-================================================================================
+
 FILE: 22-deploying-microservices-with-docker-compose-and-eureka.md
-================================================================================
+
 
 # Triển khai Microservices với Docker Compose và Eureka Server
 
@@ -3733,9 +3733,9 @@ Với cấu hình phù hợp, tất cả các microservices đăng ký thành c�
 
 
 
-================================================================================
+
 FILE: 23-client-side-load-balancing-with-multiple-instances.md
-================================================================================
+
 
 # Cân Bằng Tải Phía Client với Nhiều Instance Microservice
 
@@ -3893,9 +3893,9 @@ Cân bằng tải phía client với Spring Cloud và Eureka cung cấp một c�
 
 
 
-================================================================================
+
 FILE: 24-exploring-graalvm-cho-nha-phat-trien-microservice.md
-================================================================================
+
 
 # Khám Phá GraalVM: Kiến Thức Cần Thiết Cho Các Nhà Phát Triển Microservice
 
@@ -3949,9 +3949,9 @@ Khi hệ sinh thái Java tiếp tục phát triển, GraalVM đại diện cho m
 
 
 
-================================================================================
+
 FILE: 25-exploring-graalvm-for-microservice-developers.md
-================================================================================
+
 
 # Khám Phá GraalVM cho Nhà Phát Triển Microservice
 
@@ -4098,9 +4098,9 @@ Chúng tôi cũng khuyến nghị kiểm tra [GraalVM Team Blog](https://graalvm
 
 
 
-================================================================================
+
 FILE: 26-graalvm-native-image-guide.md
-================================================================================
+
 
 # GraalVM Native Image: Hướng Dẫn Đầy Đủ
 
@@ -4435,9 +4435,9 @@ GraalVM Native Image cung cấp một cách mạnh mẽ để biên dịch ứng
 
 
 
-================================================================================
+
 FILE: 27-api-gateway-and-routing-challenges.md
-================================================================================
+
 
 # Thách Thức về API Gateway và Định Tuyến trong Microservices
 
@@ -4576,9 +4576,9 @@ Không có API Gateway phù hợp, bạn có nguy cơ tạo ra một hệ thốn
 
 
 
-================================================================================
+
 FILE: 28-tai-sao-can-edge-server-api-gateway.md
-================================================================================
+
 
 # Tại Sao Chúng Ta Cần Edge Server (API Gateway) Trong Kiến Trúc Microservices
 
@@ -4735,9 +4735,9 @@ Trong các phần tiếp theo, chúng ta sẽ khám phá cách Spring Cloud giú
 
 
 
-================================================================================
+
 FILE: 29-spring-cloud-gateway-introduction.md
-================================================================================
+
 
 # Giới Thiệu Spring Cloud Gateway
 
@@ -4863,9 +4863,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 3-docker-compose-mysql-integration.md
-================================================================================
+
 
 # Tích Hợp Docker Compose với MySQL Databases cho Microservices
 
@@ -5592,9 +5592,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ:
 
 
 
-================================================================================
+
 FILE: 30-spring-cloud-gateway-internal-architecture.md
-================================================================================
+
 
 # Kiến Trúc Nội Bộ của Spring Cloud Gateway
 
@@ -5727,9 +5727,9 @@ Kiến trúc đảm bảo tất cả các request đi qua một pipeline đượ
 
 
 
-================================================================================
+
 FILE: 31-setting-up-spring-cloud-gateway-server.md
-================================================================================
+
 
 # Thiết Lập Spring Cloud Gateway Server
 
@@ -5949,9 +5949,9 @@ Spring Cloud Gateway cung cấp một giải pháp mạnh mẽ và linh hoạt �
 
 
 
-================================================================================
+
 FILE: 32-testing-spring-cloud-gateway-server-in-action.md
-================================================================================
+
 
 # Kiểm Thử Spring Cloud Gateway Server Trong Thực Tế
 
@@ -6144,9 +6144,9 @@ Gateway Server có thể được tối ưu hóa và bảo mật thêm trong cá
 
 
 
-================================================================================
+
 FILE: 33-cau-hinh-spring-cloud-gateway-ten-dich-vu-chu-thuong.md
-================================================================================
+
 
 # Cấu Hình Spring Cloud Gateway Cho Tên Dịch Vụ Chữ Thường
 
@@ -6255,9 +6255,9 @@ Việc kích hoạt lowercase service ID trong Spring Cloud Gateway là một th
 
 
 
-================================================================================
+
 FILE: 34-configuring-custom-routing-with-spring-cloud-gateway.md
-================================================================================
+
 
 # Cấu Hình Routing Tùy Chỉnh với Spring Cloud Gateway
 
@@ -6437,9 +6437,9 @@ Mô hình sử dụng tiền tố tổ chức (`/easybank/`) theo sau là tên s
 
 
 
-================================================================================
+
 FILE: 35-adding-multiple-filters-spring-cloud-gateway.md
-================================================================================
+
 
 # Thêm Nhiều Filter trong Spring Cloud Gateway
 
@@ -6604,9 +6604,9 @@ Chủ đề tiếp theo bao gồm việc tạo và triển khai filter tùy ch�
 
 
 
-================================================================================
+
 FILE: 36-tao-custom-filters-spring-cloud-gateway.md
-================================================================================
+
 
 # Tạo Custom Filters trong Spring Cloud Gateway
 
@@ -6783,9 +6783,9 @@ Request Bên Ngoài → Gateway Server (Tạo Correlation ID)
 
 
 
-================================================================================
+
 FILE: 37-trien-khai-correlation-id-trong-microservices.md
-================================================================================
+
 
 # Triển Khai Correlation ID trong Microservices
 
@@ -7174,9 +7174,9 @@ Trong phần bảo mật microservices, Gateway Server sẽ được tận dụn
 
 
 
-================================================================================
+
 FILE: 38-api-gateway-design-patterns-overview.md
-================================================================================
+
 
 # Tổng Quan Các Mẫu Thiết Kế API Gateway
 
@@ -7390,9 +7390,9 @@ Những mẫu này hoạt động cùng nhau để tạo ra một kiến trúc m
 
 
 
-================================================================================
+
 FILE: 39-generating-docker-images-gateway-and-health-probes.md
-================================================================================
+
 
 # Tạo Docker Images cho Gateway Server và Cấu hình Health Probes
 
@@ -7622,9 +7622,9 @@ Các bước này chuẩn bị microservices của bạn cho việc triển khai
 
 
 
-================================================================================
+
 FILE: 4-validating-docker-compose-setup.md
-================================================================================
+
 
 # Xác Thực và Khắc Phục Sự Cố Docker Compose với MySQL Databases
 
@@ -8391,9 +8391,9 @@ Bây giờ mọi thứ đã hoạt động:
 
 
 
-================================================================================
+
 FILE: 40-deploying-gateway-server-with-docker-compose.md
-================================================================================
+
 
 # Triển khai Gateway Server với Docker Compose
 
@@ -8717,9 +8717,9 @@ Gateway Server hiện đóng vai trò là điểm truy cập duy nhất cho tấ
 
 
 
-================================================================================
+
 FILE: 41-xay-dung-microservices-ben-vung-voi-resilience4j.md
-================================================================================
+
 
 # Xây Dựng Microservices Bền Vững với Resilience4j
 
@@ -8843,9 +8843,9 @@ Trong phần này, chúng ta sẽ:
 
 
 
-================================================================================
+
 FILE: 42-microservices-resiliency-and-circuit-breaker-pattern.md
-================================================================================
+
 
 # Khả Năng Phục Hồi của Microservices và Mô Hình Circuit Breaker
 
@@ -8975,9 +8975,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 43-circuit-breaker-pattern-introduction.md
-================================================================================
+
 
 # Mẫu Thiết Kế Circuit Breaker Trong Microservices
 
@@ -9078,9 +9078,9 @@ Trong các phần tiếp theo, chúng ta sẽ khám phá các chi tiết triển
 
 
 
-================================================================================
+
 FILE: 44-circuit-breaker-pattern-traffic-control.md
-================================================================================
+
 
 # Mô Hình Circuit Breaker: Kiểm Soát Lưu Lượng Truy Cập Trong Microservices
 
@@ -9170,9 +9170,9 @@ Mặc dù mô hình circuit breaker nghe có vẻ phức tạp, nhưng việc tr
 
 
 
-================================================================================
+
 FILE: 45-implementing-circuit-breaker-pattern-in-spring-cloud-gateway.md
-================================================================================
+
 
 # Triển Khai Mẫu Thiết Kế Circuit Breaker trong Spring Cloud Gateway
 
@@ -9455,9 +9455,9 @@ Triển khai này minh họa sức mạnh của mẫu circuit breaker trong vi�
 
 
 
-================================================================================
+
 FILE: 46-implementing-fallback-mechanism-circuit-breaker-gateway.md
-================================================================================
+
 
 # Triển Khai Cơ Chế Fallback Cho Circuit Breaker Pattern Trong Gateway Server
 
@@ -9568,9 +9568,9 @@ Chủ đề tiếp theo sẽ đề cập đến việc triển khai circuit brea
 
 
 
-================================================================================
+
 FILE: 47-implementing-circuit-breaker-pattern-in-accounts-microservice.md
-================================================================================
+
 
 # Triển Khai Circuit Breaker Pattern trong Accounts Microservice
 
@@ -9721,9 +9721,9 @@ if (cardsResponseEntity != null) {
 
 
 
-================================================================================
+
 FILE: 48-circuit-breaker-demo-implementation-guide.md
-================================================================================
+
 
 # Hướng Dẫn Triển Khai Circuit Breaker Pattern với Spring Boot
 
@@ -9934,9 +9934,9 @@ Khám phá các resilience patterns khác được cung cấp bởi Resilience4j
 
 
 
-================================================================================
+
 FILE: 49-configuring-timeout-in-spring-cloud-gateway.md
-================================================================================
+
 
 # Cấu Hình Timeout trong Spring Cloud Gateway
 
@@ -10091,9 +10091,9 @@ Tham khảo tài liệu chính thức của Spring Cloud Gateway để biết:
 
 
 
-================================================================================
+
 FILE: 5-docker-network-isolation-and-database-migration-strategy.md
-================================================================================
+
 
 # Cô Lập Mạng Docker và Chiến Lược Di Chuyển Cơ Sở Dữ Liệu
 
@@ -10228,9 +10228,9 @@ Từ phần tiếp theo trở đi, khóa học sẽ sử dụng cơ sở dữ li
 
 
 
-================================================================================
+
 FILE: 50-retry-pattern-introduction-microservices.md
-================================================================================
+
 
 # Retry Pattern trong Microservices
 
@@ -10333,9 +10333,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ triển khai Retry Pattern t
 
 
 
-================================================================================
+
 FILE: 51-implementing-retry-pattern-spring-cloud-gateway.md
-================================================================================
+
 
 # Triển Khai Retry Pattern với Spring Cloud Gateway
 
@@ -10532,9 +10532,9 @@ Retry pattern trong Spring Cloud Gateway cung cấp khả năng chịu lỗi t�
 
 
 
-================================================================================
+
 FILE: 52-implementing-retry-pattern-in-microservices.md
-================================================================================
+
 
 # Triển Khai Retry Pattern Trong Microservices Với Resilience4j
 
@@ -10796,9 +10796,9 @@ Retry pattern, kết hợp với cấu hình Circuit Breaker và Time Limiter ph
 
 
 
-================================================================================
+
 FILE: 53-advanced-retry-pattern-configuration-microservices.md
-================================================================================
+
 
 # Cấu Hình Nâng Cao Retry Pattern Trong Microservices
 
@@ -10999,9 +10999,9 @@ Retry pattern trong microservices nên được cấu hình cẩn thận để x
 
 
 
-================================================================================
+
 FILE: 54-rate-limiter-pattern-in-microservices.md
-================================================================================
+
 
 # Mô Hình Rate Limiter Trong Microservices
 
@@ -11086,9 +11086,9 @@ Bằng cách triển khai mô hình này một cách hiệu quả, bạn tạo r
 
 
 
-================================================================================
+
 FILE: 55-implementing-rate-limiter-pattern-spring-cloud-gateway.md
-================================================================================
+
 
 # Triển khai Rate Limiter Pattern với Spring Cloud Gateway
 
@@ -11284,9 +11284,9 @@ Trong các phần tiếp theo, chúng ta sẽ triển khai rate limiter pattern 
 
 
 
-================================================================================
+
 FILE: 56-rate-limiter-redis-spring-gateway-tutorial.md
-================================================================================
+
 
 # Triển Khai Rate Limiter Pattern trong Spring Cloud Gateway với Redis
 
@@ -11507,9 +11507,9 @@ Rate Limiter pattern trong Spring Cloud Gateway cung cấp một cách hiệu qu
 
 
 
-================================================================================
+
 FILE: 57-implementing-rate-limiter-pattern-in-microservices.md
-================================================================================
+
 
 # Triển Khai Pattern RateLimiter Trong Microservices
 
@@ -11640,9 +11640,9 @@ Chọn cách tiếp cận phù hợp nhất với yêu cầu nghiệp vụ và k
 
 
 
-================================================================================
+
 FILE: 58-bulkhead-pattern-in-microservices.md
-================================================================================
+
 
 # Mẫu Thiết Kế Bulkhead trong Microservices
 
@@ -11744,9 +11744,9 @@ Cân nhắc triển khai mẫu thiết kế Bulkhead khi:
 
 
 
-================================================================================
+
 FILE: 59-resilience4j-aspect-order-and-combining-patterns.md
-================================================================================
+
 
 # Thứ Tự Aspect và Kết Hợp Các Pattern Resiliency trong Resilience4j
 
@@ -11819,9 +11819,9 @@ Hiểu về thứ tự aspect trong Resilience4j là điều cần thiết khi k
 
 
 
-================================================================================
+
 FILE: 6-microservices-internal-communication-challenges.md
-================================================================================
+
 
 # Thách Thức Giao Tiếp Nội Bộ Giữa Các Microservices
 
@@ -11930,9 +11930,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ đi sâu vào:
 
 
 
-================================================================================
+
 FILE: 60-testing-resiliency-patterns-docker-containers.md
-================================================================================
+
 
 # Kiểm Tra Các Mẫu Thiết Kế Khả Năng Phục Hồi trong Docker Containers
 
@@ -12184,9 +12184,9 @@ Các microservices hiện tại đã trưởng thành hơn và có khả năng c
 
 
 
-================================================================================
+
 FILE: 61-observability-and-monitoring-microservices-introduction.md
-================================================================================
+
 
 # Giới Thiệu Về Observability và Monitoring Trong Microservices
 
@@ -12296,9 +12296,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 62-observability-and-monitoring-in-microservices.md
-================================================================================
+
 
 # Khả Năng Quan Sát và Giám Sát trong Kiến Trúc Microservices
 
@@ -12430,9 +12430,9 @@ Cùng nhau, chúng tạo thành một cách tiếp cận toàn diện để duy 
 
 
 
-================================================================================
+
 FILE: 63-log-aggregation-in-microservices.md
-================================================================================
+
 
 # Tập Trung Hóa Log trong Kiến Trúc Microservices
 
@@ -12553,9 +12553,9 @@ Hãy tham khảo các khóa học Spring Boot toàn diện có phần riêng v�
 
 
 
-================================================================================
+
 FILE: 64-implementing-log-aggregation-with-grafana-loki.md
-================================================================================
+
 
 # Triển Khai Log Aggregation với Grafana Loki
 
@@ -12676,9 +12676,9 @@ Trong các phần tiếp theo, chúng ta sẽ đi sâu vào các chi tiết tri�
 
 
 
-================================================================================
+
 FILE: 65-promtail-to-alloy-migration-guide.md
-================================================================================
+
 
 # Lưu Ý Quan Trọng Về Việc Di Chuyển Từ Promtail
 
@@ -12730,9 +12730,9 @@ Các thay đổi liên quan đến Promtail có sẵn trong các **nhánh cũ h�
 
 
 
-================================================================================
+
 FILE: 66-implementing-log-aggregation-with-grafana-loki-prompttail.md
-================================================================================
+
 
 # Triển Khai Log Aggregation với Grafana, Loki và Promtail
 
@@ -12855,9 +12855,9 @@ Log aggregation với Grafana, Loki và Promtail cung cấp một giải pháp m
 
 
 
-================================================================================
+
 FILE: 67-implementing-log-aggregation-with-grafana-loki-promtail.md
-================================================================================
+
 
 # Triển khai Log Aggregation với Grafana, Loki và Promtail
 
@@ -13219,9 +13219,9 @@ Giải pháp này sẵn sàng cho production với các điều chỉnh cấu h�
 
 
 
-================================================================================
+
 FILE: 68-implementing-loki-promtail-docker-compose-configuration.md
-================================================================================
+
 
 # Triển Khai Loki và Promtail trong Cấu Hình Docker Compose
 
@@ -13381,9 +13381,9 @@ Thiết lập Grafana Loki và Promtail cung cấp:
 
 
 
-================================================================================
+
 FILE: 69-log-aggregation-with-grafana-loki-promtail-implementation.md
-================================================================================
+
 
 # Triển khai Thu thập Log Tập trung với Grafana, Loki và Promtail
 
@@ -13713,9 +13713,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá **Metrics** - trụ c�
 
 
 
-================================================================================
+
 FILE: 7-service-discovery-and-registration-challenge.md
-================================================================================
+
 
 # Thách Thức về Service Discovery và Registration trong Microservices
 
@@ -13815,9 +13815,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 70-metrics-and-monitoring-with-prometheus-grafana.md
-================================================================================
+
 
 # Metrics và Giám Sát trong Microservices: Giới Thiệu về Prometheus và Grafana
 
@@ -13955,9 +13955,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ triển khai từng bước 
 
 
 
-================================================================================
+
 FILE: 71-implementing-micrometer-prometheus-microservices.md
-================================================================================
+
 
 # Triển khai Micrometer và Prometheus trong Microservices
 
@@ -14096,9 +14096,9 @@ Bằng cách thêm dependency Micrometer Prometheus và cấu hình các thuộc
 
 
 
-================================================================================
+
 FILE: 72-setting-up-prometheus-and-grafana-integration.md
-================================================================================
+
 
 # Thiết Lập Tích Hợp Prometheus và Grafana cho Microservices
 
@@ -14324,9 +14324,9 @@ Bạn đã thiết lập thành công Prometheus để thu thập metrics và t�
 
 
 
-================================================================================
+
 FILE: 73-prometheus-monitoring-demo-and-integration.md
-================================================================================
+
 
 # Demo Giám Sát Prometheus và Tích Hợp với Grafana
 
@@ -14588,9 +14588,9 @@ Prometheus cung cấp nền tảng vững chắc cho giám sát microservices v�
 
 
 
-================================================================================
+
 FILE: 74-grafana-prometheus-integration-demo.md
-================================================================================
+
 
 # Demo Tích Hợp Grafana và Prometheus
 
@@ -14733,9 +14733,9 @@ Tiếp tục khám phá các công cụ mạnh mẽ này để xây dựng giả
 
 
 
-================================================================================
+
 FILE: 75-monitoring-microservices-with-grafana-prometheus-dashboards.md
-================================================================================
+
 
 # Giám Sát Microservices với Grafana và Prometheus Dashboards
 
@@ -14971,9 +14971,9 @@ Với các dashboard đã được cấu hình, các thành viên trong nhóm c�
 
 
 
-================================================================================
+
 FILE: 76-configuring-grafana-alerts-for-microservices.md
-================================================================================
+
 
 # Cấu Hình Cảnh Báo Grafana Cho Microservices
 
@@ -15201,9 +15201,9 @@ Hệ thống cảnh báo của Grafana cung cấp khả năng giám sát mạnh 
 
 
 
-================================================================================
+
 FILE: 77-grafana-alerts-from-dashboards.md
-================================================================================
+
 
 # Tạo Cảnh Báo từ Dashboard Grafana
 
@@ -15375,9 +15375,9 @@ Khả năng tạo, cấu hình và quản lý cảnh báo từ dashboards Grafan
 
 
 
-================================================================================
+
 FILE: 78-distributed-tracing-in-microservices.md
-================================================================================
+
 
 # Distributed Tracing trong Microservices
 
@@ -15524,9 +15524,9 @@ Khi bạn xem tất cả điều này trong demo, nó sẽ trở nên rõ ràng 
 
 
 
-================================================================================
+
 FILE: 79-distributed-tracing-implementation-options.md
-================================================================================
+
 
 # Các Tùy Chọn Triển Khai Distributed Tracing cho Microservices
 
@@ -15635,9 +15635,9 @@ Bằng cách sử dụng automatic instrumentation với OpenTelemetry Java Agen
 
 
 
-================================================================================
+
 FILE: 8-service-discovery-and-traditional-load-balancer-challenges.md
-================================================================================
+
 
 # Thách Thức Về Service Discovery và Traditional Load Balancer Trong Microservices
 
@@ -15825,9 +15825,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá các giải pháp đ�
 
 
 
-================================================================================
+
 FILE: 80-implementing-opentelemetry-distributed-tracing-microservices.md
-================================================================================
+
 
 # Triển Khai OpenTelemetry Cho Distributed Tracing Trong Microservices
 
@@ -16027,9 +16027,9 @@ Tất cả logs sẽ tự động bao gồm thông tin distributed tracing dựa
 
 
 
-================================================================================
+
 FILE: 81-configuring-opentelemetry-tempo-grafana-integration.md
-================================================================================
+
 
 # Cấu hình Tích hợp OpenTelemetry, Tempo và Grafana cho Distributed Tracing
 
@@ -16269,9 +16269,9 @@ Thiết lập này cung cấp khả năng quan sát toàn diện cùng với h�
 
 
 
-================================================================================
+
 FILE: 82-distributed-tracing-demo-with-opentelemetry.md
-================================================================================
+
 
 # Demo Distributed Tracing với OpenTelemetry
 
@@ -16419,9 +16419,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá cách phân tích và 
 
 
 
-================================================================================
+
 FILE: 83-distributed-tracing-demo-with-grafana-tempo.md
-================================================================================
+
 
 # Demo Distributed Tracing với Grafana và Tempo
 
@@ -16590,9 +16590,9 @@ Sự tích hợp của Tempo, Loki và Prometheus trong Grafana cung cấp giả
 
 
 
-================================================================================
+
 FILE: 84-integrating-loki-tempo-derived-fields-grafana.md
-================================================================================
+
 
 # Tích Hợp Loki với Tempo Sử Dụng Derived Fields trong Grafana
 
@@ -16701,9 +16701,9 @@ Derived fields cung cấp một cách mạnh mẽ để kết nối các data so
 
 
 
-================================================================================
+
 FILE: 85-observability-monitoring-section-summary.md
-================================================================================
+
 
 # Khả Năng Quan Sát và Giám Sát trong Microservices - Tóm Tắt Phần
 
@@ -16794,9 +16794,9 @@ Phần này đã kết thúc thành công các cuộc thảo luận về khả n
 
 
 
-================================================================================
+
 FILE: 86-securing-microservices-challenge-9-introduction.md
-================================================================================
+
 
 # Bảo Mật Microservices - Giới Thiệu Thách Thức 9
 
@@ -16901,9 +16901,9 @@ Bảo mật là không thể thương lượng trong kiến trúc microservices.
 
 
 
-================================================================================
+
 FILE: 87-oauth2-introduction-and-basic-authentication-problems.md
-================================================================================
+
 
 # Giới thiệu OAuth2 và Vấn đề của Xác thực Cơ bản
 
@@ -17032,9 +17032,9 @@ OAuth2 đã trở thành tiêu chuẩn thực tế để bảo mật các ứng 
 
 
 
-================================================================================
+
 FILE: 88-introduction-to-oauth2-framework.md
-================================================================================
+
 
 # Giới Thiệu Về OAuth2 Framework
 
@@ -17122,9 +17122,9 @@ OAuth2 được tích hợp mạnh mẽ trong hệ sinh thái Spring Boot thông
 
 
 
-================================================================================
+
 FILE: 89-oauth2-terminology-and-roles-guide.md
-================================================================================
+
 
 # Khung OAuth2: Hướng Dẫn Thuật Ngữ và Vai Trò
 
@@ -17273,9 +17273,9 @@ Với những kiến thức nền tảng này, giờ bạn có thể khám phá:
 
 
 
-================================================================================
+
 FILE: 9-service-discovery-and-registration-pattern.md
-================================================================================
+
 
 # Mẫu Khám Phá và Đăng Ký Dịch Vụ trong Microservices
 
@@ -17372,9 +17372,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ đi sâu vào:
 
 
 
-================================================================================
+
 FILE: 90-openid-connect-and-oauth2-explained.md
-================================================================================
+
 
 # Hiểu về OpenID Connect và OAuth2
 
@@ -17576,9 +17576,9 @@ Hiểu cả hai công nghệ và mối quan hệ của chúng là rất quan tr�
 
 
 
-================================================================================
+
 FILE: 91-authorization-server-products-and-keycloak-overview.md
-================================================================================
+
 
 # Tổng Quan về Các Sản Phẩm Authorization Server và Keycloak
 

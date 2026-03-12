@@ -1,7 +1,7 @@
 
-================================================================================
+
 FILE: 1-microservices-architecture-introduction.md
-================================================================================
+
 
 # Giới Thiệu Về Kiến Trúc Microservices
 
@@ -293,9 +293,9 @@ Mặc dù microservices mang lại độ phức tạp, nhưng ưu điểm thư�
 
 
 
-================================================================================
+
 FILE: 10-gioi-thieu-dto-pattern.md
-================================================================================
+
 
 # Giới Thiệu DTO Pattern
 
@@ -449,9 +449,9 @@ Bằng cách tuân theo DTO pattern, các microservices Spring Boot của bạn 
 
 
 
-================================================================================
+
 FILE: 11-tao-cac-lop-dto-cho-accounts-microservice.md
-================================================================================
+
 
 # Tạo Các Lớp DTO Cho Accounts Microservice
 
@@ -627,9 +627,9 @@ Bất kể quy ước đặt tên nào, nếu một dự án sử dụng các l�
 
 
 
-================================================================================
+
 FILE: 12-xay-dung-logic-nghiep-vu-rest-api-va-tang-service.md
-================================================================================
+
 
 # Xây Dựng Logic Nghiệp Vụ REST API và Tầng Service
 
@@ -959,9 +959,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ tiếp tục triển khai logic n
 
 
 
-================================================================================
+
 FILE: 13-trien-khai-create-account-api-voi-xu-ly-ngoai-le.md
-================================================================================
+
 
 # Triển Khai Create Account API Với Xử Lý Ngoại Lệ
 
@@ -1423,9 +1423,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ triển khai:
 
 
 
-================================================================================
+
 FILE: 14-trien-khai-fetch-account-api.md
-================================================================================
+
 
 # Triển Khai Fetch Account API
 
@@ -1606,9 +1606,9 @@ Trong phần tiếp theo, chúng ta sẽ triển khai các thao tác cập nhậ
 
 
 
-================================================================================
+
 FILE: 15-trien-khai-update-account-api.md
-================================================================================
+
 
 # Triển Khai Update Account API
 
@@ -1768,9 +1768,9 @@ Trong bài học tiếp theo, chúng ta sẽ triển khai **Delete Account API**
 
 
 
-================================================================================
+
 FILE: 16-trien-khai-delete-account-api.md
-================================================================================
+
 
 # Triển Khai Delete Account API
 
@@ -1921,9 +1921,9 @@ Khi khởi động lại ứng dụng với H2 database, tất cả dữ liệu 
 
 
 
-================================================================================
+
 FILE: 17-xu-ly-ngoai-le-runtime-voi-global-exception-handler.md
-================================================================================
+
 
 # Xử Lý Ngoại Lệ Runtime với Global Exception Handler
 
@@ -2061,9 +2061,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ tiếp tục xây dựng kiến t
 
 
 
-================================================================================
+
 FILE: 18-validation-du-lieu-dau-vao-trong-rest-apis.md
-================================================================================
+
 
 # Validation Dữ Liệu Đầu Vào Trong REST APIs
 
@@ -2319,9 +2319,9 @@ Validation framework rất linh hoạt và có thể được mở rộng dựa 
 
 
 
-================================================================================
+
 FILE: 19-tai-lieu-hoa-rest-apis-voi-openapi-specification.md
-================================================================================
+
 
 # Tài Liệu Hóa REST APIs với OpenAPI Specification
 
@@ -2448,9 +2448,9 @@ Thiết lập cơ bản này cung cấp tài liệu xuất sắc với nỗ lự
 
 
 
-================================================================================
+
 FILE: 2-architecture-patterns-comparison.md
-================================================================================
+
 
 # So Sánh Các Mô Hình Kiến Trúc: Monolithic vs SOA vs Microservices
 
@@ -2776,9 +2776,9 @@ Nhớ rằng: Hiểu sâu về các mô hình này sẽ giúp bạn đưa ra quy
 
 
 
-================================================================================
+
 FILE: 20-nang-cao-tai-lieu-openapi-voi-metadata.md
-================================================================================
+
 
 # Nâng Cao Tài Liệu OpenAPI Với Metadata
 
@@ -2951,9 +2951,9 @@ Bằng cách thêm metadata phù hợp vào tài liệu OpenAPI của bạn, b�
 
 
 
-================================================================================
+
 FILE: 21-nang-cao-tai-lieu-rest-api-voi-swagger-annotations.md
-================================================================================
+
 
 # Nâng Cao Tài Liệu REST API với Swagger Annotations
 
@@ -3137,9 +3137,9 @@ Bằng cách sử dụng các annotation `@Tag`, `@Operation`, `@ApiResponse`, v
 
 
 
-================================================================================
+
 FILE: 22-nang-cao-tai-lieu-schema-voi-schema-annotations.md
-================================================================================
+
 
 # Nâng Cao Tài Liệu Schema với @Schema Annotations
 
@@ -3389,9 +3389,9 @@ Những cải tiến này làm cho các API microservices của bạn chuyên ng
 
 
 
-================================================================================
+
 FILE: 23-cai-thien-ma-trang-thai-http-cho-phan-hoi-loi.md
-================================================================================
+
 
 # Cải Thiện Mã Trạng Thái HTTP Cho Phản Hồi Lỗi
 
@@ -3500,9 +3500,9 @@ Schema ErrorResponseDto giờ đây được hiển thị đúng cách trong ph�
 
 
 
-================================================================================
+
 FILE: 24-tong-ket-cac-annotation-spring-boot-cho-rest-services.md
-================================================================================
+
 
 # Tổng Kết Các Annotation Spring Boot Cho REST Services
 
@@ -3775,9 +3775,9 @@ Những annotation và class này tạo thành nền tảng cho việc phát tri
 
 
 
-================================================================================
+
 FILE: 25-xay-dung-cards-va-loans-microservices-bai-tap.md
-================================================================================
+
 
 # Xây Dựng Cards và Loans Microservices - Bài Tập
 
@@ -3928,9 +3928,9 @@ Giảng viên sẽ xem xét và giải thích tất cả mã nguồn có trong c
 
 
 
-================================================================================
+
 FILE: 26-xay-dung-loans-microservice-tong-quan.md
-================================================================================
+
 
 # Xây Dựng Loans Microservice - Tổng Quan
 
@@ -4306,9 +4306,9 @@ Tất cả các mẫu và thực hành sẽ được lặp lại trong Cards mic
 
 
 
-================================================================================
+
 FILE: 27-xay-dung-cards-microservice-tong-quan.md
-================================================================================
+
 
 # Xây Dựng Cards Microservice - Tổng Quan
 
@@ -4908,9 +4908,9 @@ Hành trình tiếp tục ở phần tiếp theo, nơi các microservices này s
 
 
 
-================================================================================
+
 FILE: 28-kich-thuoc-hop-ly-va-ranh-gioi-microservices.md
-================================================================================
+
 
 # Kích Thước Hợp Lý và Ranh Giới Microservices
 
@@ -5190,9 +5190,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ áp dụng các nguyên tắc kí
 
 
 
-================================================================================
+
 FILE: 28-right-sizing-microservices-va-ranh-gioi-dich-vu.md
-================================================================================
+
 
 # Right-Sizing Microservices và Ranh Giới Dịch Vụ
 
@@ -5312,9 +5312,9 @@ Right-sizing microservices là một quá trình lặp đi lặp lại. Bắt đ
 
 
 
-================================================================================
+
 FILE: 29-strangler-fig-pattern-cho-viec-migrate-microservices.md
-================================================================================
+
 
 # Strangler Fig Pattern cho việc Migration Microservices
 
@@ -5442,9 +5442,9 @@ Bằng cách tuân theo pattern này, các development team có thể hiện đ�
 
 
 
-================================================================================
+
 FILE: 3-microservices-definition.md
-================================================================================
+
 
 # Định nghĩa và Tổng quan về Microservices
 
@@ -5521,9 +5521,9 @@ Khi được hỏi "Microservices là gì?" bạn có thể sử dụng định 
 
 
 
-================================================================================
+
 FILE: 30-containerization-challenges-and-docker-introduction.md
-================================================================================
+
 
 # Thách Thức Containerization và Giới Thiệu Docker
 
@@ -5694,9 +5694,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá kiến trúc nội b�
 
 
 
-================================================================================
+
 FILE: 30-thach-thuc-containerization-va-gioi-thieu-docker.md
-================================================================================
+
 
 # Thách Thức Containerization và Giới Thiệu Docker
 
@@ -5836,9 +5836,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 31-containers-vs-virtual-machines.md
-================================================================================
+
 
 # Container so với Máy ảo trong Triển khai Microservices
 
@@ -6004,9 +6004,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ thấy những lợi ích n�
 
 
 
-================================================================================
+
 FILE: 32-kien-truc-va-cac-thanh-phan-docker.md
-================================================================================
+
 
 # Kiến Trúc và Các Thành Phần Docker
 
@@ -6173,9 +6173,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ đề cập đến cách cài đ�
 
 
 
-================================================================================
+
 FILE: 33-cai-dat-docker-desktop.md
-================================================================================
+
 
 # Cài Đặt Docker Desktop
 
@@ -6458,9 +6458,9 @@ docker ps
 
 
 
-================================================================================
+
 FILE: 34-tong-quan-cac-phuong-phap-tao-docker-image.md
-================================================================================
+
 
 # Các Phương Pháp Tạo Docker Image cho Microservices
 
@@ -6560,9 +6560,9 @@ Mỗi phương pháp có những ưu điểm và nhược điểm riêng, sẽ �
 
 
 
-================================================================================
+
 FILE: 35-tao-dockerfile-cho-accounts-microservice.md
-================================================================================
+
 
 # Tạo Dockerfile cho Accounts Microservice
 
@@ -6691,9 +6691,9 @@ Trong bài học tiếp theo, chúng ta sẽ sử dụng Dockerfile này để t
 
 
 
-================================================================================
+
 FILE: 36-xay-dung-docker-images-cho-accounts-microservice.md
-================================================================================
+
 
 # Xây Dựng Docker Images cho Accounts Microservice
 
@@ -6868,9 +6868,9 @@ Trong hướng dẫn này, bạn đã học:
 
 
 
-================================================================================
+
 FILE: 37-chay-docker-containers-tu-docker-images.md
-================================================================================
+
 
 # Chạy Docker Containers từ Docker Images
 
@@ -7302,9 +7302,9 @@ docker exec -it <container-id> /bin/bash
 
 
 
-================================================================================
+
 FILE: 38-nhuoc-diem-cua-dockerfile-va-cac-giai-phap-thay-the.md
-================================================================================
+
 
 # Nhược Điểm Của Dockerfile Approach và Các Giải Pháp Thay Thế
 
@@ -7606,9 +7606,9 @@ Trong các bài giảng sắp tới, chúng ta sẽ khám phá chi tiết cả h
 
 
 
-================================================================================
+
 FILE: 39-xay-dung-docker-images-voi-buildpacks.md
-================================================================================
+
 
 # Xây Dựng Docker Images Với Buildpacks
 
@@ -7927,7 +7927,7 @@ WARNING: The requested image's platform (linux/amd64) does not match...
 ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
   '  |____| .__|_| |_|_| |_\__, | / / / /
- =========|_|==============|___/=/_/_/_/
+ =|_||___/=/_/_/_/
  :: Spring Boot ::               (v3.x.x)
 
 ...
@@ -8107,9 +8107,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá phương pháp thứ b
 
 
 
-================================================================================
+
 FILE: 4-xay-dung-microservices-voi-spring-boot.md
-================================================================================
+
 
 # Xây Dựng Microservices với Spring Boot
 
@@ -8185,9 +8185,9 @@ Từ bài giảng tiếp theo, chúng ta sẽ bước vào thế giới của Sp
 
 
 
-================================================================================
+
 FILE: 40-xay-dung-docker-images-voi-google-jib.md
-================================================================================
+
 
 # Xây Dựng Docker Images với Google Jib
 
@@ -8431,9 +8431,9 @@ Trong bài học tiếp theo, chúng ta sẽ so sánh cả ba phương pháp (Do
 
 
 
-================================================================================
+
 FILE: 41-so-sanh-cac-phuong-phap-tao-docker-image.md
-================================================================================
+
 
 # So Sánh Các Phương Pháp Tạo Docker Image
 
@@ -8603,9 +8603,9 @@ Bảng so sánh do Buildpacks cung cấp cho thấy nhiều ưu điểm, và tro
 
 
 
-================================================================================
+
 FILE: 42-day-va-keo-docker-images-len-docker-hub.md
-================================================================================
+
 
 # Đẩy và Kéo Docker Images lên Docker Hub
 
@@ -8815,9 +8815,9 @@ Trong bài học tiếp theo, chúng ta sẽ khám phá các khái niệm Docker
 
 
 
-================================================================================
+
 FILE: 43-gioi-thieu-docker-compose-va-cau-hinh.md
-================================================================================
+
 
 # Giới Thiệu Docker Compose và Cấu Hình
 
@@ -9188,9 +9188,9 @@ Docker Compose đơn giản hóa quản lý microservices bằng cách thay th�
 
 
 
-================================================================================
+
 FILE: 44-khoi-dong-microservices-voi-docker-compose.md
-================================================================================
+
 
 # Khởi Động Microservices với Docker Compose
 
@@ -9387,9 +9387,9 @@ Hãy chắc chắn rằng bạn hiểu cấu trúc và cú pháp của file Dock
 
 
 
-================================================================================
+
 FILE: 45-docker-compose-commands-start-stop-up-down.md
-================================================================================
+
 
 # Các Lệnh Docker Compose: Start, Stop, Up và Down
 
@@ -9523,9 +9523,9 @@ Chọn lệnh phù hợp dựa trên việc bạn muốn bảo toàn hay xóa co
 
 
 
-================================================================================
+
 FILE: 46-docker-extensions-and-logs-explorer.md
-================================================================================
+
 
 # Docker Extensions và Logs Explorer
 
@@ -9639,9 +9639,9 @@ Docker extensions, đặc biệt là Logs Explorer, có thể cải thiện đá
 
 
 
-================================================================================
+
 FILE: 47-docker-commands-reference.md
-================================================================================
+
 
 # Các Lệnh Docker Cơ Bản Sử Dụng Hàng Ngày
 
@@ -9947,9 +9947,9 @@ Nhớ rằng: Chọn cách tiếp cận phù hợp nhất với bạn—lệnh C
 
 
 
-================================================================================
+
 FILE: 48-cloud-native-applications-definition.md
-================================================================================
+
 
 # Ứng Dụng Cloud Native - Định Nghĩa
 
@@ -10070,9 +10070,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 49-dac-diem-ung-dung-cloud-native.md
-================================================================================
+
 
 # Ứng Dụng Cloud Native - Các Đặc Điểm Chính
 
@@ -10178,9 +10178,9 @@ Khi bạn thấy một ứng dụng tuân theo tất cả các đặc điểm n�
 
 
 
-================================================================================
+
 FILE: 5-gioi-thieu-spring-boot-framework.md
-================================================================================
+
 
 # Giới Thiệu Spring Boot Framework
 
@@ -10341,9 +10341,9 @@ Trong các bài học tiếp theo, chúng ta sẽ:
 
 
 
-================================================================================
+
 FILE: 50-so-sanh-ung-dung-cloud-native-va-truyen-thong.md
-================================================================================
+
 
 # Ứng Dụng Cloud Native So Với Ứng Dụng Truyền Thống
 
@@ -10458,9 +10458,9 @@ Bây giờ bạn đã hiểu về những lợi thế của ứng dụng cloud-n
 
 
 
-================================================================================
+
 FILE: 51-12-15-factor-methodology-gioi-thieu.md
-================================================================================
+
 
 # Giới Thiệu về Phương Pháp Luận 12/15-Factor
 
@@ -10551,9 +10551,9 @@ Trong các bài giảng sắp tới, chúng ta sẽ:
 
 
 
-================================================================================
+
 FILE: 52-15-factor-methodology-nam-nguyen-tac-dau-tien.md
-================================================================================
+
 
 # Phương Pháp Luận 15-Factor: Năm Nguyên Tắc Đầu Tiên
 
@@ -10781,9 +10781,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ thảo luận về các nguyên t
 
 
 
-================================================================================
+
 FILE: 53-15-factor-methodology-nguyen-tac-sau-den-muoi.md
-================================================================================
+
 
 # Phương Pháp Luận 15-Factor: Nguyên Tắc Sáu Đến Mười
 
@@ -11206,9 +11206,9 @@ Chúng ta đã đề cập đến 10 trong số 15 nguyên tắc. Trong bài gi�
 
 
 
-================================================================================
+
 FILE: 54-15-factor-methodology-principles-eleven-to-fifteen.md
-================================================================================
+
 
 # Phương Pháp Luận 15-Factor: Các Nguyên Tắc 11-15 Cho Ứng Dụng Cloud-Native
 
@@ -11467,9 +11467,9 @@ Khóa học này sẽ triển khai tất cả các nguyên tắc này một các
 
 
 
-================================================================================
+
 FILE: 55-configuration-management-in-microservices.md
-================================================================================
+
 
 # Quản Lý Cấu Hình Trong Microservices
 
@@ -11619,9 +11619,9 @@ Quản lý cấu hình là thiết yếu để xây dựng microservices có kh�
 
 
 
-================================================================================
+
 FILE: 56-configuration-management-in-spring-boot-microservices.md
-================================================================================
+
 
 # Quản Lý Cấu Hình trong Spring Boot Microservices
 
@@ -11793,9 +11793,9 @@ Spring Boot cung cấp quản lý cấu hình linh hoạt thông qua nhiều ph�
 
 
 
-================================================================================
+
 FILE: 57-reading-properties-with-value-annotation.md
-================================================================================
+
 
 # Đọc Thuộc Tính với Annotation @Value trong Spring Boot
 
@@ -11977,9 +11977,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá phương pháp thứ h
 
 
 
-================================================================================
+
 FILE: 58-reading-environment-properties-with-environment-interface.md
-================================================================================
+
 
 # Đọc Thuộc Tính Môi Trường với Environment Interface
 
@@ -12106,9 +12106,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá **Phương Pháp Thứ
 
 
 
-================================================================================
+
 FILE: 59-configuration-properties-approach.md
-================================================================================
+
 
 # Đọc Nhiều Configuration Properties với @ConfigurationProperties
 
@@ -12292,9 +12292,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá các tính năng nâng
 
 
 
-================================================================================
+
 FILE: 6-kien-thuc-co-ban-ve-rest-services.md
-================================================================================
+
 
 # Kiến Thức Cơ Bản Về REST Services
 
@@ -12417,9 +12417,9 @@ Các tiêu chuẩn này đảm bảo bạn ở vị trí tốt để xây dựng
 
 
 
-================================================================================
+
 FILE: 60-spring-boot-profiles-configuration.md
-================================================================================
+
 
 # Spring Boot Profiles cho Cấu Hình Theo Môi Trường
 
@@ -12628,9 +12628,9 @@ Trong các phần sắp tới, chúng ta sẽ thực hiện:
 
 
 
-================================================================================
+
 FILE: 61-implementing-spring-boot-profiles-in-microservices.md
-================================================================================
+
 
 # Triển Khai Spring Boot Profiles trong Microservices
 
@@ -13030,9 +13030,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 62-externalizing-spring-boot-configuration.md
-================================================================================
+
 
 # Cấu Hình Bên Ngoài Cho Spring Boot
 
@@ -13579,9 +13579,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ:
 
 
 
-================================================================================
+
 FILE: 63-spring-boot-profiles-externalized-configuration.md
-================================================================================
+
 
 # Spring Boot Profiles và Cấu Hình Bên Ngoài (Externalized Configuration)
 
@@ -13754,9 +13754,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ khám phá các phương ph�
 
 
 
-================================================================================
+
 FILE: 64-spring-boot-profiles-assignment-cards-loans.md
-================================================================================
+
 
 # Bài Tập Spring Boot Profiles - Cards và Loans Microservices
 
@@ -13850,9 +13850,9 @@ Chúc bạn may mắn với bài tập! Bài giảng tiếp theo sẽ xem xét g
 
 
 
-================================================================================
+
 FILE: 65-implementing-spring-boot-profiles-cards-loans-solution.md
-================================================================================
+
 
 # Triển Khai Spring Boot Profiles trong Cards và Loans Microservices - Hướng Dẫn Giải Pháp
 
@@ -14260,9 +14260,9 @@ Tiếp tục bài giảng tiếp theo để hiểu:
 
 
 
-================================================================================
+
 FILE: 66-han-che-cau-hinh-spring-boot-va-giai-phap.md
-================================================================================
+
 
 # Hạn Chế Cấu Hình Spring Boot và Giải Pháp
 
@@ -14380,9 +14380,9 @@ Các bài giảng tiếp theo sẽ đề cập đến việc triển khai và s�
 
 
 
-================================================================================
+
 FILE: 67-spring-cloud-config-introduction.md
-================================================================================
+
 
 # Giới Thiệu Spring Cloud Config
 
@@ -14503,9 +14503,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ bắt đầu triển khai Sp
 
 
 
-================================================================================
+
 FILE: 68-tao-spring-cloud-config-server.md
-================================================================================
+
 
 # Tạo Spring Cloud Config Server
 
@@ -14690,9 +14690,9 @@ Tất cả bốn dự án Maven nên được load trong IntelliJ workspace củ
 
 
 
-================================================================================
+
 FILE: 69-luu-tru-cau-hinh-microservices-trong-config-server.md
-================================================================================
+
 
 # Lưu Trữ Cấu Hình Microservices Trong Config Server
 
@@ -14849,9 +14849,9 @@ Bài học tiếp theo sẽ đề cập đến việc thiết lập kết nối 
 
 
 
-================================================================================
+
 FILE: 7-tao-rest-api-voi-spring-boot.md
-================================================================================
+
 
 # Tạo REST API trong Spring Boot
 
@@ -15017,9 +15017,9 @@ Trong các bài giảng sắp tới, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 70-integrating-microservices-with-spring-cloud-config-server.md
-================================================================================
+
 
 # Tích Hợp Microservices với Spring Cloud Config Server
 
@@ -15240,9 +15240,9 @@ Microservice accounts bây giờ tải tất cả cấu hình của nó từ Con
 
 
 
-================================================================================
+
 FILE: 71-integrating-cards-and-loans-microservices-with-config-server.md
-================================================================================
+
 
 # Tích Hợp Microservices Cards và Loans với Config Server
 
@@ -15563,9 +15563,9 @@ Nếu tích hợp không hoạt động, hãy xác minh:
 
 
 
-================================================================================
+
 FILE: 72-storing-config-server-configurations-in-file-system.md
-================================================================================
+
 
 # Lưu Trữ Cấu Hình Spring Cloud Config Server Trong File System
 
@@ -16038,9 +16038,9 @@ Bạn đã thành công:
 
 
 
-================================================================================
+
 FILE: 73-config-server-github-integration.md
-================================================================================
+
 
 # Lưu Trữ Thuộc Tính Cấu Hình trong GitHub Repository
 
@@ -16247,9 +16247,9 @@ Sử dụng GitHub làm backend cho Spring Cloud Config Server cung cấp một 
 
 
 
-================================================================================
+
 FILE: 74-refreshing-microservices-configuration-dynamically.md
-================================================================================
+
 
 # Làm mới cấu hình Microservices một cách động
 
@@ -16515,9 +16515,9 @@ Tôi hy vọng bạn đã hiểu rõ. Cảm ơn bạn và tôi sẽ gặp bạn 
 
 
 
-================================================================================
+
 FILE: 75-refreshing-microservices-configuration-without-restart.md
-================================================================================
+
 
 # Làm Mới Cấu Hình Microservices Không Cần Khởi Động Lại
 
@@ -16747,9 +16747,9 @@ Các giải pháp tạm thời này có thể không thuận tiện cho tất c�
 
 
 
-================================================================================
+
 FILE: 76-spring-cloud-bus-configuration-refresh.md
-================================================================================
+
 
 # Làm mới cấu hình Microservices với Spring Cloud Bus
 
@@ -17017,9 +17017,9 @@ Phương pháp này đạt được sự cân bằng giữa tính đơn giản t
 
 
 
-================================================================================
+
 FILE: 77-lam-moi-cau-hinh-dong-voi-spring-cloud-bus.md
-================================================================================
+
 
 # Spring Cloud Bus để Làm Mới Cấu Hình Động
 
@@ -17220,9 +17220,9 @@ POST http://localhost:8080/actuator/bus-refresh
 
 
 
-================================================================================
+
 FILE: 78-automating-configuration-refresh-with-github-webhooks.md
-================================================================================
+
 
 # Tự Động Làm Mới Cấu Hình với GitHub Webhooks và Spring Cloud Config Monitor
 
@@ -17510,9 +17510,9 @@ Càng chịu trách nhiệm nhiều (chạy RabbitMQ, cấu hình webhooks), ki�
 
 
 
-================================================================================
+
 FILE: 79-docker-compose-configuration-for-microservices.md
-================================================================================
+
 
 # Cấu Hình Docker Compose cho Microservices Spring Boot với Config Server
 
@@ -17757,9 +17757,9 @@ Bước tiếp theo là triển khai health checks và phụ thuộc services ph
 
 
 
-================================================================================
+
 FILE: 8-cau-hinh-h2-database-va-yaml-properties.md
-================================================================================
+
 
 # Cấu Hình H2 Database và YAML Properties trong Spring Boot
 
@@ -18046,9 +18046,9 @@ Bài học này đề cập đến cấu hình cần thiết cho H2 database tro
 
 
 
-================================================================================
+
 FILE: 80-liveness-and-readiness-probes-in-microservices.md
-================================================================================
+
 
 # Liveness và Readiness Probes trong Microservices
 
@@ -18222,9 +18222,9 @@ Bằng cách triển khai các probes này trong các microservices Spring Boot 
 
 
 
-================================================================================
+
 FILE: 81-docker-compose-health-checks-and-dependencies.md
-================================================================================
+
 
 # Kiểm Tra Sức Khỏe và Phụ Thuộc Dịch Vụ trong Docker Compose
 
@@ -18437,9 +18437,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ tối ưu file docker-compose.yml
 
 
 
-================================================================================
+
 FILE: 82-toi-uu-hoa-docker-compose-voi-cau-hinh-chung.md
-================================================================================
+
 
 # Tối Ưu Hóa Docker Compose Với Cấu Hình Chung
 
@@ -18608,9 +18608,9 @@ Trong bài học tiếp theo, chúng ta sẽ tạo các Docker image để kiể
 
 
 
-================================================================================
+
 FILE: 83-xay-dung-va-day-docker-images-cho-microservices.md
-================================================================================
+
 
 # Xây Dựng và Đẩy Docker Images cho Microservices
 
@@ -18850,9 +18850,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ kiểm tra file Docker Compose v�
 
 
 
-================================================================================
+
 FILE: 84-docker-compose-configuration-and-rabbitmq-integration.md
-================================================================================
+
 
 # Cấu Hình Docker Compose và Tích Hợp RabbitMQ cho Microservices
 
@@ -19098,9 +19098,9 @@ Thiết lập Docker Compose với tích hợp RabbitMQ cho phép cập nhật c
 
 
 
-================================================================================
+
 FILE: 85-cau-hinh-docker-compose-da-moi-truong.md
-================================================================================
+
 
 # Cấu Hình Docker Compose Đa Môi Trường Cho Microservices
 
@@ -19304,9 +19304,9 @@ Phản hồi của bạn rất có giá trị! Vui lòng:
 
 
 
-================================================================================
+
 FILE: 9-tao-entity-classes-va-repositories.md
-================================================================================
+
 
 # Tạo Entity Classes và Repository Interfaces với Spring Data JPA
 

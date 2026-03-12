@@ -49,7 +49,7 @@ def concatenate_files(source_folder, output_file):
     
     print(f"\n✓ Successfully concatenated {len(files)} files into '{output_file}'")
 
-if __name__ == "__main__":
+if __name__  "__main__":
     # Define paths
     source_folder = r"D:\doc\aws\part-1\vn"
     output_file = r"D:\doc\aws\part-1\vn\combined_all_files.md"

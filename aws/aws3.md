@@ -1,7 +1,7 @@
 
-================================================================================
+
 FILE: 1-docker-ecs-eks-gioi-thieu.md
-================================================================================
+
 
 # Giới thiệu về Docker, ECS và EKS trên AWS
 
@@ -128,9 +128,9 @@ Tiếp theo, chúng ta sẽ tìm hiểu sâu về Amazon ECS và khám phá chi 
 
 
 
-================================================================================
+
 FILE: 10-ecs-task-placement-strategies-and-constraints.md
-================================================================================
+
 
 # Chiến lược và Ràng buộc Đặt Task trong ECS
 
@@ -278,9 +278,9 @@ Các ràng buộc thêm quy tắc để kiểm soát nơi có thể đặt task.
 
 
 
-================================================================================
+
 FILE: 11-xoa-ecs-resources-huong-dan-don-dep.md
-================================================================================
+
 
 # Xóa ECS Resources - Hướng Dẫn Dọn Dẹp
 
@@ -380,9 +380,9 @@ Vậy là xong! Bạn đã dọn dẹp thành công các tài nguyên ECS của 
 
 
 
-================================================================================
+
 FILE: 12-amazon-ecr-gioi-thieu.md
-================================================================================
+
 
 # Giới Thiệu Amazon ECR
 
@@ -436,9 +436,9 @@ Amazon ECR cung cấp một số tính năng quan trọng:
 
 
 
-================================================================================
+
 FILE: 13-su-dung-aws-cli-day-va-keo-images-vao-amazon-ecr.md
-================================================================================
+
 
 # Sử Dụng AWS CLI để Đẩy và Kéo Images vào Amazon ECR
 
@@ -607,9 +607,9 @@ Sử dụng Amazon ECR cho container images của bạn cung cấp bảo mật, 
 
 
 
-================================================================================
+
 FILE: 14-aws-copilot-tong-quan.md
-================================================================================
+
 
 # Tổng Quan về AWS Copilot
 
@@ -685,9 +685,9 @@ AWS Copilot là công cụ lý tưởng cho các nhóm muốn triển khai ứng
 
 
 
-================================================================================
+
 FILE: 15-aws-copilot-huong-dan-bat-dau.md
-================================================================================
+
 
 # AWS Copilot - Hướng Dẫn Bắt Đầu
 
@@ -877,9 +877,9 @@ AWS Copilot đơn giản hóa đáng kể quá trình triển khai các ứng d�
 
 
 
-================================================================================
+
 FILE: 16-amazon-eks-gioi-thieu.md
-================================================================================
+
 
 # Amazon EKS - Giới Thiệu
 
@@ -969,9 +969,9 @@ Bạn có thể gắn data volumes vào Amazon EKS cluster bằng cách:
 
 
 
-================================================================================
+
 FILE: 17-aws-elastic-beanstalk-gioi-thieu.md
-================================================================================
+
 
 # Giới Thiệu AWS Elastic Beanstalk
 
@@ -1004,9 +1004,9 @@ Vậy, hãy bắt đầu, và học cách triển khai một ứng dụng theo �
 
 
 
-================================================================================
+
 FILE: 18-aws-elastic-beanstalk-tong-quan-va-kien-truc.md
-================================================================================
+
 
 # AWS Elastic Beanstalk: Tổng Quan và Kiến Trúc
 
@@ -1163,9 +1163,9 @@ AWS Elastic Beanstalk đơn giản hóa việc triển khai ứng dụng bằng 
 
 
 
-================================================================================
+
 FILE: 19-aws-elastic-beanstalk-huong-dan-thuc-hanh.md
-================================================================================
+
 
 # AWS Elastic Beanstalk - Hướng Dẫn Thực Hành
 
@@ -1405,9 +1405,9 @@ Elastic Beanstalk đơn giản hóa việc triển khai ứng dụng bằng các
 
 
 
-================================================================================
+
 FILE: 2-amazon-ecs-tong-quan.md
-================================================================================
+
 
 # Tổng quan về Amazon ECS
 
@@ -1539,9 +1539,9 @@ Kết hợp với IAM role phù hợp, tích hợp load balancer, và Amazon EFS
 
 
 
-================================================================================
+
 FILE: 20-tao-elastic-beanstalk-environment-cao-kha-dung.md
-================================================================================
+
 
 # Tạo Môi Trường Elastic Beanstalk Có Tính Khả Dụng Cao
 
@@ -1746,9 +1746,9 @@ Bây giờ bạn đã có hai môi trường Beanstalk hoạt động đầy đ�
 
 
 
-================================================================================
+
 FILE: 21-aws-elastic-beanstalk-cac-chien-luoc-trien-khai.md
-================================================================================
+
 
 # Các Chiến Lược Triển Khai AWS Elastic Beanstalk
 
@@ -1986,9 +1986,9 @@ Hiểu rõ sự đánh đổi giữa tốc độ, chi phí, thời gian ngừng 
 
 
 
-================================================================================
+
 FILE: 22-aws-elastic-beanstalk-cap-nhat-trien-khai-va-chien-luoc.md
-================================================================================
+
 
 # AWS Elastic Beanstalk - Cập Nhật Triển Khai và Chiến Lược
 
@@ -2179,9 +2179,9 @@ Hoán đổi môi trường cho phép triển khai blue/green và cập nhật p
 
 
 
-================================================================================
+
 FILE: 23-elastic-beanstalk-cli-va-quy-trinh-trien-khai.md
-================================================================================
+
 
 # Elastic Beanstalk CLI và Quy Trình Triển Khai
 
@@ -2269,9 +2269,9 @@ Việc tự động hóa này giúp quy trình triển khai nhanh hơn và hiệ
 
 
 
-================================================================================
+
 FILE: 24-aws-elastic-beanstalk-lifecycle-policy.md
-================================================================================
+
 
 # AWS Elastic Beanstalk Lifecycle Policy - Chính Sách Vòng Đời
 
@@ -2368,9 +2368,9 @@ Hiểu và cấu hình đúng chính sách vòng đời đảm bảo triển kha
 
 
 
-================================================================================
+
 FILE: 25-aws-elastic-beanstalk-extensions.md
-================================================================================
+
 
 # AWS Elastic Beanstalk Extensions
 
@@ -2510,9 +2510,9 @@ Các giá trị này sẽ được thiết lập tự động từ các file c�
 
 
 
-================================================================================
+
 FILE: 26-elastic-beanstalk-cloudformation-ben-trong-hoat-dong.md
-================================================================================
+
 
 # Elastic Beanstalk Bên Trong Hoạt Động: Tích Hợp CloudFormation
 
@@ -2610,9 +2610,9 @@ Kiến trúc này cho phép bạn mở rộng các ứng dụng Elastic Beanstal
 
 
 
-================================================================================
+
 FILE: 27-elastic-beanstalk-sao-chep-moi-truong.md
-================================================================================
+
 
 # AWS Elastic Beanstalk - Sao Chép Môi Trường
 
@@ -2682,9 +2682,9 @@ Tính năng sao chép môi trường của Elastic Beanstalk đơn giản hóa q
 
 
 
-================================================================================
+
 FILE: 28-aws-elastic-beanstalk-huong-dan-migration.md
-================================================================================
+
 
 # Hướng Dẫn Migration AWS Elastic Beanstalk
 
@@ -2792,9 +2792,9 @@ Những pattern này thường được kiểm tra trong các kỳ thi chứng c
 
 
 
-================================================================================
+
 FILE: 29-aws-elastic-beanstalk-huong-dan-don-dep.md
-================================================================================
+
 
 # AWS Elastic Beanstalk - Hướng Dẫn Dọn Dẹp và Xóa Tài Nguyên
 
@@ -2862,9 +2862,9 @@ Việc dọn dẹp đúng cách các ứng dụng Elastic Beanstalk là một ph
 
 
 
-================================================================================
+
 FILE: 3-tao-amazon-ecs-cluster-dau-tien.md
-================================================================================
+
 
 # Tạo Amazon ECS Cluster Đầu Tiên
 
@@ -3032,9 +3032,9 @@ Trong bài học tiếp theo, chúng ta sẽ tìm hiểu cách triển khai và 
 
 
 
-================================================================================
+
 FILE: 30-aws-cloudformation-gioi-thieu.md
-================================================================================
+
 
 # Giới Thiệu AWS CloudFormation
 
@@ -3153,9 +3153,9 @@ Trong các phần tiếp theo, chúng ta sẽ khám phá tất cả các thành 
 
 
 
-================================================================================
+
 FILE: 31-aws-cloudformation-huong-dan-thuc-hanh.md
-================================================================================
+
 
 # Hướng Dẫn Thực Hành AWS CloudFormation
 
@@ -3368,9 +3368,9 @@ Bây giờ bạn đã tạo thành công EC2 instance đầu tiên sử dụng C
 
 
 
-================================================================================
+
 FILE: 32-aws-cloudformation-huong-dan-cap-nhat-stack.md
-================================================================================
+
 
 # AWS CloudFormation: Hướng Dẫn Cập Nhật Stack
 
@@ -3566,9 +3566,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá các tính năng nâng
 
 
 
-================================================================================
+
 FILE: 33-aws-cloudformation-gioi-thieu-yaml.md
-================================================================================
+
 
 # AWS CloudFormation: Giới Thiệu Về YAML
 
@@ -3734,9 +3734,9 @@ Bằng cách thành thạo YAML, bạn sẽ có thể đọc, hiểu và viết 
 
 
 
-================================================================================
+
 FILE: 34-aws-cloudformation-tai-nguyen-huong-dan.md
-================================================================================
+
 
 # Hướng Dẫn Về Resources Trong AWS CloudFormation
 
@@ -3863,9 +3863,9 @@ Hiểu cách tạo resources và điều hướng tài liệu là điều cần 
 
 
 
-================================================================================
+
 FILE: 35-aws-cloudformation-parameters-tim-hieu-sau.md
-================================================================================
+
 
 # AWS CloudFormation Parameters - Tìm Hiểu Sâu
 
@@ -4057,9 +4057,9 @@ Bằng cách thành thạo parameters, bạn có thể tạo các CloudFormation
 
 
 
-================================================================================
+
 FILE: 36-aws-cloudformation-mappings-huong-dan.md
-================================================================================
+
 
 # Hướng Dẫn AWS CloudFormation Mappings
 
@@ -4175,9 +4175,9 @@ Mappings là một tính năng mạnh mẽ trong CloudFormation cung cấp tính
 
 
 
-================================================================================
+
 FILE: 37-aws-cloudformation-outputs-huong-dan.md
-================================================================================
+
 
 # Hướng Dẫn AWS CloudFormation Outputs
 
@@ -4314,9 +4314,9 @@ Bằng cách sử dụng outputs một cách hiệu quả, bạn có thể xây 
 
 
 
-================================================================================
+
 FILE: 38-aws-cloudformation-conditions-huong-dan.md
-================================================================================
+
 
 # Hướng Dẫn AWS CloudFormation Conditions
 
@@ -4402,9 +4402,9 @@ CloudFormation Conditions cung cấp một cách mạnh mẽ để tạo các te
 
 
 
-================================================================================
+
 FILE: 39-aws-cloudformation-intrinsic-functions-huong-dan.md
-================================================================================
+
 
 # Hướng Dẫn Các Hàm Intrinsic của AWS CloudFormation
 
@@ -4698,9 +4698,9 @@ Hiểu các hàm này rất quan trọng cho cả việc sử dụng CloudFormat
 
 
 
-================================================================================
+
 FILE: 4-tao-ecs-service-voi-fargate.md
-================================================================================
+
 
 # Tạo ECS Service với AWS Fargate
 
@@ -4962,9 +4962,9 @@ Trong hướng dẫn này, bạn đã học cách:
 
 
 
-================================================================================
+
 FILE: 40-aws-cloudformation-rollbacks-va-xu-ly-loi.md
-================================================================================
+
 
 # AWS CloudFormation Rollbacks và Xử Lý Lỗi
 
@@ -5101,9 +5101,9 @@ Khi bạn hoàn thành việc kiểm tra hoặc khắc phục sự cố, luôn x
 
 
 
-================================================================================
+
 FILE: 41-aws-cloudformation-service-roles-va-bao-mat.md
-================================================================================
+
 
 # AWS CloudFormation Service Roles và Bảo Mật
 
@@ -5203,9 +5203,9 @@ CloudFormation service roles cung cấp cách thức an toàn để quản lý h
 
 
 
-================================================================================
+
 FILE: 42-aws-cloudformation-capabilities-huong-dan.md
-================================================================================
+
 
 # Hướng Dẫn Về CloudFormation Capabilities (Khả Năng)
 
@@ -5307,9 +5307,9 @@ Bằng cách yêu cầu các khả năng này, AWS đảm bảo rằng bạn bi�
 
 
 
-================================================================================
+
 FILE: 43-aws-cloudformation-deletion-policy-huong-dan.md
-================================================================================
+
 
 # Hướng Dẫn AWS CloudFormation DeletionPolicy
 
@@ -5456,9 +5456,9 @@ DeletionPolicy cung cấp khả năng kiểm soát mạnh mẽ đối với qu�
 
 
 
-================================================================================
+
 FILE: 44-aws-cloudformation-stack-policies-huong-dan.md
-================================================================================
+
 
 # Hướng Dẫn AWS CloudFormation Stack Policies
 
@@ -5552,9 +5552,9 @@ Hiểu về Stack policies rất quan trọng cho các kỳ thi chứng chỉ AW
 
 
 
-================================================================================
+
 FILE: 45-aws-cloudformation-termination-protection.md
-================================================================================
+
 
 # Bảo Vệ Chống Xóa AWS CloudFormation (Termination Protection)
 
@@ -5637,9 +5637,9 @@ Termination Protection là một tính năng đơn giản nhưng mạnh mẽ, b�
 
 
 
-================================================================================
+
 FILE: 46-aws-cloudformation-custom-resources.md
-================================================================================
+
 
 # AWS CloudFormation Custom Resources (Tài Nguyên Tùy Chỉnh)
 
@@ -5747,9 +5747,9 @@ Thành Công
 
 
 
-================================================================================
+
 FILE: 47-aws-cloudformation-stacksets-guide.md
-================================================================================
+
 
 # Hướng Dẫn AWS CloudFormation StackSets
 
@@ -5822,9 +5822,9 @@ CloudFormation StackSets là một công cụ thiết yếu cho việc quản l�
 
 
 
-================================================================================
+
 FILE: 48-aws-application-integration-introduction.md
-================================================================================
+
 
 # Tích Hợp Ứng Dụng AWS - Giới Thiệu
 
@@ -5868,9 +5868,9 @@ Trong phần này, bạn sẽ có kinh nghiệm thực hành với:
 
 
 
-================================================================================
+
 FILE: 49-aws-integration-and-messaging-introduction.md
-================================================================================
+
 
 # AWS Integration và Messaging - Giới Thiệu
 
@@ -5981,9 +5981,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ đi sâu vào từng dịch 
 
 
 
-================================================================================
+
 FILE: 5-ecs-service-auto-scaling.md
-================================================================================
+
 
 # Tự Động Mở Rộng ECS Service (ECS Service Auto Scaling)
 
@@ -6064,9 +6064,9 @@ Khi sử dụng EC2 launch type, bạn có hai tùy chọn để mở rộng cá
 
 
 
-================================================================================
+
 FILE: 50-amazon-sqs-gioi-thieu-va-tong-quan.md
-================================================================================
+
 
 # Amazon SQS - Giới Thiệu và Tổng Quan
 
@@ -6302,9 +6302,9 @@ Amazon SQS là một dịch vụ hàng đợi thông điệp mạnh mẽ, đư�
 
 
 
-================================================================================
+
 FILE: 51-amazon-sqs-hands-on-tutorial.md
-================================================================================
+
 
 # Hướng Dẫn Thực Hành Amazon SQS
 
@@ -6550,9 +6550,9 @@ Amazon SQS cung cấp một dịch vụ messaging mạnh mẽ, có khả năng m
 
 
 
-================================================================================
+
 FILE: 52-aws-sqs-queue-access-policies-tutorial.md
-================================================================================
+
 
 # Hướng Dẫn AWS SQS Queue Access Policies
 
@@ -6713,9 +6713,9 @@ Bằng cách sửa đổi SQS Queue Access Policy, bạn có thể cho phép tru
 
 
 
-================================================================================
+
 FILE: 53-aws-sqs-message-visibility-timeout.md
-================================================================================
+
 
 # Amazon SQS - Thời Gian Hiển Thị Tin Nhắn (Message Visibility Timeout)
 
@@ -6818,9 +6818,9 @@ Hiểu về message visibility timeout là rất quan trọng cho các kỳ thi 
 
 
 
-================================================================================
+
 FILE: 54-aws-sqs-dead-letter-queue-guide.md
-================================================================================
+
 
 # Hướng Dẫn AWS SQS Dead Letter Queue
 
@@ -6928,9 +6928,9 @@ Việc triển khai và cấu hình thực tế của Dead Letter Queue có th�
 
 
 
-================================================================================
+
 FILE: 55-aws-sqs-dead-letter-queue-hands-on-tutorial.md
-================================================================================
+
 
 # AWS SQS Dead Letter Queue - Hướng Dẫn Thực Hành
 
@@ -7066,9 +7066,9 @@ Dead Letter Queue là một tính năng thiết yếu của Amazon SQS giúp b�
 
 
 
-================================================================================
+
 FILE: 56-aws-sqs-delay-queue-guide.md
-================================================================================
+
 
 # Hướng Dẫn AWS SQS Delay Queue
 
@@ -7175,9 +7175,9 @@ Delay queue cung cấp cơ chế đơn giản nhưng mạnh mẽ để kiểm so
 
 
 
-================================================================================
+
 FILE: 57-aws-sqs-advanced-concepts.md
-================================================================================
+
 
 # AWS SQS Các Khái Niệm Nâng Cao - Cấp Độ Nhà Phát Triển
 
@@ -7335,9 +7335,9 @@ Pattern này cho phép bạn chứa bất kỳ kích thước message nào.
 
 
 
-================================================================================
+
 FILE: 58-amazon-sqs-fifo-queues-guide.md
-================================================================================
+
 
 # Hướng Dẫn Amazon SQS FIFO Queues
 
@@ -7451,9 +7451,9 @@ FIFO queue hoàn hảo cho các tình huống mà thứ tự thông điệp quan
 
 
 
-================================================================================
+
 FILE: 59-aws-sqs-fifo-advanced-concepts.md
-================================================================================
+
 
 # Các Khái Niệm Nâng Cao về AWS SQS FIFO
 
@@ -7600,9 +7600,9 @@ Khi bạn hoàn thành việc kiểm tra:
 
 
 
-================================================================================
+
 FILE: 6-ecs-service-rolling-updates.md
-================================================================================
+
 
 # Cập Nhật Luân Phiên ECS Service (Rolling Updates)
 
@@ -7667,9 +7667,9 @@ Trong kịch bản này, task mới được tạo trước khi terminate task c
 
 
 
-================================================================================
+
 FILE: 60-amazon-sns-introduction-and-overview.md
-================================================================================
+
 
 # Amazon SNS - Giới Thiệu và Tổng Quan
 
@@ -7807,9 +7807,9 @@ Mô hình pub/sub đơn giản hóa kiến trúc bằng cách tách rời các n
 
 
 
-================================================================================
+
 FILE: 61-aws-sns-sqs-fan-out-pattern-guide.md
-================================================================================
+
 
 # Hướng Dẫn AWS SNS + SQS Fan-Out Pattern
 
@@ -8014,9 +8014,9 @@ Hàng Đợi Đơn Đã Đặt    Hàng Đợi Đơn Đã Hủy    Email Đơn H
 
 
 
-================================================================================
+
 FILE: 62-aws-sns-hands-on-tutorial.md
-================================================================================
+
 
 # Hướng Dẫn Thực Hành AWS SNS
 
@@ -8167,9 +8167,9 @@ SNS là một dịch vụ mạnh mẽ để triển khai các pattern pub/sub me
 
 
 
-================================================================================
+
 FILE: 63-amazon-kinesis-data-streams-overview.md
-================================================================================
+
 
 # Tổng Quan về Amazon Kinesis Data Streams
 
@@ -8276,9 +8276,9 @@ Amazon Kinesis Data Streams cung cấp giải pháp streaming dữ liệu thời
 
 
 
-================================================================================
+
 FILE: 64-aws-kinesis-data-streams-hands-on-tutorial.md
-================================================================================
+
 
 # AWS Kinesis Data Streams - Hướng Dẫn Thực Hành
 
@@ -8596,9 +8596,9 @@ Giữ stream của bạn chạy cho hướng dẫn tiếp theo về **Kinesis Da
 
 
 
-================================================================================
+
 FILE: 65-amazon-data-firehose-overview.md
-================================================================================
+
 
 # Tổng Quan về Amazon Data Firehose
 
@@ -8714,9 +8714,9 @@ Tính năng phân phối gần real-time, tự động scaling và được qu�
 
 
 
-================================================================================
+
 FILE: 66-aws-kinesis-data-firehose-hands-on-tutorial.md
-================================================================================
+
 
 # AWS Kinesis Data Firehose - Hướng Dẫn Thực Hành
 
@@ -8889,9 +8889,9 @@ Tiếp tục khám phá các dịch vụ streaming AWS và các mẫu tích hợ
 
 
 
-================================================================================
+
 FILE: 67-amazon-managed-service-for-apache-flink.md
-================================================================================
+
 
 # Amazon Managed Service cho Apache Flink
 
@@ -8957,9 +8957,9 @@ Amazon Managed Service cho Apache Flink được thiết kế đặc biệt cho:
 
 
 
-================================================================================
+
 FILE: 68-aws-sqs-sns-kinesis-comparison.md
-================================================================================
+
 
 # So Sánh Các Dịch Vụ Messaging AWS: SQS vs SNS vs Kinesis
 
@@ -9062,9 +9062,9 @@ Hiểu rõ những khác biệt này sẽ giúp bạn chọn dịch vụ phù h�
 
 
 
-================================================================================
+
 FILE: 7-ecs-solution-architectures.md
-================================================================================
+
 
 # Kiến Trúc Giải Pháp Amazon ECS
 
@@ -9156,9 +9156,9 @@ Các kiến trúc này minh họa tính linh hoạt và sức mạnh của Amazo
 
 
 
-================================================================================
+
 FILE: 8-amazon-ecs-task-definitions-tim-hieu-sau.md
-================================================================================
+
 
 # Amazon ECS Task Definitions - Tìm Hiểu Sâu
 
@@ -9327,9 +9327,9 @@ Hiểu rõ các khái niệm này rất quan trọng cho kỳ thi chứng chỉ 
 
 
 
-================================================================================
+
 FILE: 9-huong-dan-cau-hinh-amazon-ecs-task-definition.md
-================================================================================
+
 
 # Hướng Dẫn Cấu Hình Amazon ECS Task Definition
 

@@ -1,7 +1,7 @@
 
-================================================================================
+
 FILE: 1-oauth2-client-credentials-grant-flow.md
-================================================================================
+
 
 # Luồng Xác Thực OAuth2 Client Credentials Grant Type
 
@@ -171,9 +171,9 @@ Client Credentials Grant Type Flow là cơ chế xác thực hoàn hảo cho gia
 
 
 
-================================================================================
+
 FILE: 10-oauth2-authorization-code-grant-flow.md
-================================================================================
+
 
 # Luồng OAuth2 Authorization Code Grant
 
@@ -319,9 +319,9 @@ Bạn có thể kiểm tra Authorization Code Grant Flow bằng cách sử dụn
 
 
 
-================================================================================
+
 FILE: 100-microservices-course-completion-congratulations.md
-================================================================================
+
 
 # Hoàn Thành Khóa Học Microservices - Xin Chúc Mừng!
 
@@ -410,9 +410,9 @@ Tôi hy vọng con đường của chúng ta sẽ gặp lại nhau trong tương
 
 
 
-================================================================================
+
 FILE: 11-oauth2-authorization-code-grant-flow-implementation.md
-================================================================================
+
 
 # Triển khai OAuth2 Authorization Code Grant Flow trong Microservices
 
@@ -531,9 +531,9 @@ Với sự hiểu biết về authorization code grant flow này, bước tiếp
 
 
 
-================================================================================
+
 FILE: 12-creating-client-and-user-details-in-keycloak.md
-================================================================================
+
 
 # Tạo Client và User Details trong Keycloak cho Authorization Code Grant Flow
 
@@ -698,9 +698,9 @@ Với cả client details và end user details đã được đăng ký trong au
 
 
 
-================================================================================
+
 FILE: 13-oauth2-authorization-code-flow-testing-with-postman.md
-================================================================================
+
 
 # Kiểm Thử OAuth2 Authorization Code Grant Flow Với Postman
 
@@ -922,9 +922,9 @@ Hướng dẫn này đã bao gồm:
 
 
 
-================================================================================
+
 FILE: 14-testing-microservices-security-with-docker-compose.md
-================================================================================
+
 
 # Kiểm Thử Bảo Mật Microservices với Docker Compose
 
@@ -1087,9 +1087,9 @@ Tiếp tục kiểm thử các thay đổi bảo mật trong môi trường Dock
 
 
 
-================================================================================
+
 FILE: 15-testing-microservices-security-with-docker-and-keycloak.md
-================================================================================
+
 
 # Kiểm Thử Bảo Mật Microservices với Docker và Keycloak
 
@@ -1303,9 +1303,9 @@ Tất cả các thay đổi được thảo luận trong hướng dẫn này có
 
 
 
-================================================================================
+
 FILE: 16-event-driven-microservices-introduction.md
-================================================================================
+
 
 # Xây Dựng Microservices Hướng Sự Kiện (Event-Driven)
 
@@ -1425,9 +1425,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ khám phá chi tiết thế 
 
 
 
-================================================================================
+
 FILE: 17-event-driven-microservices-models.md
-================================================================================
+
 
 # Các Mô Hình Microservices Hướng Sự Kiện
 
@@ -1541,9 +1541,9 @@ Chọn mô hình phù hợp nhất với yêu cầu kinh doanh và các ràng bu
 
 
 
-================================================================================
+
 FILE: 18-asynchronous-communication-with-pub-sub-model.md
-================================================================================
+
 
 # Giao Tiếp Bất Đồng Bộ với Mô Hình Pub/Sub trong Microservices
 
@@ -1696,9 +1696,9 @@ Bằng cách triển khai mô hình Pub/Sub với RabbitMQ, chúng ta đạt đ�
 
 
 
-================================================================================
+
 FILE: 19-rabbitmq-introduction-and-asynchronous-communication.md
-================================================================================
+
 
 # Giới Thiệu RabbitMQ và Giao Tiếp Bất Đồng Bộ
 
@@ -1844,9 +1844,9 @@ RabbitMQ là một message broker mã nguồn mở mạnh mẽ cho phép giao ti
 
 
 
-================================================================================
+
 FILE: 2-securing-microservices-with-oauth2-client-credentials.md
-================================================================================
+
 
 # Bảo Mật Microservices với OAuth2 Client Credentials Grant Flow
 
@@ -2021,9 +2021,9 @@ Các chủ đề sau sẽ được đề cập trong các bài giảng tiếp th
 
 
 
-================================================================================
+
 FILE: 20-spring-cloud-function-for-event-driven-microservices.md
-================================================================================
+
 
 # Spring Cloud Function cho Microservices Hướng Sự Kiện
 
@@ -2151,9 +2151,9 @@ Trong các bài giảng sắp tới, chúng ta sẽ xây dựng message microser
 
 
 
-================================================================================
+
 FILE: 21-creating-message-microservice-with-spring-cloud-functions.md
-================================================================================
+
 
 # Tạo Message Microservice với Spring Cloud Functions
 
@@ -2303,9 +2303,9 @@ Trong hướng dẫn này, chúng ta đã:
 
 
 
-================================================================================
+
 FILE: 22-spring-cloud-functions-business-logic-implementation.md
-================================================================================
+
 
 # Triển Khai Logic Nghiệp Vụ với Spring Cloud Functions
 
@@ -2472,9 +2472,9 @@ Trong triển khai này, chúng ta đã tạo:
 
 
 
-================================================================================
+
 FILE: 23-spring-cloud-functions-rest-api-guide.md
-================================================================================
+
 
 # Spring Cloud Functions: Hướng Dẫn Triển Khai REST API
 
@@ -2720,9 +2720,9 @@ Sự kết hợp của Spring Cloud Functions với Spring Cloud Stream và Rabb
 
 
 
-================================================================================
+
 FILE: 24-spring-cloud-stream-introduction.md
-================================================================================
+
 
 # Spring Cloud Stream: Xây Dựng Microservices Hướng Sự Kiện
 
@@ -2873,9 +2873,9 @@ Spring Cloud Stream làm cho việc xây dựng microservices hướng sự ki�
 
 
 
-================================================================================
+
 FILE: 25-integrating-spring-cloud-stream-with-rabbitmq.md
-================================================================================
+
 
 # Tích hợp Spring Cloud Stream với RabbitMQ trong Microservices
 
@@ -3191,9 +3191,9 @@ Các microservices hiện đã sẵn sàng cho giao tiếp hướng sự kiện 
 
 
 
-================================================================================
+
 FILE: 26-event-driven-microservices-rabbitmq-demo.md
-================================================================================
+
 
 # Microservices Hướng Sự Kiện với RabbitMQ - Hướng Dẫn Demo
 
@@ -3480,9 +3480,9 @@ Triển khai này minh họa các patterns microservices thực tế được s�
 
 
 
-================================================================================
+
 FILE: 27-event-streaming-from-message-to-accounts-microservice.md
-================================================================================
+
 
 # Truyền Sự Kiện từ Message Microservice sang Accounts Microservice
 
@@ -3726,9 +3726,9 @@ Việc triển khai truyền sự kiện hai chiều giữa microservices sử d
 
 
 
-================================================================================
+
 FILE: 28-asynchronous-communication-rabbitmq-demo-complete.md
-================================================================================
+
 
 # Demo Hoàn Chỉnh: Giao Tiếp Bất Đồng Bộ Giữa Các Microservices Với RabbitMQ
 
@@ -3873,9 +3873,9 @@ Triển khai này trình bày:
 
 
 
-================================================================================
+
 FILE: 29-testing-event-driven-microservices-with-docker-and-rabbitmq.md
-================================================================================
+
 
 # Kiểm Thử Microservices Hướng Sự Kiện với Docker và RabbitMQ
 
@@ -4075,9 +4075,9 @@ Các microservices hướng sự kiện hiện đang hoạt động hoàn hảo 
 
 
 
-================================================================================
+
 FILE: 3-setting-up-keycloak-authorization-server-with-docker.md
-================================================================================
+
 
 # Thiết Lập Keycloak Authorization Server Với Docker
 
@@ -4232,9 +4232,9 @@ Thiết lập Keycloak với Docker cung cấp một cách đơn giản để tr
 
 
 
-================================================================================
+
 FILE: 30-apache-kafka-vs-rabbitmq-comparison.md
-================================================================================
+
 
 # So Sánh Apache Kafka và RabbitMQ: Hướng Dẫn Chi Tiết
 
@@ -4395,9 +4395,9 @@ Bây giờ bạn đã hiểu sự khác biệt giữa Apache Kafka và RabbitMQ,
 
 
 
-================================================================================
+
 FILE: 31-apache-kafka-introduction-and-core-concepts.md
-================================================================================
+
 
 # Apache Kafka: Giới Thiệu và Các Khái Niệm Cốt Lõi
 
@@ -4606,9 +4606,9 @@ Phần giới thiệu này bao gồm các khái niệm cơ bản cần thiết �
 
 
 
-================================================================================
+
 FILE: 32-apache-kafka-producer-consumer-workflow.md
-================================================================================
+
 
 # Luồng Xử Lý Producer và Consumer trong Apache Kafka
 
@@ -4792,9 +4792,9 @@ Hiểu rõ luồng xử lý producer và consumer của Apache Kafka là điều
 
 
 
-================================================================================
+
 FILE: 33-setting-up-apache-kafka-in-local-environment.md
-================================================================================
+
 
 # Cài Đặt Apache Kafka Trong Môi Trường Local
 
@@ -4873,9 +4873,9 @@ Sau khi test thành công mọi thứ trong môi trường IntelliJ local, bạn
 
 
 
-================================================================================
+
 FILE: 34-migrating-from-rabbitmq-to-apache-kafka-in-spring-microservices.md
-================================================================================
+
 
 # Di Chuyển từ RabbitMQ sang Apache Kafka trong Spring Microservices
 
@@ -5087,9 +5087,9 @@ Di chuyển từ RabbitMQ sang Apache Kafka với Spring Cloud Stream cực kỳ
 
 
 
-================================================================================
+
 FILE: 35-migrating-microservices-from-rabbitmq-to-kafka-with-docker.md
-================================================================================
+
 
 # Chuyển đổi Microservices từ RabbitMQ sang Apache Kafka với Docker
 
@@ -5422,9 +5422,9 @@ Phản hồi của bạn rất có giá trị! Vui lòng:
 
 
 
-================================================================================
+
 FILE: 36-container-orchestration-and-kubernetes-introduction.md
-================================================================================
+
 
 # Giới Thiệu Về Container Orchestration và Kubernetes
 
@@ -5555,9 +5555,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ đi sâu hơn vào các khá
 
 
 
-================================================================================
+
 FILE: 37-kubernetes-introduction-and-overview.md
-================================================================================
+
 
 # Giới Thiệu và Tổng Quan về Kubernetes
 
@@ -5659,9 +5659,9 @@ Trong các bài giảng sắp tới, chúng ta sẽ khám phá cách thiết l�
 
 
 
-================================================================================
+
 FILE: 38-kubernetes-gioi-thieu-kubernetes-la-gi.md
-================================================================================
+
 
 # Kubernetes là gì? - Giới thiệu nhanh
 
@@ -5771,9 +5771,9 @@ Cảm ơn bạn và tôi sẽ gặp bạn trong bài giảng tiếp theo. Tạm 
 
 
 
-================================================================================
+
 FILE: 39-kubernetes-architecture-and-components-detailed-guide.md
-================================================================================
+
 
 # Kiến Trúc và Thành Phần Kubernetes: Hướng Dẫn Chi Tiết
 
@@ -5981,9 +5981,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ:
 
 
 
-================================================================================
+
 FILE: 4-registering-client-application-with-keycloak-auth-server.md
-================================================================================
+
 
 # Đăng Ký Ứng Dụng Client với Keycloak Auth Server
 
@@ -6100,9 +6100,9 @@ Trong phần tiếp theo, chúng ta sẽ trình bày cách lấy access token t�
 
 
 
-================================================================================
+
 FILE: 40-setting-up-local-kubernetes-cluster-with-docker-desktop.md
-================================================================================
+
 
 # Thiết Lập Kubernetes Cluster Cục Bộ với Docker Desktop
 
@@ -6269,9 +6269,9 @@ Thiết lập cục bộ này lý tưởng để hiểu các khái niệm Kubern
 
 
 
-================================================================================
+
 FILE: 41-setting-up-kubernetes-dashboard-complete-guide.md
-================================================================================
+
 
 # Hướng Dẫn Cài Đặt Kubernetes Dashboard - Đầy Đủ Chi Tiết
 
@@ -6601,9 +6601,9 @@ Cảm ơn bạn đã theo dõi hướng dẫn này! Chúc bạn học Kubernetes
 
 
 
-================================================================================
+
 FILE: 42-deploying-config-server-to-kubernetes-cluster.md
-================================================================================
+
 
 # Triển khai Config Server lên Kubernetes Cluster
 
@@ -6814,9 +6814,9 @@ Nền tảng này sẽ giúp bạn triển khai tất cả các microservices tr
 
 
 
-================================================================================
+
 FILE: 43-deploying-and-verifying-config-server-in-kubernetes.md
-================================================================================
+
 
 # Triển Khai và Xác Minh Config Server trong Kubernetes - Hướng Dẫn Hoàn Chỉnh
 
@@ -7323,9 +7323,9 @@ Cảm ơn và hẹn gặp lại bạn trong bài giảng tiếp theo!
 
 
 
-================================================================================
+
 FILE: 44-deploying-microservices-configmaps-kubernetes.md
-================================================================================
+
 
 # Triển khai Microservices với ConfigMaps trong Kubernetes
 
@@ -7487,9 +7487,9 @@ ConfigMaps cung cấp một cách hiệu quả để quản lý các biến môi
 
 
 
-================================================================================
+
 FILE: 45-deploying-remaining-microservices-to-kubernetes-cluster.md
-================================================================================
+
 
 # Triển Khai Các Microservices Còn Lại Lên Kubernetes Cluster
 
@@ -7769,9 +7769,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ:
 
 
 
-================================================================================
+
 FILE: 46-deploying-microservices-to-kubernetes-with-keycloak-security.md
-================================================================================
+
 
 # Triển khai Microservices lên Kubernetes với Bảo mật Keycloak
 
@@ -8115,9 +8115,9 @@ Nền tảng này chuẩn bị cho bạn khám phá các tính năng Kubernetes 
 
 
 
-================================================================================
+
 FILE: 47-kubernetes-self-healing-and-replica-management.md
-================================================================================
+
 
 # Kubernetes Self-Healing và Quản Lý Replica
 
@@ -8286,9 +8286,9 @@ Khả năng tự phục hồi của Kubernetes là một trong những tính nă
 
 
 
-================================================================================
+
 FILE: 48-kubernetes-rolling-updates-and-rollbacks.md
-================================================================================
+
 
 # Kubernetes Rolling Updates và Rollbacks
 
@@ -8577,9 +8577,9 @@ Với những tính năng này, Kubernetes đảm bảo tính khả dụng cao v
 
 
 
-================================================================================
+
 FILE: 49-kubernetes-service-types-for-microservices.md
-================================================================================
+
 
 # Các Loại Service trong Kubernetes cho Microservices
 
@@ -8782,9 +8782,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ xem một demo thực tế về c
 
 
 
-================================================================================
+
 FILE: 5-obtaining-access-token-from-keycloak-auth-server.md
-================================================================================
+
 
 # Lấy Access Token từ Keycloak Auth Server
 
@@ -8993,9 +8993,9 @@ Trong các dự án thực tế, ứng dụng client sẽ:
 
 
 
-================================================================================
+
 FILE: 50-kubernetes-service-types-demo-and-implementation.md
-================================================================================
+
 
 # Demo và Triển Khai Các Loại Dịch Vụ Kubernetes
 
@@ -9175,9 +9175,9 @@ Hiểu các loại dịch vụ này rất quan trọng cho kiến trúc microser
 
 
 
-================================================================================
+
 FILE: 51-kubernetes-helm-introduction-and-deployment-challenges.md
-================================================================================
+
 
 # Các Thách Thức Triển Khai Kubernetes và Giới Thiệu Helm
 
@@ -9302,9 +9302,9 @@ Helm giải quyết tất cả các thách thức này bằng cách cung cấp p
 
 
 
-================================================================================
+
 FILE: 52-kubernetes-helm-introduction-and-benefits.md
-================================================================================
+
 
 # Kubernetes Helm: Giới Thiệu và Lợi Ích
 
@@ -9419,9 +9419,9 @@ Chúng ta sẽ tiếp tục khám phá Helm charts một cách chi tiết, làm 
 
 
 
-================================================================================
+
 FILE: 53-kubernetes-helm-installation-guide.md
-================================================================================
+
 
 # Hướng Dẫn Cài Đặt Kubernetes Helm
 
@@ -9572,9 +9572,9 @@ Bây giờ bạn đã cài đặt thành công Helm trên hệ thống cục b�
 
 
 
-================================================================================
+
 FILE: 54-bitnami-helm-charts-important-update.md
-================================================================================
+
 
 # Cập Nhật Quan Trọng Về Bitnami Images & Helm Charts
 
@@ -9666,9 +9666,9 @@ Hãy tiếp tục hành trình học tập thực hành của chúng ta — chú
 
 
 
-================================================================================
+
 FILE: 55-helm-chart-installation-and-wordpress-deployment.md
-================================================================================
+
 
 # Hướng Dẫn Cài Đặt Helm Chart và Triển Khai WordPress
 
@@ -9901,9 +9901,9 @@ Helm charts đơn giản hóa đáng kể việc triển khai các ứng dụng 
 
 
 
-================================================================================
+
 FILE: 56-helm-chart-structure-and-management.md
-================================================================================
+
 
 # Cấu Trúc và Quản Lý Helm Chart
 
@@ -10081,9 +10081,9 @@ Sức mạnh của Helm nằm ở khả năng quản lý toàn bộ stack ứng 
 
 
 
-================================================================================
+
 FILE: 57-building-custom-helm-charts-for-microservices.md
-================================================================================
+
 
 # Xây Dựng Helm Charts Tùy Chỉnh Cho Microservices
 
@@ -10342,9 +10342,9 @@ Bằng cách tạo nền tảng này, các nhóm có thể quản lý hiệu qu�
 
 
 
-================================================================================
+
 FILE: 58-creating-helm-chart-for-accounts-microservice.md
-================================================================================
+
 
 # Tạo Helm Chart cho Microservice Accounts
 
@@ -10565,9 +10565,9 @@ Mẫu này có thể được nhân rộng cho tất cả các microservices tro
 
 
 
-================================================================================
+
 FILE: 59-creating-helm-charts-for-remaining-microservices.md
-================================================================================
+
 
 # Tạo Helm Charts cho các Microservices còn lại
 
@@ -10760,9 +10760,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 6-configuring-gateway-as-oauth2-resource-server.md
-================================================================================
+
 
 # Cấu Hình Gateway Server Như OAuth2 Resource Server
 
@@ -10926,9 +10926,9 @@ Gateway server hiện hoạt động như OAuth2 resource server trong luồng c
 
 
 
-================================================================================
+
 FILE: 60-creating-environment-specific-helm-charts-for-microservices.md
-================================================================================
+
 
 # Tạo Helm Charts Cho Từng Môi Trường Triển Khai Microservices
 
@@ -11219,9 +11219,9 @@ Bạn đã tạo thành công các Helm chart riêng cho từng môi trường, 
 
 
 
-================================================================================
+
 FILE: 61-creating-environment-specific-helm-charts-for-microservices-from-transcript.md
-================================================================================
+
 
 # Tạo Helm Charts Riêng Cho Từng Môi Trường Microservices
 
@@ -11454,9 +11454,9 @@ Việc tạo các Helm charts riêng cho từng môi trường là một phươn
 
 
 
-================================================================================
+
 FILE: 62-validating-and-deploying-helm-charts-for-microservices.md
-================================================================================
+
 
 # Xác Thực và Triển Khai Helm Charts cho Microservices
 
@@ -11631,9 +11631,9 @@ Lệnh `helm template` là công cụ xác thực quan trọng cho phép bạn x
 
 
 
-================================================================================
+
 FILE: 63-deploying-keycloak-with-bitnami-helm-charts.md
-================================================================================
+
 
 # Triển khai Keycloak với Bitnami Helm Charts
 
@@ -11825,9 +11825,9 @@ Helm charts, đặc biệt là những chart từ Bitnami, đơn giản hóa đ�
 
 
 
-================================================================================
+
 FILE: 64-deploying-kafka-to-kubernetes-with-helm.md
-================================================================================
+
 
 # Triển khai Kafka lên Kubernetes với Helm Charts
 
@@ -11994,9 +11994,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ cấu hình các microservices đ
 
 
 
-================================================================================
+
 FILE: 65-setting-up-prometheus-and-grafana-in-kubernetes.md
-================================================================================
+
 
 # Cài Đặt Prometheus và Grafana trong Kubernetes
 
@@ -12183,9 +12183,9 @@ Bạn đã cài đặt thành công Prometheus trong Kubernetes cluster của m�
 
 
 
-================================================================================
+
 FILE: 66-setting-up-grafana-loki-and-tempo-in-kubernetes.md
-================================================================================
+
 
 # Cài Đặt Grafana, Loki và Tempo trong Kubernetes
 
@@ -12333,9 +12333,9 @@ Với Loki và Tempo đã được cài đặt thành công, bước cuối cùn
 
 
 
-================================================================================
+
 FILE: 67-deploying-grafana-to-kubernetes-cluster.md
-================================================================================
+
 
 # Triển khai Grafana lên Kubernetes Cluster với Helm
 
@@ -12505,9 +12505,9 @@ Thiết lập Grafana cung cấp một nền tảng giám sát và observability
 
 
 
-================================================================================
+
 FILE: 68-deploying-microservices-to-kubernetes-with-helm-complete-setup.md
-================================================================================
+
 
 # Triển khai Microservices lên Kubernetes với Helm - Thiết lập Hoàn chỉnh
 
@@ -12854,9 +12854,9 @@ Trong các phần sắp tới, chúng ta sẽ khám phá:
 
 
 
-================================================================================
+
 FILE: 69-helm-upgrade-and-rollback-microservices.md
-================================================================================
+
 
 # Nâng Cấp và Khôi Phục Microservices với Helm
 
@@ -13014,9 +13014,9 @@ Bằng cách làm theo các bước này, bạn có thể tự tin quản lý v�
 
 
 
-================================================================================
+
 FILE: 7-testing-oauth2-security-in-microservices.md
-================================================================================
+
 
 # Kiểm Thử Bảo Mật OAuth2 trong Microservices
 
@@ -13202,9 +13202,9 @@ Triển khai này bảo mật thành công microservices sử dụng luồng OAu
 
 
 
-================================================================================
+
 FILE: 70-helm-rollback-microservices-tutorial.md
-================================================================================
+
 
 # Hướng Dẫn Helm Rollback cho Microservices
 
@@ -13312,9 +13312,9 @@ Helm rollback là một tính năng mạnh mẽ giúp đơn giản hóa quy trì
 
 
 
-================================================================================
+
 FILE: 71-helm-uninstall-command-guide.md
-================================================================================
+
 
 # Hướng Dẫn Lệnh Helm Uninstall
 
@@ -13457,9 +13457,9 @@ Helm cung cấp các lệnh mạnh mẽ để quản lý microservices trong Kub
 
 
 
-================================================================================
+
 FILE: 72-helm-commands-quick-reference-guide.md
-================================================================================
+
 
 # Hướng Dẫn Tham Khảo Nhanh Các Lệnh Helm
 
@@ -13587,9 +13587,9 @@ Hướng dẫn này bao gồm tất cả các lệnh Helm thiết yếu để qu
 
 
 
-================================================================================
+
 FILE: 73-server-side-service-discovery-and-load-balancing.md
-================================================================================
+
 
 # Khám Phá Dịch Vụ và Cân Bằng Tải Phía Máy Chủ trong Kubernetes
 
@@ -13720,9 +13720,9 @@ Khám phá dịch vụ và cân bằng tải phía server trong Kubernetes cung 
 
 
 
-================================================================================
+
 FILE: 74-setting-up-discovery-server-in-kubernetes-with-spring-cloud.md
-================================================================================
+
 
 # Thiết Lập Discovery Server trong Kubernetes với Spring Cloud Kubernetes
 
@@ -13995,9 +13995,9 @@ Trong các bước tiếp theo, bạn sẽ apply manifest file này vào Kuberne
 
 
 
-================================================================================
+
 FILE: 75-deploying-discovery-server-to-kubernetes-without-helm.md
-================================================================================
+
 
 # Triển Khai Discovery Server lên Kubernetes Không Sử Dụng Helm
 
@@ -14119,9 +14119,9 @@ Discovery Server hiện đã được triển khai thành công và đang chạy
 
 
 
-================================================================================
+
 FILE: 76-migrating-microservices-from-eureka-to-kubernetes-discovery.md
-================================================================================
+
 
 # Chuyển đổi Microservices từ Eureka sang Kubernetes Discovery Server
 
@@ -14407,9 +14407,9 @@ Di chuyển từ Eureka sang Kubernetes Discovery đơn giản hóa kiến trúc
 
 
 
-================================================================================
+
 FILE: 77-migrating-gateway-server-to-kubernetes-discovery.md
-================================================================================
+
 
 # Chuyển Gateway Server sang Kubernetes Discovery
 
@@ -14606,9 +14606,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ xác minh việc triển khai và
 
 
 
-================================================================================
+
 FILE: 78-kubernetes-discovery-server-helm-charts-update-guide.md
-================================================================================
+
 
 # Hướng Dẫn Cập Nhật Helm Charts cho Kubernetes Discovery Server
 
@@ -15127,9 +15127,9 @@ Bằng cách làm theo hướng dẫn này, bạn có thể đảm bảo quá tr
 
 
 
-================================================================================
+
 FILE: 79-testing-kubernetes-discovery-server-with-microservices.md
-================================================================================
+
 
 # Kiểm Thử Kubernetes Discovery Server với Microservices
 
@@ -15301,9 +15301,9 @@ Kubernetes Discovery Server cung cấp một phương pháp đơn giản hóa ch
 
 
 
-================================================================================
+
 FILE: 8-configuring-role-based-authorization-in-gateway.md
-================================================================================
+
 
 # Cấu Hình Phân Quyền Dựa Trên Role Trong Spring Cloud Gateway
 
@@ -15400,7 +15400,7 @@ public class KeycloakRoleConverter implements Converter<Jwt, Collection<GrantedA
     public Collection<GrantedAuthority> convert(Jwt jwt) {
         Map<String, Object> realmAccess = (Map<String, Object>) jwt.getClaims().get("realm_access");
         
-        if (realmAccess == null || realmAccess.isEmpty()) {
+        if (realmAccess  null || realmAccess.isEmpty()) {
             return Collections.emptyList();
         }
         
@@ -15488,9 +15488,9 @@ Gateway giờ đây kiểm tra cả **xác thực** (bạn là ai) và **phân q
 
 
 
-================================================================================
+
 FILE: 80-deploying-microservices-to-cloud-kubernetes-cluster.md
-================================================================================
+
 
 # Triển Khai Microservices lên Kubernetes Cluster trên Cloud
 
@@ -15559,9 +15559,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ bắt đầu quá trình tạo Ku
 
 
 
-================================================================================
+
 FILE: 81-setting-up-google-cloud-and-gcloud-cli-for-kubernetes.md
-================================================================================
+
 
 # Thiết Lập Google Cloud và gcloud CLI để Triển Khai Kubernetes
 
@@ -15761,9 +15761,9 @@ Bây giờ bạn đã sẵn sàng để tạo và quản lý Kubernetes cluster 
 
 
 
-================================================================================
+
 FILE: 82-creating-kubernetes-cluster-in-google-cloud.md
-================================================================================
+
 
 # Tạo Kubernetes Cluster trên Google Cloud (GKE)
 
@@ -15874,9 +15874,9 @@ Việc tạo Kubernetes cluster trên Google Cloud là một quy trình đơn gi
 
 
 
-================================================================================
+
 FILE: 83-deploying-microservices-to-google-cloud-kubernetes.md
-================================================================================
+
 
 # Triển Khai Microservices Lên Google Cloud Kubernetes
 
@@ -16168,9 +16168,9 @@ Cloud Kubernetes cluster cung cấp môi trường production-ready với tính 
 
 
 
-================================================================================
+
 FILE: 84-deploying-and-validating-microservices-in-kubernetes-cloud.md
-================================================================================
+
 
 # Triển Khai và Xác Thực Microservices trên Kubernetes Cloud
 
@@ -16420,9 +16420,9 @@ Triển khai và xác thực microservices thành công trong môi trường Kub
 
 
 
-================================================================================
+
 FILE: 85-validating-grafana-in-kubernetes-cluster.md
-================================================================================
+
 
 # Xác Thực Các Thành Phần Grafana Trong Kubernetes Cluster Trên Google Cloud
 
@@ -16606,9 +16606,9 @@ Việc xác thực thành công Grafana và các tích hợp của nó (Loki, Te
 
 
 
-================================================================================
+
 FILE: 86-uninstalling-microservices-and-deleting-kubernetes-cluster.md
-================================================================================
+
 
 # Gỡ Cài Đặt Microservices và Xóa Kubernetes Cluster Trên Google Cloud
 
@@ -16782,9 +16782,9 @@ Tiếp tục đến phần tiếp theo để khám phá thêm các chủ đề n
 
 
 
-================================================================================
+
 FILE: 87-kubernetes-ingress-and-service-types-introduction.md
-================================================================================
+
 
 # Kubernetes Ingress và Các Loại Service Nâng Cao
 
@@ -16864,9 +16864,9 @@ Trong các bài giảng tiếp theo, chúng ta sẽ đi sâu vào:
 
 
 
-================================================================================
+
 FILE: 88-kubernetes-ingress-vs-spring-cloud-gateway.md
-================================================================================
+
 
 # Kubernetes Ingress: Hiểu về Ingress và Vai trò của nó trong Kiến trúc Microservices
 
@@ -17073,9 +17073,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá thêm các chi tiết 
 
 
 
-================================================================================
+
 FILE: 89-kubernetes-ingress-benefits-and-traffic-management.md
-================================================================================
+
 
 # Kubernetes Ingress: Lợi Ích và Quản Lý Lưu Lượng
 
@@ -17229,9 +17229,9 @@ Luôn cập nhật thông tin và sẵn sàng cho mọi tình huống!
 
 
 
-================================================================================
+
 FILE: 9-role-based-authorization-demo-with-keycloak.md
-================================================================================
+
 
 # Demo Phân Quyền Dựa Trên Vai Trò với Keycloak và Spring Boot Gateway
 
@@ -17402,9 +17402,9 @@ Các nguyên tắc tương tự có thể được áp dụng cho các yêu cầ
 
 
 
-================================================================================
+
 FILE: 90-service-mesh-introduction-and-sidecar-pattern.md
-================================================================================
+
 
 # Giới Thiệu Service Mesh và Mô Hình Sidecar
 
@@ -17588,9 +17588,9 @@ Hiểu cả Service Mesh và các phương pháp truyền thống đảm bảo b
 
 
 
-================================================================================
+
 FILE: 91-service-mesh-components-and-architecture.md
-================================================================================
+
 
 # Các Thành Phần và Kiến Trúc của Service Mesh
 
@@ -17718,9 +17718,9 @@ Service mesh cung cấp một cách mạnh mẽ để xử lý các cross-cuttin
 
 
 
-================================================================================
+
 FILE: 92-understanding-mtls-and-tls-in-microservices.md
-================================================================================
+
 
 # Hiểu về mTLS và TLS trong Microservices
 
@@ -17880,9 +17880,9 @@ Trong bài giảng tiếp theo, chúng ta sẽ khám phá cách mTLS hoạt đ�
 
 
 
-================================================================================
+
 FILE: 93-understanding-mtls-mutual-tls-in-microservices.md
-================================================================================
+
 
 # Hiểu về mTLS (Mutual TLS) trong Microservices
 
@@ -18074,9 +18074,9 @@ Là một developer microservices nâng cao, việc hiểu các khái niệm mTL
 
 
 
-================================================================================
+
 FILE: 94-best-practices-managing-dependencies-with-bom-in-microservices.md
-================================================================================
+
 
 # Thực Hành Tốt Nhất: Quản Lý Dependencies với BOM trong Microservices
 
@@ -18160,9 +18160,9 @@ Bằng cách triển khai BOM, bạn chuyển đổi quản lý dependencies t�
 
 
 
-================================================================================
+
 FILE: 95-creating-bom-project-for-microservices-step-by-step.md
-================================================================================
+
 
 # Tạo Dự Án BOM Cho Microservices: Hướng Dẫn Từng Bước
 
@@ -18591,9 +18591,9 @@ Cảm ơn bạn!
 
 
 
-================================================================================
+
 FILE: 96-managing-dependencies-with-bom-in-spring-boot-microservices.md
-================================================================================
+
 
 # Quản Lý Dependencies với BOM trong Spring Boot Microservices
 
@@ -18833,9 +18833,9 @@ Bằng cách tuân theo phương pháp này, bạn có thể quản lý dependen
 
 
 
-================================================================================
+
 FILE: 97-managing-dependencies-with-bom-in-microservices-advanced.md
-================================================================================
+
 
 # Quản Lý Dependencies với BOM trong Microservices - Khái Niệm Nâng Cao
 
@@ -19022,9 +19022,9 @@ Cấu hình BOM nâng cao phát triển microservices bằng cách cung cấp ch
 
 
 
-================================================================================
+
 FILE: 98-managing-shared-libraries-in-microservices.md
-================================================================================
+
 
 # Quản Lý Thư Viện Dùng Chung Trong Microservices
 
@@ -19135,9 +19135,9 @@ Cách tiếp cận Multi-Module Maven Project (BOM) là giải pháp được kh
 
 
 
-================================================================================
+
 FILE: 99-managing-shared-libraries-with-maven-multi-modules-in-microservices.md
-================================================================================
+
 
 # Quản Lý Thư Viện Dùng Chung với Maven Multi-Modules trong Microservices
 
