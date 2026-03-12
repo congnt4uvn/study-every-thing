@@ -29,14 +29,14 @@ def split_combined_file(combined_file, output_folder):
         content = f.read()
     
     # Split by the separator pattern
-    # Pattern: \n...\nFILE: filename\n...\n\n
+    # Pattern: \n====...====\nFILE: filename\n====...====\n\n
     separator_pattern = r'\n={80}\nFILE: (.+?)\n={80}\n\n'
     
     # Split content and get filenames
     parts = re.split(separator_pattern, content)
     
     # The first part is usually empty or contains text before first separator
-    if parts[0].strip()  '':
+    if parts[0].strip() == '':
         parts = parts[1:]
     
     # Process pairs: filename, content, filename, content, ...
@@ -59,7 +59,7 @@ def split_combined_file(combined_file, output_folder):
     
     print(f"\n✓ Successfully split into {file_count} files in '{output_folder}'")
 
-if __name__  "__main__":
+if __name__ == "__main__":
     # Define paths
     combined_file = r"D:\doc\msa\part-1\vn\combined_all_files.md"
     output_folder = r"D:\doc\msa\part-1\vn\split_files"

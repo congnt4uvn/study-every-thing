@@ -15400,7 +15400,7 @@ public class KeycloakRoleConverter implements Converter<Jwt, Collection<GrantedA
     public Collection<GrantedAuthority> convert(Jwt jwt) {
         Map<String, Object> realmAccess = (Map<String, Object>) jwt.getClaims().get("realm_access");
         
-        if (realmAccess  null || realmAccess.isEmpty()) {
+        if (realmAccess == null || realmAccess.isEmpty()) {
             return Collections.emptyList();
         }
         
