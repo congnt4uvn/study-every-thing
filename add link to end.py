@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # Input folder path
-folder_path = r"D:\New folder\study-every-thing\aws"
+folder_path = r"D:\New folder\study-every-thing\english\p_1"
 
 folder = Path(folder_path)
 
