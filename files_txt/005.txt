@@ -1,0 +1,377 @@
+Được rồi.
+
+Nếu bạn là người dùng máy Mac thì xin chúc mừng, bạn đã đến đúng nơi rồi.
+
+Nếu bạn là người dùng máy tính thì bạn không thuộc về nơi này.
+
+Bạn sẽ xuất hiện trong video tiếp theo khi chúng ta gặp lại nhau.
+
+Vậy nên những người dùng Mac, tôi vừa nói với những người dùng PC rằng họ là của tôi vì tôi đã từng làm việc cho IBM một thời gian
+
+trước đây.
+
+Nhưng điều đó không đúng.
+
+Tôi là người dùng Mac chính hiệu.
+
+Tôi đã.
+
+Tôi đã sở hữu máy Mac từ khi còn là một thiếu niên.
+
+Trong suốt cuộc đời mình, tôi đã sở hữu rất nhiều máy Mac.
+
+Tôi đã lập trình trên chúng kể từ khi tôi còn đang phê.
+
+Ờ, thì ra là vậy.
+
+Chắc chắn các bạn là người của tôi.
+
+Đừng nghe những gì tôi nói.
+
+Những người kia.
+
+Ừ, đúng vậy.
+
+Tôi không có lòng trung thành.
+
+Ừ, đúng vậy.
+
+Không có máy Mac nào cả.
+
+Được rồi, bước đầu tiên trong hướng dẫn thiết lập là yêu cầu bạn truy cập vào kho lưu trữ.
+
+Truy cập GitHub.
+
+Kỹ thuật.
+
+Liên kết này xuất hiện ở khắp mọi nơi.
+
+Tôi muốn nhắc lại với bạn rằng hướng dẫn thiết lập tốt nhất được viết trong kho lưu trữ.
+
+Làm theo liên kết hướng dẫn dành cho máy Mac.
+
+Đó là nơi tôi thực hiện mọi việc từng bước một.
+
+Đó thực sự là điều bạn nên làm theo.
+
+Hãy xem video này để biết cách tôi thực hiện, nhưng hãy nhớ làm theo hướng dẫn ở đầu hướng dẫn.
+
+Tôi có một số điều mà tôi gọi là vấn đề nan giải.
+
+Những điều cần lưu ý.
+
+Những việc như đảm bảo bạn đã cài đặt các công cụ Mac mới nhất, vì vậy có một số điều cần lưu
+
+ý.
+
+Vì vậy, hãy xem xét kỹ những điều cần lưu ý đó nhé.
+
+Và có những mẹo khắc phục sự cố phổ biến mà bạn nên tham khảo đầu tiên
+
+là tham khảo tài liệu.
+
+Nhưng bây giờ chúng ta hãy cùng bắt đầu thiết lập mọi thứ trên máy Mac.
+
+Vì vậy, điều đầu tiên chúng ta sẽ làm là nói về git và sao chép kho lưu trữ hiện tại.
+
+Và nếu bạn không chắc chắn về sự khác biệt giữa git và GitHub hoặc bạn không biết chúng là gì,
+
+thì hãy thử xem nhé.
+
+Trong kho lưu trữ có một thư mục có tên là hướng dẫn.
+
+Xem trong hướng dẫn.
+
+Tôi có một hướng dẫn viết về git là gì?
+
+GitHub là gì?
+
+Sự khác biệt giữa chúng.
+
+Hãy chắc chắn xem xét điều đó để có được nền tảng vững chắc nhé.
+
+Và sau khi hoàn tất, chúng ta sẽ mở dấu nhắc lệnh, thiết bị đầu cuối và một lần nữa xem hướng dẫn trong kho
+
+lưu trữ.
+
+Nhưng cách bạn thực hiện là vào trình tìm kiếm, vào ứng dụng, vào tiện ích và có một tiện
+
+ích gọi là terminal.
+
+Và bạn nhấp đúp vào đó để khởi chạy một thiết bị đầu cuối.
+
+Và đây tôi có một cái để chúng ta cùng làm.
+
+Và ừ, chúng ta ở đây rồi.
+
+Và điều đầu tiên tôi sẽ làm trong terminal này là nhập lệnh git minus minus version để kiểm tra
+
+xem tôi đã cài đặt git chưa và phiên bản của nó là bao nhiêu, nếu đã cài thì sẽ thấy.
+
+Và nếu bạn chưa cài đặt git thì khi chạy nó sẽ nhắc bạn cài đặt.
+
+Ừ, vậy thì hãy làm theo hướng dẫn đó hoặc xem trong tệp readme để chắc chắn rằng bạn đã cài đặt git tại
+
+thời điểm này.
+
+Ngoài ra, nếu bạn mới làm quen với dòng lệnh, nếu bạn không quen sử dụng thiết bị đầu cuối theo cách này,
+
+có một hướng dẫn khác về điều đó để tìm trong thư mục hướng dẫn trong kho lưu trữ, hãy xem hướng dẫn về dòng lệnh
+
+và sử dụng hướng dẫn này như một cơ hội để xây dựng một số nền tảng, một số sự tự tin vào những thứ như tệp và thư
+
+mục di chuyển giữa chúng, sao chép chúng.
+
+Mọi thông tin cơ bản đều có trong dòng lệnh để bạn nắm được tình hình thực tế.
+
+Và sau đó chúng ta sẽ đi tiếp.
+
+Được rồi, tôi sẽ bắt đầu bằng cách nhập CD, chỉ để xem tôi đang ở thư mục gốc của mình
+
+để tìm ra thư mục đó là gì, tôi nhập PWD và nó cho tôi biết rằng hiện tại tôi đang ở //users/Z.
+
+Đó là thư mục nhà của tôi.
+
+Bạn sẽ không ở trong chế độ người dùng trừ khi tên của bạn cũng được ed, chế độ này khá cao, nhưng bạn sẽ ở trong chế độ người dùng gạch chéo tên
+
+của mình.
+
+Vì vậy, điều tiếp theo chúng ta sẽ làm là tạo một thư mục mới có tên là projects, nơi lưu trữ tất cả các dự án của chúng
+
+ta.
+
+Thông thường sẽ có một thư mục mà bạn gọi là dự án.
+
+Có thể bạn đã có một cái, trong trường hợp đó bạn có thể nhập dự án CD và bạn sẽ đến đó ngay.
+
+Có thể không, trong trường hợp đó chúng ta sẽ cần tạo một cái, đó là điều chúng ta sẽ làm bây giờ.
+
+Và bây giờ tất nhiên bạn có thể sử dụng nó theo cách khác.
+
+Bạn có thể đặt nó trong một thư mục khác như thư mục tài liệu.
+
+Có một điều.
+
+Một điều cần lưu ý là tốt nhất là không nên lưu nó vào thư mục thuộc danh mục iCloud của bạn, chẳng hạn
+
+như tài liệu hoặc máy tính để bàn.
+
+Cố gắng tránh đặt nó trên màn hình máy tính hoặc trong tài liệu.
+
+Có nhiều lý do cho điều đó, nhưng một trong số đó là những thư mục đó được sao chép vào iCloud
+
+của Apple và điều đó có thể gây ra nhiều vấn đề về nghỉ ngơi và làm chậm mọi thứ.
+
+Và điều này không cần thiết vì kho lưu trữ của bạn đã được sao chép vào GitHub.
+
+Vì vậy, lời khuyên là bạn chỉ nên lưu nó trong thư mục gốc của mình.
+
+Vì vậy, tôi sẽ nhập lệnh mkdir để tạo một thư mục có tên là projects.
+
+Đấy, thế là xong.
+
+Chúng tôi đã làm được rồi.
+
+Bây giờ tôi có thể đưa các dự án vào đĩa CD.
+
+Và nếu bây giờ tôi làm PWD thì tôi sẽ ở đâu?
+
+Tôi là người dùng và thêm dự án vào đúng nơi tôi muốn.
+
+Được rồi, việc tiếp theo tôi sẽ làm là quay lại kho lưu trữ.
+
+Đây rồi.
+
+Đây là kho lưu trữ kỹ thuật LM trên github. com.
+
+Và có nút mã màu xanh lá cây này.
+
+Và tôi nhấn vào đây và đảm bảo rằng Https được chọn như thế.
+
+Và tôi sẽ sao chép URL này vào bảng tạm.
+
+Nó ghi là đã sao chép.
+
+Được thôi.
+
+Vì vậy, bây giờ tôi đã sao chép liên kết tới URL này.
+
+Được rồi, bây giờ tôi quay lại cửa sổ terminal.
+
+Đây rồi.
+
+Và bây giờ tôi gõ lệnh huyền thoại git clone.
+
+Điều đó có nghĩa là tôi muốn lấy một bản sao kho lưu trữ của người khác.
+
+Vâng, đó là kho lưu trữ của tôi và tôi lưu nó cục bộ trên máy tính git clone của mình.
+
+Sau đó bạn dán liên kết mà chúng ta vừa sao chép vào.
+
+Vậy chúng ta đang nói đến git clone.
+
+Và sau đó là kho lưu trữ từ xa có tên là LM engineering.
+
+Và khi tôi nhấn enter thì mất vài giây.
+
+Nhưng bây giờ nó đang sao chép toàn bộ kho lưu trữ. Tôi chứng minh điều đó, tôi nhập ls để liệt kê nội dung của các dự án.
+
+Và chúng ta thấy ở đó.
+
+Chúng ta có một thứ ở đây.
+
+Nó được gọi là kỹ thuật LM và tôi có thể làm CD, kỹ thuật LM, và sau đó tôi có thể làm LZ một lần nữa.
+
+Và còn có nội dung về kỹ thuật LM.
+
+Kho lưu trữ.
+
+Nó đã được nhân bản.
+
+Bây giờ nó đã có trên máy tính của tôi.
+
+Cho đến giờ thì mọi việc vẫn ổn.
+
+Được rồi.
+
+Điều tiếp theo chúng ta sẽ làm vẫn ở bước một.
+
+Bước một là một bước khá lớn.
+
+Bước một, chúng ta sẽ quay lại trình duyệt một lần nữa.
+
+Và bây giờ tôi muốn bạn chuyển sang con trỏ.
+
+Bạn thấy đấy, đối với dự án này, chúng ta sẽ sử dụng cursor làm IDE làm môi trường phát
+
+triển.
+
+Bây giờ bạn không cần phải sử dụng con trỏ nếu bạn không muốn.
+
+Cursor là một nhánh của VSCode.
+
+Và nếu bạn sử dụng VSCode, mọi thứ về cơ bản sẽ trông giống hệt nhau.
+
+Và bạn cũng có thể sử dụng bất cứ thứ gì khác.
+
+Bạn có thể sử dụng Windsurf, bạn có thể sử dụng PyCharm, bất cứ thứ gì bạn muốn.
+
+Mọi thứ đều tốt.
+
+Nhưng tôi sẽ sử dụng con trỏ.
+
+Thật tuyệt.
+
+Tôi thích các tính năng AI.
+
+Ừ, bạn phải trả tiền cho các tính năng AI, nhưng bạn sẽ được dùng thử miễn phí hai tuần, ít nhất là tính đến hôm nay nếu
+
+bạn mới sử dụng.
+
+Nếu không thì đây là gói trả phí, nhưng bạn không cần phải trả tiền.
+
+Nếu bạn không trả tiền, bạn sẽ không nhận được tính năng tự động hoàn thành AI tuyệt vời với các mô hình biên giới, nhưng điều đó hoàn
+
+toàn tùy thuộc vào bạn.
+
+Ừm, có nút tải xuống ở đây, tải xuống cho Mac OS.
+
+Tôi có thể nhấn nút đó.
+
+Sau đó, nó sẽ tải xuống theo cách thông thường và tôi có thể mở nó, tôi có thể khởi chạy nó.
+
+Và sau đó sẽ có một quá trình cài đặt khi tôi phải trả lời một vài câu hỏi, thiết lập
+
+tài khoản, chọn những gì tôi muốn và bạn chỉ cần chọn tất cả các mặc định, thiết lập tất cả, ừm, và ừm đăng ký.
+
+Tất nhiên là hãy sử dụng bản dùng thử miễn phí.
+
+Ừ, và sau đó thực hiện mọi việc để bạn có thể khởi chạy con trỏ và sẵn sàng sử dụng.
+
+Sau khi cài đặt cursor, bạn có thể khởi chạy nó từ thư mục ứng dụng trong cửa sổ Finder
+
+hoặc có thể là một biểu tượng trên màn hình nền.
+
+Ờ, hoặc có thể nó nằm trong khay hệ thống của bạn.
+
+Nhưng sau đó bạn có thể khởi chạy nó và nó sẽ mở ra và trông như thế này.
+
+Đây là một loại màn hình bắt đầu mới.
+
+Và nếu nó không trông như thế này, ngay cả sau khi bạn đã trả lời bất kỳ câu hỏi nào lần đầu tiên,
+
+thì vẫn có một menu tệp.
+
+Vào menu tệp và chọn Cửa sổ mới, giao diện sẽ hiển thị như thế này.
+
+Bạn sẽ không có thứ này ở đây.
+
+Tôi nghĩ bạn chỉ cần những nút này thôi.
+
+Và điều đầu tiên chúng ta sẽ làm là mở một dự án.
+
+Vì vậy, một dự án trong cursor sẽ đề cập đến thư mục cấp cao nhất được gọi là thư mục gốc của dự án, chứa toàn bộ
+
+mã của bạn.
+
+Trong trường hợp của chúng tôi, đó là kỹ thuật LM, thứ mà chúng tôi vừa sao chép.
+
+Và đó chính là dự án mà chúng ta sẽ mở ra ngay bây giờ.
+
+Được rồi.
+
+Vì vậy, tôi vào đây và nhấp vào Mở Dự án.
+
+Hiện tại tôi đang làm biên tập viên.
+
+Vì vậy, trong trình soạn thảo, tôi vào các dự án và đây là kỹ thuật LM.
+
+Và bây giờ thì việc này hơi phức tạp một chút.
+
+Bạn nhấp đúp vào LM engineering.
+
+Bây giờ chúng ta sẽ xem xét nội dung của kỹ thuật LM.
+
+Và bây giờ bạn nhấn mở.
+
+Ý của nó là đó là thư mục của chúng ta.
+
+Và nó hiện ra và thế là xong.
+
+Đây là.
+
+Đây là khởi đầu cho mọi việc chúng ta cùng làm.
+
+Vì vậy, điều bạn muốn tìm là kiểm tra xem các tuần khác nhau có xuất hiện ở đây dưới dạng
+
+thư mục hay không, từ tuần một đến tuần tám.
+
+Và bạn cũng muốn kiểm tra điều đó bằng chữ in hoa.
+
+Phía trên bên trái là kỹ thuật LM.
+
+Điều đó có nghĩa là chúng ta đã mở đúng thư mục.
+
+Nếu bạn có tính năng trò chuyện này ở đây thì bạn có thể bỏ nó đi.
+
+Đây là cuộc trò chuyện AI.
+
+Một cách để loại bỏ nó là kéo nó qua như thế này.
+
+Nhưng đây chính là màn hình mà tôi muốn thấy.
+
+Và thế là chúng ta có mặt ở đây.
+
+Chúng tôi đã mở dự án LM trong con trỏ.
+
+Và thế là hoàn thành bước một trong hướng dẫn năm bước của chúng tôi.
+
+Và bây giờ chúng ta có tin tốt là các bước còn lại là những bước chúng ta có thể thực hiện cùng với các đồng nghiệp PC của mình.
+
+Đồng thời, chúng ta có thể thực hiện chúng cùng nhau vì chúng sẽ giống hệt nhau.
+
+Vậy nên bây giờ tôi xin chúc mừng bạn đã hoàn thành bước một.
+
+Tôi sẽ gặp lại các bạn trong video tiếp theo với mọi người để thực hiện từ bước thứ hai đến bước thứ năm.
+
+Hẹn gặp lại bạn sau.

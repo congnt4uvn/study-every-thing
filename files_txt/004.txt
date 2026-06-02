@@ -1,0 +1,379 @@
+Nếu bạn là người dùng máy tính thì xin chào mừng.
+
+Bạn đã đến đúng nơi rồi.
+
+Nếu bạn là người dùng máy Mac thì video này không dành cho bạn.
+
+Bạn thuộc về nhóm tiếp theo.
+
+Đi qua đó.
+
+Được rồi, những người dùng máy tính.
+
+Giờ thì bạn thấy đấy, công việc đầu tiên của tôi sau khi tốt nghiệp đại học là làm việc cho IBM, một công ty sản xuất máy tính cá nhân.
+
+Và vì thế PC là nguồn gốc của tôi.
+
+Vậy thì các ngươi là người của ta.
+
+Vậy chúng ta hãy bắt đầu thiết lập môi trường của bạn.
+
+Và việc này sẽ rất dễ dàng.
+
+Tôi hy vọng chúng ta sẽ bắt đầu lại một lần nữa.
+
+Đi tới kho lưu trữ GitHub github. com slash engineering được liên kết khắp nơi.
+
+Và lý do chính tôi giới thiệu nó cho bạn là nếu bạn cuộn xuống, bạn sẽ thấy nội dung của tệp readme,
+
+bao gồm cả các liên kết đến hướng dẫn thiết lập dành cho bạn.
+
+Và đó chính là nơi bạn nên tìm hiểu chi tiết về mọi thứ chúng tôi sẽ làm.
+
+Và hướng dẫn thiết lập là tốt nhất.
+
+Đó là nơi tốt nhất để đi.
+
+Bạn có thể xem những gì tôi làm để hiểu rõ hơn về các màn hình khác nhau, nhưng
+
+hướng dẫn sẽ hướng dẫn bạn từng bước và chỉ cho bạn biết điều gì có thể xảy ra cũng như mẹo khắc phục sự
+
+cố, v.v.
+
+Riêng đối với PC, có một số lỗi thường gặp và ở ngay đầu hướng dẫn thiết lập PC, tôi có
+
+những lỗi này kèm theo cách kiểm tra xem bạn có gặp phải vấn đề này không và cách
+
+khắc phục chúng, chẳng hạn như chạy VPN, chẳng hạn như giới hạn ký tự 260 của Windows, điều này thực sự
+
+khó chịu.
+
+Nhưng có nhiều cách để kiểm tra xem bạn có mắc phải tình trạng đó không và nếu có thì cách khắc phục chính xác là gì.
+
+Vậy nên hãy xem xét kỹ nhé.
+
+Và khi bạn đã sẵn sàng, chúng ta hãy bắt đầu với môi trường của bạn.
+
+Và thế là chúng ta bắt đầu.
+
+Đầu tiên, bạn vào menu Start.
+
+Và ở đây bạn nhập PowerShell để mở ra thứ gọi là PowerShell, dấu nhắc lệnh mà chúng ta đã làm
+
+với Obama.
+
+Bây giờ có một điều cần lưu ý ở đây là bạn chỉ cần nhấp vào PowerShell để khởi động PowerShell.
+
+Bạn cũng có thể nhấp chuột phải và chọn Chạy với tư cách quản trị viên, điều này sẽ cho bạn thêm quyền khi chạy chương trình.
+
+Nếu bạn gặp phải vấn đề không có quyền thực hiện một việc gì đó, điều đầu tiên bạn cần thử là chạy
+
+chương trình với tư cách quản trị viên để xem liệu có giải quyết được vấn đề hay không.
+
+Vậy thì điều đó đáng để biết.
+
+Được thôi.
+
+Nhưng với điều đó, chúng ta sẽ mở PowerShell.
+
+Nó trông như thế này.
+
+Và điều đầu tiên tôi muốn bạn làm là nhập từ khóa git git và enter để xem bạn có nhận được kết quả
+
+như thế này không.
+
+Và điều đó sẽ cho bạn biết git có được cài đặt trên máy tính của bạn hay không.
+
+Bây giờ, nếu bạn không chắc chắn về sự khác biệt giữa git và GitHub, chúng nghe có vẻ rất giống nhau.
+
+Chúng không phải là một.
+
+Nếu bạn không chắc chắn thì trong kho lưu trữ có một thư mục có tên là hướng dẫn.
+
+Nếu bạn vào mục hướng dẫn, sẽ có một số hướng dẫn tuyệt vời về các chủ đề cơ bản khác nhau và một trong số đó
+
+sẽ giải thích cho bạn git là gì, GitHub là gì, sự khác biệt giữa chúng là gì, v.v.
+
+Vui lòng xem lại nhé.
+
+Nhưng giả sử bạn biết và bạn đã đến đây.
+
+Và nếu bạn không nhận được báo cáo này vì bạn chưa cài đặt git, hãy làm theo hướng dẫn trong tệp
+
+Readme.
+
+Nhưng về cơ bản, bạn sẽ vào trình duyệt.
+
+Đây là hướng dẫn thiết lập.
+
+Bạn vào trang web này và có thể sử dụng nó để tải git cho Windows và sau đó cài đặt trên máy tính
+
+của bạn.
+
+Vì vậy, hãy làm theo các hướng dẫn này, cài đặt, chạy cục bộ và khi quay lại đây, bạn
+
+có thể cần khởi động lại máy tính hoặc ít nhất là mở PowerShell mới.
+
+Nhưng sau khi thực hiện xong, bạn sẽ có thể nhập git và thấy lệnh này.
+
+Và chúng ta đã có một khởi đầu tốt đẹp.
+
+Bây giờ, nếu bạn không quen sử dụng dòng lệnh, nếu bạn không biết những điều cơ bản về điều này,
+
+thì hãy vào thư mục hướng dẫn trên kho lưu trữ và đọc hướng dẫn về cách sử dụng dòng lệnh, chỉ để đảm bảo rằng bạn cảm thấy
+
+thoải mái với những điều cơ bản, với sự khác biệt giữa tệp và thư mục và thư mục con,
+
+những thứ tương tự như vậy, để các bước tiếp theo có thể giúp bạn hiểu rõ hơn.
+
+Không quan trọng phải là chuyên gia, nhưng ít nhất phải biết những điều cơ bản.
+
+Được rồi, tôi sẽ xóa màn hình hiện tại của chúng ta.
+
+Bạn có thể thấy chúng ta đang ở ổ C trong thư mục home của tôi, người dùng Ed.
+
+Và điều rất điển hình trong những thứ này là có một thư mục con mà bạn tạo ra có tên là dự án, đó là nơi lưu
+
+trữ tất cả các dự án của bạn.
+
+Có thể bạn đã có thư mục đó, trong trường hợp đó bạn có thể nhập CD projects để thay đổi vào thư mục đó, nhưng
+
+tôi thì không.
+
+Tôi vẫn chưa có cái nào cả.
+
+Tôi chỉ có thư mục home của mình.
+
+Và vì vậy, điều tôi cần làm là tạo một thư mục dự án.
+
+Vì vậy, tôi sẽ nhập lệnh mkdir để tạo một thư mục có tên là projects.
+
+Đấy, thế là xong.
+
+Nó đã được thực hiện, tôi vẫn đang ở C.
+
+Người dùng thêm thư mục gốc của tôi.
+
+Vì vậy, tôi nhập CD projects để vào thư mục mới này.
+
+Và nếu tôi nhìn vào nó thì LS sẽ nhìn vào nội dung.
+
+Nó trống rỗng.
+
+Đây là một thư mục mới.
+
+Nó nằm trong các dự án của người dùng C.
+
+Được rồi.
+
+Điều tiếp theo chúng ta sẽ làm là một việc vô cùng nổi tiếng.
+
+Nó được gọi là sao chép kho lưu trữ.
+
+Và đó là lệnh git clone dùng để sao chép kho lưu trữ của ai đó, trong trường hợp này là kho lưu trữ của tôi, và lưu trữ
+
+cục bộ trên máy tính của bạn.
+
+Và đó chính là điều chúng ta sẽ làm.
+
+Và chúng ta sẽ đặt nó ngay tại đây trong thư mục dự án.
+
+Vì vậy, nếu tôi quay lại trình duyệt, bây giờ tôi sẽ quay lại GitHub.
+
+Hy vọng bạn cảm thấy thoải mái với sự khác biệt giữa GitHub và git.
+
+Tôi sẽ chuyển đến kho lưu trữ kỹ thuật LM.
+
+Vậy là chúng ta đã đến github. com.
+
+Kỹ thuật.
+
+Và có một nút màu xanh lá cây ở đây, trên đó có mã.
+
+Nếu tôi di chuột qua đây, hãy đảm bảo rằng Https được chọn ở đây.
+
+Và đây là cửa sổ nhân bản.
+
+Và tôi sẽ nhấn vào bản sao URL nhỏ đó vào bảng tạm ngay tại đây.
+
+Và đó là sao chép URL của kho lưu trữ này vào bảng tạm của tôi.
+
+Bây giờ tôi có thể quay lại đây để vào dòng lệnh của mình.
+
+Và tôi sẽ gõ lệnh, lệnh này sẽ thực hiện mọi thứ.
+
+Tôi sẽ gõ git clone.
+
+Và sau đó tôi sẽ dán URL đó vào ngay tại đó.
+
+Và khi tôi nhấn enter thì mất vài giây.
+
+Nhưng hiện tại nó đang kéo toàn bộ kho lưu trữ và đưa nó đến đây cục bộ.
+
+Và nếu bây giờ tôi thực hiện LZ để liệt kê nội dung của các dự án C users Ed, bạn có thể thấy rằng
+
+có một dự án C users ed lem engineering.
+
+Được thôi, điều đó thật thú vị.
+
+Bây giờ chúng ta thấy Lem đang tiến hành kỹ thuật để đưa vào thư mục này.
+
+Xem có gì ở đây.
+
+Chúng tôi thực hiện LZ.
+
+Và đó chính là nó.
+
+Chúng tôi có nội dung trong kho lưu trữ của riêng mình.
+
+Chúng tôi đã lưu nó cục bộ trên máy tính của mình.
+
+Chúng tôi đã sẵn sàng.
+
+Được rồi.
+
+Chúng ta vẫn đang ở bước một của hướng dẫn.
+
+Đây vẫn là bước một.
+
+Nhưng bước đầu tiên là một bước thú vị.
+
+Điều tiếp theo chúng ta sẽ làm là cài đặt cursor, đây là một
+
+môi trường phát triển rất phổ biến vì nó sử dụng AI để hỗ trợ điền mã của bạn và nó chỉ ở cursor như vậy.
+
+C bạn là.
+
+Và tất nhiên nó được liên kết trong kho lưu trữ.
+
+Ừm, và nó tuyên bố rằng đây là cách tốt nhất để lập trình bằng AI, sẽ là người đánh giá điều đó.
+
+Và nhân tiện, cursor có bản dùng thử miễn phí trong hai tuần.
+
+Và sau đó có một gói trả phí, ít nhất là tính đến thời điểm hiện tại.
+
+Nhưng bạn không cần phải trả tiền nếu bạn không muốn.
+
+Bạn có thể tiếp tục sử dụng nó như một IDE, một môi trường phát triển, bất kể có trả phí hay không.
+
+Tùy bạn thôi.
+
+Bạn không cần.
+
+Bạn không cần phải tận dụng tính năng tự động hoàn thành của AI.
+
+Ngoài ra, nếu bạn thích làm việc với VS code thì con trỏ về cơ bản cũng giống như vậy.
+
+Nó là một nhánh của mã VS.
+
+Vì vậy, bạn chắc chắn có thể sử dụng cả hai hoặc bất kỳ IDE nào bạn thích.
+
+Bạn có thể sử dụng Windsurf, bạn có thể sử dụng PyCharm tùy theo ý thích.
+
+Nhưng bạn sẽ nhấn nút tải xuống cho Windows.
+
+Tất nhiên là nó sẽ tải xuống.
+
+Sau đó, bạn sẽ chạy trình cài đặt đó.
+
+Có một số điều bạn cần chấp nhận.
+
+Bạn phải thiết lập một tài khoản.
+
+Bạn phải đồng ý với điều gì đó.
+
+Và sau khi đã trải qua tất cả các màn hình khác nhau, bạn sẽ sẵn sàng mở ra.
+
+Con trỏ.
+
+Được rồi.
+
+Bây giờ chúng ta vào menu bắt đầu, chọn con trỏ và nhập con trỏ.
+
+Nó cũng có thể là một biểu tượng trên màn hình nền và bạn có thể nhấp vào đó để khởi chạy.
+
+Và con trỏ sẽ hiện ra như thế này lần đầu tiên.
+
+Bạn có thể sẽ được hỏi một vài câu hỏi, nhưng sau khi cài đặt xong và sẵn sàng, nó sẽ trông giống như
+
+thế này.
+
+Nhưng có lẽ không có những thứ ở đây.
+
+Nếu nó không trông như thế này, bạn có thể vào tệp và chọn Cửa sổ mới, sau đó bạn sẽ thấy nó trông
+
+như thế này.
+
+Và điều đầu tiên cần làm là nhấn Mở Dự án.
+
+Bây giờ, một dự án trong con trỏ là một khái niệm quan trọng.
+
+Đây là thư mục cấp cao nhất chứa toàn bộ công việc của bạn.
+
+Trong trường hợp của chúng tôi, nó được gọi là kỹ thuật LM.
+
+Đó cũng được gọi là gốc dự án của chúng tôi.
+
+Vậy đôi khi bạn gọi nó là gì nhỉ.
+
+Và vì thế chúng ta muốn mở thư mục đó.
+
+Và điều quan trọng là phải làm đúng vì nếu bạn mở nhầm thư mục, mọi thứ sẽ thực sự khó hiểu trong
+
+con trỏ.
+
+Vậy hãy làm đúng điều này nhé.
+
+Vậy nó ở đâu?
+
+Vâng, về cơ bản thì nó nằm ở ổ C của tôi.
+
+Nó nằm trong trình soạn thảo của người dùng và sau đó nằm trong thư mục dự án của tôi.
+
+Vì vậy, tôi tìm các dự án và thấy mục LM engineering và tôi nhấp đúp vào đó.
+
+Vì vậy, bây giờ tôi đang xem xét nội dung của kỹ thuật LM.
+
+Sau đó tôi nhấn chọn thư mục để có nghĩa đây là thư mục gốc của dự án.
+
+Đây chính là nơi chúng ta sẽ đến.
+
+Và nó mở ra.
+
+Và bạn có thể thấy tám tuần thư mục.
+
+Bên trái.
+
+Bạn có thể thấy từ LM engineering được viết hoa ở góc trên bên trái.
+
+Và đó là dấu hiệu cho thấy bạn đã có dự án phù hợp.
+
+Mở khối này bằng chữ in hoa ở đây để cho bạn biết bạn đã chọn đúng dự án.
+
+Bạn đã vào rồi.
+
+Con trỏ đang mở.
+
+Kỹ thuật LM đang mở.
+
+Chúc mừng.
+
+Chúng tôi thực sự đã sẵn sàng để bắt tay vào dự án này rồi.
+
+Và như vậy là hoàn thành bước một của hướng dẫn thiết lập.
+
+Và tôi có tin tốt đây.
+
+Bước một là bước duy nhất phụ thuộc vào PC.
+
+Các bước còn lại sẽ áp dụng cho cả PC và Mac.
+
+Vậy nên bây giờ tôi sẽ giữ máy cho bạn.
+
+Video tiếp theo sẽ dành cho những người dùng Mac.
+
+Và sau đó khi chúng ta họp lại, chúng ta sẽ có thể hoàn thành mọi việc cùng nhau với các bước còn lại.
+
+Được thôi.
+
+Vậy thì tôi sẽ gặp lại các bạn trong một video nữa nhé.

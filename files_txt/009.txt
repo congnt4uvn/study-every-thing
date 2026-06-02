@@ -1,0 +1,441 @@
+Được rồi, bây giờ bạn cuộn đến hộp đầu tiên ngay tại đây có ghi là nhập khẩu.
+
+Và cách bạn chạy đoạn mã này được gọi là ô là bạn giữ nút Shift và nhấn phím
+
+Return.
+
+Khi bạn nhấp vào bất kỳ đâu trong hộp này, tôi nhấn vào đó và nó sẽ chạy.
+
+Bây giờ, nếu bạn gặp bất kỳ lỗi nào khi chạy chương trình này, nếu bạn gặp lỗi nhập hoặc lỗi tương tự, hoặc nếu chương trình
+
+có vẻ như không chạy, thì chương trình vẫn nằm ở đó.
+
+Điều này có nghĩa là kernel của bạn chưa được thiết lập đúng.
+
+Nhìn vào phía trên bên phải đó.
+
+Hãy xem của tôi nói gì.
+
+Nó cần phải trông giống thế này một chút. 12. thứ gì đó.
+
+Nó cần phải đề cập đến venv địa phương của bạn ngay tại đó.
+
+Đó chính là điều bạn phải thấy.
+
+Và sau đó nó sẽ chạy tốt thôi.
+
+Hiện vẫn chưa có kết quả.
+
+Chẳng có chuyện gì xảy ra cả.
+
+Nó sẽ chạy.
+
+Nó sẽ hiển thị dấu tích, nghĩa là nó đã chạy.
+
+Bạn vừa thực hiện một số thao tác nhập dữ liệu.
+
+Chúng ta sẽ nói thêm về chức năng của tất cả những điều này sau, nhưng bây giờ, hãy chạy đoạn mã đó.
+
+Được rồi.
+
+Điều tiếp theo chúng ta sẽ làm.
+
+Vậy thì hãy chuyển sang khối mã tiếp theo ngay tại đây, chúng ta sẽ tải tệp dot EMV, tệp bí mật chứa các
+
+biến môi trường, bí mật của chúng ta.
+
+Chúng ta sẽ tải nó vào.
+
+Và sau đó chúng ta sẽ thu thập thứ gọi là khóa gạch dưới của API OpenAI.
+
+Và chỉ cần bạn thiết lập đúng thì nó sẽ tìm được chìa khóa và sẽ vui vẻ.
+
+Để tôi xem nào, tôi giữ phím Shift, nhấn Enter và nó báo đã tìm thấy khóa API và trông có vẻ ổn cho đến giờ.
+
+Bây giờ nếu của bạn không nói như vậy thì có vấn đề gì đó với tệp EMV của bạn và nó sẽ đưa ra một số lời giải
+
+thích.
+
+Hy vọng là vậy.
+
+Có lẽ mọi chuyện không bắt đầu bằng điều đúng đắn.
+
+Có thể bạn quên lưu tệp env.
+
+Có gì đó không ổn.
+
+Bạn có thể đến phòng xử lý sự cố để tìm hiểu hoặc tự mình kiểm tra và cố gắng tìm ra lý do
+
+tại sao máy không thể đọc được tệp EMV của bạn, nhưng tôi hy vọng là máy có thể đọc được.
+
+Bạn có vóc dáng tuyệt vời.
+
+Bạn đã tìm thấy khóa API.
+
+Mọi thứ đều tốt đẹp.
+
+Chúng ta hãy thực hiện cuộc gọi đầu tiên tới OpenAI đang chạy trên đám mây.
+
+Bây giờ chúng ta sẽ gọi OpenAI trên nền tảng đám mây.
+
+Và nếu bạn không muốn, nếu bạn muốn sử dụng Olama, hãy đợi đến ngày mai, ngày thứ hai.
+
+Chúng ta sẽ làm lại việc này bằng cách sử dụng Olama chạy cục bộ, vì vậy đó sẽ là ngày của bạn.
+
+Vì vậy, đừng lo sợ, điều đó sẽ xảy ra.
+
+Nhưng hiện tại, điều chúng ta sẽ làm ở đây là gửi tin nhắn này tới OpenAI
+
+tới GPT hai.
+
+Trên thực tế, chúng ta sẽ sử dụng GPT 5, phiên bản mới của GPT.
+
+Và chúng ta sẽ làm gì?
+
+Chúng ta hãy chào GPT nhé.
+
+Đây là tin nhắn đầu tiên tôi gửi cho bạn.
+
+CHÀO.
+
+Ừ, vậy nên tôi đã đưa điều đó vào thông báo biến đổi này.
+
+Bây giờ, điều đầu tiên tôi phải làm là đưa thông tin đó vào một biến khác có
+
+tên là messages, có định dạng đặc biệt mà OpenAI mong đợi.
+
+Và bạn sẽ thấy con trỏ đã điền những gì nó biết tôi sẽ làm, nhưng tôi sẽ bỏ qua con
+
+trỏ.
+
+Tôi sẽ gõ những dòng này vì tôi biết một số người thích tôi gõ, nên tôi sẽ gõ.
+
+Vậy nên những gì bạn gửi đến OpenAI là định dạng cụ thể mà OpenAI đưa ra và chúng ta sẽ nói
+
+nhiều hơn về định dạng này.
+
+Vì vậy, tôi không muốn bạn phải lo lắng về điều đó ngay bây giờ.
+
+Tôi chỉ muốn nói với bạn rằng đó là một danh sách Python và danh sách Python này chứa một số từ điển.
+
+Từ điển Python.
+
+Trong trường hợp này, chúng ta chỉ có một từ điển.
+
+Đấy, nó đây rồi.
+
+Vậy thì đây là danh sách chỉ có một từ điển.
+
+Và từ điển đó sẽ có hai khóa.
+
+Một chìa khóa được gọi là vai trò.
+
+Và chìa khóa còn lại sẽ được gọi là nội dung.
+
+Và chúng ta sẽ giao cho vai trò đó một vai trò chủ chốt.
+
+Chúng ta sẽ có giá trị là từ người dùng.
+
+Và chúng ta sẽ tìm hiểu lý do sau.
+
+Và sẽ có một lĩnh vực khác, một lĩnh vực khác có nội dung quan trọng.
+
+Và những gì chúng ta sẽ đưa vào đó chính là thông điệp đó.
+
+Xin chào GPT, đây là tin nhắn đầu tiên tôi gửi cho bạn.
+
+Được rồi, mọi chuyện đã rõ ràng.
+
+Chúng ta hãy in ra xem nó trông như thế nào.
+
+Có vẻ như là danh sách có một từ điển với nội dung người dùng có vai trò.
+
+Xin chào GPT, đây là tin nhắn đầu tiên tôi gửi cho bạn.
+
+CHÀO.
+
+Được rồi.
+
+Thật dễ dàng.
+
+Tiếp theo, tôi sẽ di chuột xuống đây như thế này.
+
+Và tôi sẽ thêm vào.
+
+Vậy nên tôi chỉ cần nhấn vào khối mã khác bằng cách nhấn mã ngay tại đó.
+
+Bây giờ tôi sẽ nhập, ừm, OpenAI bằng mở a bằng mở AI như thế này.
+
+Tôi đang tạo một phiên bản mới của đối tượng OpenAI.
+
+Và chúng ta sẽ đề cập cụ thể hơn về tác dụng của nó vào lần sau.
+
+Và bây giờ tôi sẽ thực hiện lệnh gọi API đầu tiên tới GPT đang chạy trên đám mây.
+
+Và đây là cách tôi thực hiện, tôi nhập response bằng OpenAI dot chat dot completions dot create.
+
+Và điều đó có thể nghe có vẻ vô lý với bạn.
+
+Bạn sẽ quen với điều đó đến mức cuối cùng bạn sẽ mơ thấy nó.
+
+Nhưng bây giờ, hãy tin tôi đi, đó là những gì chúng ta gõ.
+
+Nó được gọi là API Hoàn tất trò chuyện.
+
+Và bạn nói rằng OpenAI hoàn thành việc tạo ra.
+
+Chúng ta truyền vào tên của một mô hình.
+
+Và cái tên mà chúng ta sẽ sử dụng là GPT five Dash nano, một phiên bản rất rẻ của mẫu mới nhất, GPT
+
+five.
+
+Ít nhất là thông tin mới nhất hiện tại với tôi.
+
+Và sau đó, các thông điệp mà tôi sẽ truyền vào sẽ là các thông điệp biến đổi mà chúng ta vừa tạo.
+
+Và đó chính là thứ sẽ gọi là GPT.
+
+Và với những gì trả về, điều chúng ta muốn thực hiện là chúng ta muốn lấy phản hồi này và chúng
+
+ta muốn lấy biến lựa chọn ở đó.
+
+Chúng tôi muốn lấy nội dung tin nhắn được lựa chọn đầu tiên.
+
+Đấy, nó đây rồi.
+
+Đó chính là những gì chúng ta sẽ làm.
+
+Bây giờ tôi sẽ nhấn phím Shift và Enter.
+
+Và khi tôi làm điều đó, nó thực sự sẽ gọi tới GPT đang chạy trên đám mây.
+
+Hãy làm thôi.
+
+Chúng ta hãy xem điều gì sẽ xảy ra.
+
+Phải mất một chút thời gian để làm được điều đó.
+
+Và nó nói, xin chào.
+
+Rất vui được gặp và chào mừng bạn.
+
+Cảm ơn bạn đã chào hỏi.
+
+Tôi ở đây để giúp bạn giải đáp thắc mắc, giải thích, viết lách, động não, lập kế hoạch, học tập và nhiều hơn nữa.
+
+Mã hóa.
+
+Hôm nay bạn muốn làm gì?
+
+Nếu bạn không chắc chắn, sau đây là một vài ý tưởng nhanh.
+
+Và cứ thế tiếp tục.
+
+Vậy là chúng ta đã có câu trả lời rất chi tiết cho lần gọi đầu tiên tới GPT chạy trên nền tảng đám mây.
+
+Và mọi việc đều khá dễ dàng.
+
+Và chúng tôi đã chạy nó từ mã.
+
+Và nếu bạn đã biết tất cả những điều này rồi thì tốt cho bạn.
+
+Phóng to nó.
+
+Nếu đây là điều hoàn toàn mới mẻ với bạn, chúng ta sẽ nói thêm nhiều về chủ đề này.
+
+Mọi chuyện sẽ sớm trở nên có ý nghĩa thôi.
+
+Nhưng tôi muốn bạn tận hưởng lần đầu tiên được gọi đến chương trình LLM.
+
+Được rồi.
+
+Vì vậy, tôi đã viết một hàm nhỏ có tên là lấy nội dung trang web.
+
+Và chức năng nhỏ đó nằm ngay trong scraper pi.
+
+Và đây là hình ảnh của nó.
+
+Đây không phải là khóa học về thu thập dữ liệu web.
+
+Vì vậy, tôi không có ý định kể cho bạn nghe về những gì tôi đã làm ở đây.
+
+Tôi đang sử dụng một gói phần mềm tuyệt vời có tên là Beautifulsoup rất phổ biến.
+
+Bạn có thể xem chức năng này nếu muốn và tự mình sử dụng.
+
+Nhưng thực ra rất, rất đơn giản.
+
+Và nó thực hiện chính xác những gì được gọi là thu thập dữ liệu từ phía máy chủ để thu thập trang web đó.
+
+Nó không thực sự hiển thị trang web này.
+
+Vì vậy, đây không phải là công cụ thu thập dữ liệu web phức tạp, nhưng nó vẫn lấy được nội dung của URL này.
+
+Vậy đó là những gì chúng tôi đang sử dụng ở đây.
+
+Và ví dụ, tôi có thể truyền vào trang web cá nhân của mình https.
+
+Com và tôi có thể sử dụng chức năng tìm nạp nội dung trang web và xem những gì tôi nhận được ở đó và những gì tôi nhận được nếu tôi chạy.
+
+Đây là rất nhiều thông tin từ trang web của tôi.
+
+Và nếu tôi thực sự nói như quảng cáo in, thì chúng ta sẽ nhận được thứ gì đó nhiều hơn thế một chút.
+
+Và đây rồi.
+
+Đây là nội dung trang web của tôi với rất nhiều thông tin.
+
+Và điều đáng chú ý là hiện tại không có gì liên quan đến AI.
+
+Công cụ quét web này chỉ đơn giản là lấy một trang web.
+
+Vậy thôi.
+
+Nhưng bây giờ chúng ta sẽ bắt đầu đưa AI vào việc này.
+
+Tôi cho rằng hầu hết các bạn đều đã biết điều này, nhưng một số bạn có thể chưa
+
+biết rằng có hai loại tin nhắn khác nhau mà bạn gửi tới AI, tới LLM, hai loại lời nhắc khác nhau.
+
+Một cái gọi là dấu nhắc hệ thống và một cái gọi là dấu nhắc người dùng.
+
+Và lời nhắc hệ thống là nơi bạn chỉ định khung, nhiệm vụ chung mà chúng đang thực hiện.
+
+Bạn cho họ biết họ nên dùng giọng điệu nào.
+
+Bạn cung cấp cho họ bối cảnh.
+
+Chúng ta sẽ tìm hiểu sau.
+
+Khi chúng ta nói về những thứ như Rag mà bạn có thể cung cấp thông tin trong lời nhắc hệ thống, đó là
+
+cách bạn thiết lập bối cảnh.
+
+Lời nhắc của người dùng là thông điệp thực tế từ người dùng cuối gửi đến LM mà LM phải phản hồi theo ngữ
+
+cảnh mà bạn đã nói trong lời nhắc hệ thống.
+
+Đó là sự khác biệt giữa lời nhắc của hệ thống và lời nhắc của người dùng.
+
+Và những người rất quen thuộc với điều này có thể thêm đủ thứ vào đó.
+
+Nhưng chúng ta sẽ đến đó kịp lúc.
+
+Ví dụ, chúng ta có thể có lời nhắc hệ thống nói rằng bạn là trợ lý phân tích nội dung của một
+
+trang web và cung cấp một bản tóm tắt ngắn, bỏ qua các văn bản có thể liên quan đến điều hướng phản hồi
+
+bằng markdown.
+
+Đó là việc định hình tình huống, là việc đặt ra nhiệm vụ.
+
+Nó đưa ra định dạng, phong cách về cách phản hồi sẽ diễn ra.
+
+Đó là lời nhắc của hệ thống.
+
+Và chúng ta cũng sẽ xác định thời điểm bắt đầu lời nhắc của người dùng, đó là.
+
+Sau đây là nội dung của một trang web.
+
+Cung cấp một bản tóm tắt ngắn gọn bằng markdown nếu nó bao gồm tin tức hoặc thông báo, sau đó tóm tắt hai nội dung này.
+
+Đó là tiền tố nhắc nhở người dùng của chúng tôi.
+
+Cho đến giờ thì mọi thứ vẫn ổn, chúng ta vừa thấy rằng khi gửi tin nhắn đến OpenAI, chúng ta
+
+sẽ sử dụng danh sách từ điển này.
+
+Và tôi đã chỉ cho bạn một cái cụ thể có nội dung người dùng theo vai trò.
+
+Và sau đó chúng ta có thứ gì đó giống như GPT cao.
+
+Vậy nên có một loại từ điển khác mà bạn nói là vai trò chứ không phải người dùng mà là hệ thống.
+
+Và trên thực tế, đây là cách bạn chỉ định lời nhắc hệ thống và lời nhắc người dùng.
+
+Ừm, bạn có một danh sách các từ điển và chúng ta sẽ có hai từ điển trong một từ điển có vai trò là hệ thống.
+
+Và nội dung sau đó sẽ là thông báo hệ thống.
+
+Trong từ điển thứ hai, vai trò là người dùng và nội dung là thông báo của người dùng, lời nhắc của người dùng.
+
+Và để đưa cho bạn một ví dụ ngớ ngẩn, đây là một ví dụ.
+
+Vai trò của tin nhắn là nội dung hệ thống.
+
+Hãy nói là không.
+
+Bạn là một trợ lý khó tính.
+
+Giả sử bạn là một trợ lý hữu ích.
+
+Vậy thì hai cộng hai bằng mấy?
+
+Vậy thì đây sẽ là tin nhắn.
+
+Và điều chúng ta có thể làm là chúng ta có thể nói phản hồi ở đây là AI mở.
+
+Hãy xem con trỏ điền vào như thế nào cho tôi.
+
+Hãy xem phản hồi đó là hoàn thành trò chuyện mở dot create model sẽ đi kèm với GPT 4. 1.
+
+Mini biết chúng ta sẽ làm được 4. 1 nano làm cho nó trở thành một mô hình thực sự rẻ và đơn giản.
+
+GPT 4. 1 nhanh hơn GPT 5.
+
+Sẽ rất, rất nhanh thôi.
+
+Và chúng tôi chuyển những thông điệp này, danh sách gồm hai thông điệp.
+
+Vậy hãy cùng xem một trợ lý hữu ích sẽ nói gì về vấn đề này.
+
+Trợ lý hữu ích.
+
+Khi được hỏi câu hỏi này, chúng ta cần in kết quả.
+
+Con trỏ không điền vào đó để phản hồi.
+
+Lựa chọn dấu chấm nội dung tin nhắn không có dấu chấm.
+
+Hãy thử lại lần nữa.
+
+Hai cộng hai bằng bốn.
+
+Bây giờ chúng ta sẽ thay đổi thông báo hệ thống.
+
+Vì vậy, điều đó không có nghĩa là bạn là một trợ lý hữu ích.
+
+Nó nói rằng bạn là một trợ lý khó tính.
+
+Và ngoài ra thì tin nhắn của người dùng vẫn y hệt như vậy.
+
+Hai cộng hai bằng bao nhiêu?
+
+Chúng tôi thực hiện điều này.
+
+Và cuối cùng là một câu hỏi toán học.
+
+Hai cộng hai bằng bốn.
+
+Mang tính đột phá.
+
+Tôi biết đó chỉ là tác dụng của việc thêm từ mỉa mai vào đó.
+
+Và bây giờ là một thử thách nhanh dành cho bạn với tinh thần thay đổi mọi thứ và tinh chỉnh mã.
+
+Tạo một lời nhắc hệ thống khác ở đây.
+
+Không phải là một trợ lý khó chịu, mà là thứ gì đó khác.
+
+Có thể là một trợ lý nói chuyện như cao bồi, hoặc như cướp biển, hoặc một trợ lý nói tiếng Latin của người
+
+da đỏ hoặc một ngôn ngữ khác.
+
+Bạn muốn gì thì cứ cho vào đó.
+
+Cuộc thí nghiệm.
+
+Hãy thử thay đổi lời nhắc hệ thống nhiều lần và xem các lời nhắc hệ thống khác nhau với cùng lời
+
+nhắc của người dùng sẽ thay đổi giọng điệu, nhân vật và nhiệm vụ được giao cho LM như thế nào.

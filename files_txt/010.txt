@@ -1,0 +1,339 @@
+Được rồi, cuối cùng đã đến lúc tổng hợp tất cả lại.
+
+Vì vậy, trước khi tạo tin nhắn, chỉ bằng cách thiết lập biến tin nhắn và xây dựng danh sách từ điển đó, chúng ta cũng
+
+có thể tự viết cho mình một hàm nhỏ.
+
+Đây là một hàm có tên là messages for, hàm này sẽ tiếp nhận nội dung của một trang web và trả về danh sách
+
+từ điển của chúng ta.
+
+Nó sẽ trả về hai từ điển.
+
+Đầu tiên là nội dung hệ thống vai trò.
+
+Có phải lời nhắc hệ thống mà chúng ta đã định nghĩa ở đâu đó không?
+
+Thứ hai là vai trò người dùng và nội dung là tiền tố nhắc nhở của người dùng, theo sau là trang web này được
+
+truyền vào.
+
+Được thôi, nghe có vẻ ổn.
+
+Hãy nhớ tiền tố trông như thế này.
+
+Có lẽ chúng ta nên thêm một dòng trống ở đó.
+
+Có lẽ đó là một ý tưởng hay.
+
+Ờ, để trang web đó được nhét vào bên dưới.
+
+Được rồi, chúng ta hãy chạy thử nhé.
+
+Chúng tôi vừa định nghĩa một hàm sẽ trả về danh sách các từ điển này khi chúng tôi truyền vào một trang web.
+
+Vậy là chúng ta đã có một trang web.
+
+Chúng ta có một biến trong AD.
+
+Nó chứa toàn bộ trang web cá nhân của tôi.
+
+Vì vậy, nếu tôi chạy tế bào này, chúng ta sẽ thấy kết quả.
+
+Chúng ta nhận được thứ thực chất là một danh sách các từ điển.
+
+Có một từ điển có hệ thống nội dung vai trò, trong đó trợ lý của bạn sẽ phân tích nội dung của trang
+
+web và sau đó là vai trò của người dùng.
+
+Sau đây là nội dung của một trang web.
+
+Và nếu tôi cuộn xuống, bạn sẽ thấy nó có đầy đủ nội dung trang web của tôi.
+
+Hy vọng là điều này cực kỳ đơn giản.
+
+Chúng ta đã viết một hàm.
+
+Nó có thể tạo ra danh sách từ điển này.
+
+Danh sách từ điển bao gồm lời nhắc hệ thống và lời nhắc người dùng.
+
+Hệ thống đang nhắc nhở điều đó.
+
+Bạn tóm tắt các trang web.
+
+Lời nhắc của người dùng là, này, đây là một trang web để tóm tắt, và sau đó là nội dung của trang web đó.
+
+Được rồi?
+
+Và bây giờ đã đến lúc kết hợp chúng lại trong chức năng tuyệt vời này ngay tại đây.
+
+Được rồi.
+
+Và ngay trước khi chúng ta chạy hàm tóm tắt này, tôi muốn đề cập rằng tôi vừa thực hiện một
+
+điều chỉnh nhỏ đối với lời nhắc hệ thống mà tôi đã thêm vào câu này là không gói markdown trong một khối mã.
+
+Và đây là một mẹo nhỏ mà đôi khi bạn thấy giúp ngăn chặn việc thêm nội dung thừa vào câu
+
+trả lời.
+
+Không quá quan trọng nhưng sẽ giúp kết quả tốt hơn một chút.
+
+Được rồi, đây là tóm tắt.
+
+Đây là chức năng kết nối tất cả lại với nhau.
+
+Chúng ta bắt đầu bằng một URL, một URL như madonna. com.
+
+Nó bắt đầu bằng cách gọi fetch.
+
+Nội dung trang web mà bạn sẽ nhớ là tiện ích của tôi, tiện ích này sẽ tự động trích xuất nội dung của trang web.
+
+Chúng tôi đưa nó vào một trang web có thể thay đổi.
+
+Sau đó chúng tôi gọi OpenAI.
+
+Tạo nên.
+
+Đó là API hoàn thành trò chuyện.
+
+Bây giờ bạn có thể thấy điều đó mới mẻ, nhưng bạn sẽ sớm thuộc lòng điều đó.
+
+Bạn sẽ mơ thấy điều đó.
+
+Bạn sẽ biết rõ điều đó.
+
+Cần phải có hai thứ.
+
+Cần có một mô hình.
+
+Và chúng ta sẽ sử dụng GPT 4. 1 mini.
+
+Và nó lấy tin nhắn, trong đó cần có danh sách các từ điển.
+
+Vâng, chúng ta có thể làm được điều đó bằng cách gọi hàm messages cho trang web của chúng ta có chức năng này ngay tại đây.
+
+Nó trả về danh sách từ điển chính xác những gì chúng ta muốn và với bất kỳ kết quả nào trả về, chúng ta
+
+gọi các lựa chọn là nội dung bằng không.
+
+Hãy chạy hàm đó.
+
+Bây giờ nó đã được định nghĩa và chúng ta hãy thử xem.
+
+Hãy gọi nó cho trang web của tôi và xem kết quả thế nào.
+
+Bây giờ, hệ thống và người dùng sẽ tạo thông báo, đưa vào một từ điển và các từ điển trong danh
+
+sách, rồi gửi đến GPT.
+
+Và trước khi tôi kịp giải thích xong thì nó đã quay trở lại.
+
+Chúng tôi đã có câu trả lời.
+
+Sau đây là tóm tắt về trang web của tôi.
+
+Một bức ảnh chụp nhanh về trang web của tôi.
+
+Hơi khó để xem vì tất cả đều nằm trên một dòng và không được định dạng rõ ràng, chúng ta có thể khắc phục nhanh chóng
+
+bằng cách tạo một hàm khác có tên là Hiển thị tóm tắt.
+
+Nó sẽ gọi hàm đó.
+
+Ở đây nó sẽ gọi summarize với URL đã cho.
+
+Và sau đó nó sẽ sử dụng tiện ích hiển thị markdown này, đây là một cách hay để hiển thị markdown một cách tinh tế bên trong một trong những phòng
+
+thí nghiệm này.
+
+Vì vậy, nếu tôi chạy lệnh này, thì một lần nữa nó sẽ xây dựng thông báo hệ thống, thông báo người dùng,
+
+đóng gói chúng lại, gọi API hoàn tất trò chuyện.
+
+Và với những gì trả về, tôi thực sự phải chạy tóm tắt hiển thị cho trang web của mình.
+
+Bây giờ nó thực sự đang làm điều đó, tạo lời nhắc hệ thống và thông báo cho người dùng, rồi gửi đi.
+
+Và thứ hiện ra ngay sau đó là bản tóm tắt trang web này.
+
+Ồ, trang web này là trang chủ cá nhân và chuyên nghiệp của Edward Donner, một lập trình viên và người đam mê AI, người thích
+
+thử nghiệm với các mô hình ngôn ngữ lớn.
+
+Nghe giống tôi quá.
+
+Ừm, và, ừm, nó ghi là Nebula, và nó có một số dự án.
+
+Nội dung nói về sở thích của tôi, tóm tắt một số bài đăng và thông báo cũng như cách liên hệ với tôi.
+
+Ờ, thế là chúng ta vừa làm xong.
+
+Chúng tôi vừa xây dựng một thứ có khả năng lấy thông tin từ một trang web, trích xuất và tóm tắt thông tin
+
+đó bằng cách gọi đến OpenAI chạy trên đám mây, kết nối với khóa API trong tệp EMV của bạn.
+
+Chúc mừng.
+
+Hãy thử với một số trang web khác nhau, trải nghiệm và bạn có thể vào dấu nhắc hệ thống và
+
+tùy chỉnh.
+
+Thế còn phiên bản trang web châm biếm thay vì phiên bản thông thường thì sao?
+
+Bất kỳ điều nào trong số này đều có thể xảy ra.
+
+Hãy thử nghiệm, khám phá và tận hưởng niềm vui.
+
+Gọi API OpenAI.
+
+Được thôi, chúng ta hãy cùng vui vẻ nhé!
+
+Vì tôi đã đề cập rằng chúng ta có thể thay đổi lời nhắc hệ thống, hãy bắt đầu và thực hiện nhé.
+
+Chúng ta hãy quay lại lời nhắc của hệ thống thay vì trợ lý hữu ích của bạn.
+
+Chúng ta hãy làm điều này.
+
+Bạn là một trợ lý thông minh, chuyên phân tích nội dung của một trang web và cung cấp một bản tóm tắt ngắn gọn, thông minh và hài
+
+hước.
+
+Và sau đó chạy nó.
+
+Chúng ta hãy định nghĩa lại lời nhắc hệ thống.
+
+Chúng ta hãy quay lại và chạy lại dòng này ở đây.
+
+Tóm lại.
+
+Edward Donald, chúng ta hãy thực hiện phiên bản hiển thị, biến nó thành phiên bản đẹp mắt, chạy phiên bản đó và chạy lệnh display summary
+
+và xem chúng ta nhận được gì.
+
+Biên tập viên Playground mọt sách của Edward Donner là chú khỉ thân thiện của khu phố, người bị ám
+
+ảnh bởi việc chơi DJ dở tệ.
+
+Theo dõi Hacker News như thể đó là tương tác xã hội duy nhất mà anh ta cần.
+
+Những tin tức mới nhất mà bạn đang nóng lòng muốn biết thật tuyệt vời.
+
+Chỉ với thay đổi nhỏ đó, chúng ta đã có thể có được một phiên bản dí dỏm.
+
+Không chỉ là phiên bản của Reader's Digest mà còn là phiên bản châm biếm.
+
+Và chúng ta cũng có thể sử dụng nó để tạo ra nhiều tông màu và phong cách khác nhau và thử nghiệm với các trang web khác
+
+nữa.
+
+Và vì thế tôi sẽ giữ nó ở chế độ mỉa mai.
+
+Và chúng ta hãy cùng xem tin tức trong ngày của CNN là gì.
+
+Ờ, giờ nó đang thu thập toàn bộ trang web của CNN, trang tin tức, và sắp tới là CNN,
+
+nơi tổng hợp mọi tin tức tuyệt vời.
+
+Chào mừng đến với CNN, nơi bạn có thể cập nhật thông tin hàng ngày về tình hình hỗn loạn toàn cầu, những nỗi đau của người
+
+nổi tiếng và những trò hề của chính phủ tại cùng một nơi, cố gắng thoát khỏi chiến tranh thế giới, bão tố và chính trị.
+
+Thật tệ khi tất cả đều ở đây, ngay trước mắt và trung tâm.
+
+Ha!
+
+Vâng, đúng vậy, bởi vì không có gì vui hơn một sự bế tắc chính trị một cách tuyệt vời như vậy.
+
+Điều này cung cấp cho chúng ta bản tóm tắt tin tức, nhưng cũng có phiên bản châm biếm nữa.
+
+Và bạn cũng có thể thử một số trang web khác ở đây.
+
+Bạn sẽ khám phá ra rằng đây là một giải pháp khá đơn giản.
+
+Cách tôi thu thập dữ liệu trang web chỉ có tác dụng với những trang web không được hiển thị trên trang web của khách hàng,
+
+bạn chỉ cần truy xuất chúng từ xa là có thể có được toàn bộ nội dung.
+
+Và điều đó không hiệu quả với nhiều trang web.
+
+Nhưng may mắn thay, có một cách dễ dàng để tự mình xây dựng điều này nếu bạn biết về nó.
+
+Nếu bạn biết về các công cụ như Selenium hoặc Playwright, thì bạn có thể tự mình xây dựng công cụ này.
+
+Và nhiều sinh viên đã làm như vậy.
+
+Và điều đó đưa tôi đến chủ đề về đóng góp của cộng đồng.
+
+Vì vậy, ở tuần đầu tiên có một thư mục có tên là Đóng góp của cộng đồng.
+
+Và đây là nơi bạn có thể đăng tải các dự án của riêng mình.
+
+Và nếu tôi mở trang này ra, bạn sẽ thấy có rất nhiều người đã đến và làm điều này, thật là vui.
+
+Bạn có thể vào đây và thêm vào các bài tập và ví dụ của riêng mình.
+
+Có thể chỉ đơn giản là thay đổi lời nhắc hệ thống để dịch một trang web sang tiếng Pháp hoặc tiếng Tây Ban Nha.
+
+Ừm, hy vọng là tốt hơn tiếng Tây Ban Nha của tôi.
+
+Ồ, và bạn có thể làm bất cứ điều gì bạn muốn.
+
+Nhưng hãy coi đây là cơ hội để thực hiện thay đổi và chia sẻ chúng với những sinh viên khác.
+
+Và có hướng dẫn về cách thực hiện điều đó.
+
+Trong hướng dẫn.
+
+Có một hướng dẫn trên git và GitHub bao gồm hướng dẫn về cách bạn gửi cái gọi là PR,
+
+một yêu cầu kéo, cho phép tôi hợp nhất những thay đổi của bạn vào kho lưu trữ.
+
+Và tôi rất thích điều đó.
+
+Và tôi sẽ rất vui nếu bạn chia sẻ nó.
+
+Và đó là cách tuyệt vời để tăng thêm giá trị cho toàn bộ cộng đồng và để tác phẩm của bạn được
+
+mọi người biết đến, được tôi xem và bình luận.
+
+Vì vậy, ừm, tôi muốn đề cập rằng có rất nhiều ứng dụng kinh doanh mà chúng tôi đã xây dựng, ừm, thực tế là
+
+chúng tôi vừa trải nghiệm việc gọi một mô hình biên giới trên nền tảng đám mây và sau đó chúng tôi
+
+đưa ra một số hướng dẫn để tóm tắt, để thay đổi giọng điệu, chúng tôi có thể dịch nó.
+
+Có rất nhiều cách khác nhau để bạn có thể mở rộng và sử dụng nó, và bạn sẽ thấy nhiều cách trong số đó trong
+
+các đóng góp của cộng đồng.
+
+Quá nhiều thứ.
+
+Ai đó đã thêm nó vào để gọi API Yahoo Finance nhằm tóm tắt diễn biến giá cổ phiếu.
+
+Còn rất nhiều thứ khác nữa ở đây và bạn sẽ được truyền cảm hứng từ điều này, nhưng hãy thử áp dụng theo
+
+hướng của riêng bạn.
+
+Áp dụng nó vào công việc kinh doanh của bạn hoặc một số vấn đề cá nhân mà bạn đang suy nghĩ.
+
+Một điểm khó chịu mà bạn nghĩ mình có thể khắc phục.
+
+Một cách đơn giản để bạn có thể thực hiện cuộc gọi bằng cách thu thập một trang web và thực hiện thao tác nào đó với
+
+trang web đó.
+
+Đó là một bức tranh mở.
+
+Có rất nhiều hướng thương mại khác nhau mà bạn có thể áp dụng, ý tưởng tóm tắt
+
+hoặc dịch thuật.
+
+Đây là một trong những trường hợp sử dụng AI cơ bản và đơn giản nhất, và bây giờ bạn đã biết cách thực hiện.
+
+Và bạn có thể áp dụng điều này cho bất kỳ vấn đề nào bạn muốn.
+
+Vì vậy, hãy làm như vậy, áp dụng vào một doanh nghiệp khác và tự mình thử nghiệm.
+
+Ừ, hãy thử làm một cái gì đó và trên hết là hãy vui vẻ với nó.

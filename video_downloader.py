@@ -117,8 +117,7 @@ def main(urls=None, output_folder=None, use_cookies=False):
 
 if __name__ == "__main__":
     str = """
-   
-
+https://www.youtube.com/watch?v=AUH2nnk7MiU
     """
     urls = str.split("\n")  # Split by newline
     urls = [url.strip() for url in urls if url.strip()]  # Remove empty lines and whitespace

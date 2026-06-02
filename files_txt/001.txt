@@ -1,0 +1,399 @@
+Đây là thời điểm quan trọng.
+
+Đây là khởi đầu của một cuộc phiêu lưu kéo dài tám tuần mà bạn sẽ không thể tin được.
+
+Cho dù bạn là người mới hoàn toàn làm quen với lập trình, hay là một kỹ sư giàu kinh nghiệm, hoặc bạn
+
+đã học khóa học này và thấy tôi đã cập nhật và bạn quay lại để lấy thông tin mới nhất.
+
+Tôi có điều gì đó lớn lao dành cho tất cả mọi người.
+
+Chúng ta hãy cùng tìm hiểu nhé.
+
+Tên tôi là Biên tập viên Donna.
+
+Tôi là người đồng sáng lập và giám đốc công nghệ của công ty khởi nghiệp AI Nebula.
+
+Và trước khi bắt đầu, theo thông lệ, chúng tôi sẽ hướng dẫn bạn những việc chúng ta
+
+sẽ thực hiện trong tám tuần tới, các mục tiêu, cấu trúc, dự án và cách chúng ta sẽ định vị
+
+bản thân để thành công.
+
+Nhưng chúng ta sẽ không làm vậy.
+
+Tôi đang nói dối.
+
+Đó không phải là sở thích của tôi.
+
+Những người đã từng học khóa học của tôi đều biết rằng tôi thích bắt đầu bằng hành động.
+
+Chúng ta hãy đi thẳng vào vấn đề.
+
+Trong vài phút đầu tiên của khóa học này, chúng ta sẽ thử nghiệm với LMS, đó là mục đích chính của khóa học,
+
+và sẽ có nhiều thời gian để quay lại sau và thực hiện những việc khác.
+
+Trước tiên, tôi muốn bạn mở một cửa sổ trình duyệt mới, trình duyệt yêu thích của bạn, bất
+
+kỳ trình duyệt nào, và tôi muốn bạn truy cập vào trang web này.
+
+Đó là GitHub. com.
+
+Kỹ thuật là kho lưu trữ cho khóa học này.
+
+Và nó cũng được liên kết trong tài nguyên của khóa học.
+
+Sẽ rất dễ để tìm thấy kho lưu trữ này.
+
+Chúng ta vẫn chưa làm gì với nó cả.
+
+Tôi nêu vấn đề này ra vì nếu bạn cuộn xuống trang đầu tiên, bạn sẽ thấy phần được gọi là tệp Readme của
+
+khóa học.
+
+Và tệp Readme có mọi thông tin bạn cần biết.
+
+Nó có liên kết đến những thứ khác, nó có liên kết đến LinkedIn của tôi, tôi sẽ còn nói mãi về điều này.
+
+Có liên kết tới hướng dẫn cài đặt.
+
+Nó cũng có thể trông hơi khác so với những gì bạn thấy ở đây, vì tôi liên tục cập nhật tệp Readme
+
+để có thông tin mới nhất ở đó.
+
+Và điều đầu tiên chúng ta sẽ làm là theo dõi phần thỏa mãn tức
+
+thời ở đây.
+
+Và trước hết bạn nên xem qua tài liệu vì đó là thông tin mới nhất.
+
+Vậy hãy xem qua phần đó và sau đó chúng ta sẽ bắt đầu khám phá LMS đầu tiên.
+
+Vì vậy, tôi đoán rằng bạn, giống như hầu hết mọi người trên hành tinh này, đều quen thuộc với ChatGPT
+
+và bạn đã tương tác với một LLM qua ChatGPT, và có thể là cả Claude, Gemini và những người khác nữa.
+
+Và điều chúng ta sắp làm bây giờ là tương tác với một AI khác, một LLM.
+
+Nhưng chúng ta sẽ thực hiện việc này trên máy tính.
+
+Chúng ta sẽ sử dụng một LLM nguồn mở do người khác xây dựng và cài đặt nó trên máy của mình
+
+và tương tác với nó tại đó.
+
+Và đó là một đề xuất thú vị hơn nhiều khi thực sự tương tác với AI do chính bạn vận
+
+hành thay vì trên đám mây.
+
+Và chúng ta sẽ sử dụng sản phẩm tuyệt vời có tên là Olama để thực hiện điều đó.
+
+Và chúng ta hãy bắt tay vào thực hiện ngay bây giờ.
+
+Và để nhắc lại, bạn có thể làm theo tất cả các hướng dẫn này trong phần Đọc tôi.
+
+Đó gọi là sự thỏa mãn tức thời.
+
+Nhưng tôi sẽ bắt đầu bằng việc đến Olama.
+
+Nó được viết là O và được liên kết trong tệp readme.
+
+Và nó trông như thế này.
+
+Và về cơ bản bạn có thể làm điều tương tự trên PC, Mac hoặc Linux.
+
+Nó sẽ có tác dụng giống nhau trên cả ba trường hợp, thật tuyệt vời.
+
+Olama, được đặt tên như một sự tôn vinh dành cho một trong những mô hình nguồn mở đầu tiên có tên là llama từ meta O llama,
+
+là một sản phẩm chạy trên máy tính của bạn, có thể chạy một mô hình và có thể chạy nó theo cách rất
+
+nhanh, đóng gói, hiệu quả tại địa phương để bạn có thể tương tác với nó.
+
+Và điều đầu tiên bạn sẽ làm là vào đây, nhấp vào nút tải xuống ở đây,
+
+nhấn tải xuống.
+
+Chọn hệ thống mà bạn có.
+
+Nhấn tải xuống cho hệ thống của bạn.
+
+Nó sẽ bắt đầu tải xuống theo cách thông thường.
+
+Sau khi tải xuống, bạn mở nó bằng cách nhấp vào đây và nó sẽ xuất hiện.
+
+Nếu bạn sử dụng máy Mac, bạn kéo nó từ đây vào ứng dụng và nó sẽ xuất hiện ở đó.
+
+Nếu bạn sử dụng PC, bạn cũng chỉ cần cài đặt theo cách thông thường.
+
+Sau khi hoàn tất, bạn khởi chạy nó từ thư mục ứng dụng hoặc từ biểu tượng của nó hoặc từ
+
+menu bắt đầu để khởi chạy báo thức.
+
+Vì vậy, nó sẽ mở ra một màn hình riêng.
+
+Và khi bạn làm như vậy, một màn hình như thế này sẽ bật lên.
+
+Nó nằm trên giao diện người dùng llamas với giao diện trò chuyện nhỏ, nhưng chúng ta sẽ không sử dụng nó.
+
+Bây giờ bạn sẽ nhấn nút X, nút đóng để thoát khỏi nó, vì chúng ta sẽ tương tác trực
+
+tiếp với llama trên máy tính và chúng ta sẽ thực hiện điều đó bằng cách sử dụng thứ gọi là
+
+dấu nhắc lệnh.
+
+Vì vậy, có một cách khác nhau để thực hiện việc này trên PC và máy Mac.
+
+Và nó cực kỳ đơn giản, hướng dẫn có trong tệp Readme.
+
+Có thể bạn đã quen với điều này.
+
+Nếu bạn sử dụng máy Mac, hãy vào mục ứng dụng và tiện ích rồi nhấp đúp vào terminal.
+
+Nếu bạn đang sử dụng PC, hãy vào menu Start và nhập PowerShell để mở PowerShell.
+
+Nếu bạn sử dụng Linux, bạn biết chính xác phải làm gì.
+
+Nhưng dù thế nào đi nữa, hãy làm theo hướng dẫn để mở dòng lệnh và sau đó chúng ta sẽ bắt đầu nói chuyện
+
+với LLM.
+
+Và đây là những gì tôi thấy.
+
+Và bạn sẽ thấy điều gì đó khá giống vậy.
+
+Đây là trên máy Mac.
+
+Trên PC, bạn sẽ thấy từ PowerShell, nhưng chúng cũng tương tự như vậy.
+
+Và điều đầu tiên tôi muốn bạn làm là gõ Olama.
+
+Và bạn sẽ thấy một màn hình trợ giúp với những điều bạn có thể làm với Olama.
+
+Nếu bạn không thấy điều đó, hãy kiểm tra tệp readme.
+
+Một điều khác bạn có thể làm là kiểm tra xem nó đã chạy hay chưa.
+
+Nếu bạn nhập Olama serve, đây là cách để bắt đầu, nó sẽ báo địa chỉ đã được sử dụng, điều này cho bạn
+
+biết rằng nó đã chạy.
+
+Tốt đấy.
+
+Khi chúng ta nhấp đúp vào nó, nó sẽ bắt đầu chạy.
+
+Và nếu nó nói với bạn rằng mọi chuyện đã bắt đầu thì điều đó cũng tuyệt vời.
+
+Được rồi.
+
+Vậy là chúng ta có Olama và Olama đang chạy.
+
+Vậy thì tiếp theo chúng ta sẽ chạy Olama.
+
+Chúng ta sẽ tải xuống một mô hình từ Internet và chạy nó trên máy tính của mình.
+
+Và bạn có thể làm điều đó chỉ bằng một lệnh đơn giản Olama run.
+
+Và sau đó là tên của mô hình mà bạn muốn tải xuống.
+
+Và chúng ta sẽ chọn một mô hình do Google tạo ra có tên là GEMA.
+
+Đây là phiên bản nhỏ của Gemini, mẫu đồng hồ chủ lực, nhưng GEMA là mẫu đồng hồ được cung cấp miễn phí cho tất
+
+cả mọi người.
+
+Vì vậy, chúng ta gõ GEMA, tức là nói về GE.
+
+Chúng ta sẽ sử dụng Gemma ba, đây là phiên bản mới nhất, sau đó đặt dấu hai chấm và sau dấu hai chấm, bạn có thể
+
+chọn kích thước mình muốn.
+
+Và chúng ta sẽ chọn kích thước thật nhỏ là 2. 70 M, nghĩa là có 270 triệu thứ được gọi là tham số mà chúng ta
+
+sẽ nói đến nhiều trong tương lai.
+
+Và điều đó có vẻ khá to tát.
+
+270 triệu thứ gì đó nghe có vẻ khá lớn, nhưng hầu hết thời gian, những thứ này đều được
+
+đo bằng hàng tỷ.
+
+Vậy thì 270 triệu thực ra là một con số rất nhỏ.
+
+Và khi tôi nhấn enter, Gemma sẽ được tải xuống.
+
+Có thể việc này sẽ mất của bạn vài giây.
+
+Tôi đã tải nó về rồi.
+
+Vậy là nó đã ở đó.
+
+Có thể mất vài phút.
+
+Nếu bạn có kết nối internet chậm hơn, tốc độ sẽ khá nhanh.
+
+Và sau khi hoàn tất, bạn sẽ có con trỏ như thế này.
+
+Điều đó có nghĩa là bạn đã sẵn sàng tương tác với mô hình đang chạy trên máy tính của mình.
+
+Vì vậy, chúng ta nên giữ kỳ vọng ở mức thấp.
+
+Mặc dù đây là một mô hình rất nhỏ nhưng vẫn vậy.
+
+Chúng ta hãy bắt đầu nhé.
+
+Tôi sẽ chào bạn ở đó.
+
+Tin nhắn đầu tiên của tôi tới một AI trên máy tính là chào bạn, hôm nay tôi có thể giúp gì cho bạn?
+
+Tôi xin giới thiệu, tên tôi là Ed và thật tuyệt, tôi là Ed.
+
+Haha không, đó là tên tôi.
+
+Đúng rồi, tôi là Ed.
+
+Vậy nên, đây là một mô hình rất nhỏ và bạn không nên kỳ vọng quá nhiều vào nó.
+
+Điều chúng ta sẽ làm bây giờ là chọn một mô hình lớn hơn một chút và hy vọng sẽ có cuộc trò chuyện mạnh mẽ hơn với
+
+mô hình lớn hơn đó.
+
+Hãy thử xem sao.
+
+Bây giờ bạn nên dừng cuộc trò chuyện với Gemma lại.
+
+Và cách bạn thực hiện điều đó trong dòng lệnh đó là nhấn Ctrl D để thoát khỏi cuộc trò chuyện với Gemma Control.
+
+Đối với những người dùng A trên máy Mac, nó không giống như lệnh.
+
+Hãy chú ý đến phím Ctrl d.
+
+Được thôi.
+
+Sau đó, hãy quay lại trang web và bạn sẽ thấy có các mô hình trong phần điều hướng chính ở đây.
+
+Nếu bạn nhấp vào đó, danh sách tất cả các mô hình nguồn mở khác nhau sẽ hiện ra mà bạn có thể sử dụng thông
+
+qua Olama.
+
+Và có rất nhiều.
+
+Chúng tôi chỉ chơi với Gemma, ba tuổi và Gemma ba tuổi.
+
+Bạn có thể thấy nó cũng có nhiều kích cỡ khác nhau nếu bạn chỉ cần làm vậy.
+
+Gemma ba bạn lấy phiên bản mới nhất ở đây, là phiên bản 3. 3GB.
+
+Nó khá lớn.
+
+À, và còn một loại nữa mà chúng ta vừa sử dụng là Gemma three 270 M, nhỏ hơn rất nhiều.
+
+Và có rất nhiều kích cỡ khác nhau.
+
+Và bạn có thể tự mình thử nghiệm những điều này nếu máy tính của bạn đủ lớn để lưu trữ chúng, sau đó
+
+thử nghiệm và xem một mô hình lớn hơn có thể giao tiếp mạnh mẽ hơn như thế nào.
+
+Nhưng bây giờ, chúng ta sẽ đi vào mô hình và tôi đề nghị chúng ta chọn từ đây.
+
+Chúng ta hãy cùng xem Phi 3 của Microsoft nhé.
+
+Chúng ta sẽ thử Phi ba mới nhất.
+
+Nếu máy của bạn đủ lớn để thực hiện việc này, nếu bạn có 2. 2GB trống trên ổ đĩa của bạn và nếu ổ đĩa đủ nhanh thì
+
+bạn sẽ thấy hai thông báo này.
+
+Nhưng tôi sẽ thử Phi ba.
+
+Chúng ta hãy xem nó hoạt động thế nào.
+
+Vậy thì chúng ta bắt đầu thôi.
+
+Tôi gõ Olama Phi ba.
+
+Lần đầu tiên, việc tải xuống máy tính sẽ mất vài phút tùy thuộc vào mạng
+
+và sức mạnh của máy tính.
+
+Và điều đầu tiên tôi sẽ làm là chào bạn.
+
+Chúng ta hãy xem nó hoạt động thế nào.
+
+Xin chào.
+
+Hôm nay tôi có thể giúp gì cho bạn?
+
+Ừ, kể cho tôi nghe một sự thật thú vị nhé.
+
+Ừ, thế là xong.
+
+Chúng ta bắt đầu thôi.
+
+Bạn có biết rằng tháp Eiffel ở Paris không hề vững chắc như mọi người vẫn nghĩ không?
+
+Ờ, một phần nhỏ của nó có thể lắc lư tới sáu feet.
+
+Thế thì sao?
+
+Được rồi, kể cho tôi nghe thêm một câu nữa.
+
+Được rồi.
+
+Kỷ lục thế giới về khả năng ăn nhiều xúc xích nhất trong một giờ thuộc về Joey Chestnut.
+
+Tôi nghĩ mình đã biết điều đó khi còn là người New York.
+
+Điều này xảy ra hàng năm.
+
+Ừ, thế là xong.
+
+Một số sự thật thú vị và vui nhộn.
+
+Hy vọng bạn đã có thêm nhiều thông tin thú vị khác nhau từ năm tài chính thứ ba.
+
+Và nếu bạn thử nhiều mô hình khác nhau, bạn có thể nhận được nhiều thông tin thú vị khác nhau.
+
+Ừm, vậy thì đây là mô hình FY thứ ba.
+
+Và bây giờ chúng ta sẽ thử thêm một lần nữa.
+
+Vậy nên tôi điều khiển D để dừng cuộc trò chuyện ngay như vậy.
+
+Và bây giờ tôi sẽ gõ Allama một.
+
+Và bây giờ tôi sẽ chọn mô hình lớn nhất có thể chạy trên máy tính của tôi.
+
+Và điều này có thể không chạy được trên máy tính của bạn.
+
+Vì vậy, đừng lo lắng nếu bạn cần có ít nhất 16MB RAM trên máy tính để chạy chương trình này và
+
+khoảng 20GB dung lượng trống trên ổ đĩa.
+
+Bạn không cần phải chạy chương trình này nếu không muốn, nhưng
+
+tôi muốn cho bạn thấy cách chạy mô hình mới nhất từ OpenAI, được gọi là GPT OS, phiên bản mã nguồn mở của mô hình GPT của OpenAI.
+
+Đây là một mô hình cũ lớn và nó sẽ tải xuống cho bạn.
+
+Và điều đó có thể mất khá nhiều thời gian.
+
+Nó cũng sẽ thực sự làm hỏng máy tính của tôi.
+
+Vậy đó.
+
+Nó đang chạy.
+
+Chúng tôi có hệ điều hành GPT.
+
+Trên thực tế, đây là phiên bản có 20 tỷ tham số.
+
+Vì vậy, nó lại lớn hơn Phi ba nhiều lần, bản thân Phi ba lại lớn hơn Gemma ba 16 lần, 270
+
+triệu.
+
+Vậy đây là một mô hình lớn.
+
+Chúng tôi đang chạy nó tại địa phương.
+
+Chúng ta hãy tương tác với nó.

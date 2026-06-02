@@ -1,0 +1,339 @@
+Ồ, xin chào.
+
+Lại là bạn đây.
+
+Bạn quay lại để tìm hiểu thêm?
+
+Tôi không thể làm bạn nản lòng với những điều kinh hoàng mà tôi đã gây ra cho bạn ngày hôm qua.
+
+Bạn đã trở lại với ngày thứ hai của chương trình kỹ thuật LM.
+
+Chào mừng, chào mừng, chào mừng.
+
+Tôi hứa hôm nay sẽ dễ dàng hơn ngày hôm qua.
+
+Tôi sẽ luôn bắt đầu mỗi bài viết này bằng cách tóm tắt lại những gì chúng tôi đã làm vào ngày hôm trước và những gì sắp tới để bạn có
+
+thể làm quen với điều này.
+
+Có một chút lặp lại, nhưng đôi khi lặp lại cũng tốt.
+
+Chúng tôi đã sử dụng Olama và làm quen với nhiều mô hình mã nguồn mở khác nhau.
+
+Chúng tôi đã viết mã để gọi là AI mở.
+
+Có lẽ là bạn không làm vậy.
+
+Nếu bạn đang chần chừ chưa muốn sở hữu chiếc chìa khóa đó và bạn đã sẵn sàng cho điều gì đó mới mẻ ngay hôm nay, chúng tôi sẽ thực hiện điều đó.
+
+Bạn đã biết được sự khác biệt giữa lời nhắc của hệ thống và lời nhắc của người dùng.
+
+Và chúng tôi đã thực hiện một trường hợp sử dụng tóm tắt, một trường hợp sử dụng AI cốt lõi mà chúng tôi đã xây dựng ngay từ ngày đầu tiên.
+
+Và hôm nay chúng ta sẽ tìm hiểu các yếu tố cơ bản, các bước cần thiết để đi từ vị trí hiện tại
+
+đến vị trí bạn sẽ đạt được trong chương trình thạc sĩ kỹ thuật LM và nhận biết các mô hình biên giới, các loại mô hình biên
+
+giới khác nhau, ý nghĩa của chúng và cách sử dụng chúng.
+
+Chúng ta hãy cùng tìm hiểu nhé.
+
+Vậy nên, điều đầu tiên tôi muốn nói là đây chủ yếu là một khóa học thực hành.
+
+Đây là về việc hoàn thành công việc.
+
+Tôi có dạy một số lý thuyết, nhưng tôi thích dạy theo hướng thực hành.
+
+Tôi ở đây để giúp bạn tạo ra tác động thương mại thông qua LMS.
+
+Cho dù bạn làm việc tại một công ty khởi nghiệp, là một doanh nhân và muốn khởi
+
+nghiệp, hay làm việc tại một công ty nằm trong danh sách Fortune 500 hoặc bất kỳ công ty nào ở giữa, mục tiêu của các
+
+buổi học này là dạy bạn cách sử dụng LMS để đạt được lợi nhuận thương mại, vì vậy hãy luôn giữ quan điểm đó.
+
+Tôi là người thực tế.
+
+Tôi nghĩ rằng cách tốt nhất để học là thực hành, và thực hành chính là điều tôi dành cho bạn.
+
+Và sẽ có ba chiều hướng khác nhau, ba yếu tố khác nhau đối với kỹ thuật LM mà chúng ta sẽ xây
+
+dựng dựa trên đó.
+
+Một trong số đó là bản thân các mô hình, và tôi đã đề cập đến điều này ngày hôm qua, tôi đã đề cập đến lớp dưới
+
+cùng, các mô hình mã nguồn mở mã nguồn đóng.
+
+Chúng ta sẽ xem xét các mô hình đa phương thức tạo ra hình ảnh và âm thanh.
+
+Kiến trúc của mô hình và quan trọng hơn là cách bạn chọn mô hình phù hợp cho một nhiệm vụ cụ
+
+thể.
+
+Sau đó, chúng ta sẽ xây dựng dựa trên các mô hình bằng cách xem xét các công cụ, khuôn khổ, thư viện
+
+khác nhau, những thứ như khuôn mặt ôm tuyệt vời mà bạn sẽ thích.
+
+Chuỗi dài gradio.
+
+Trọng số và độ lệch.
+
+Âm điệu.
+
+Và sau đó là những kỹ thuật khác nhau mà bạn có thể áp dụng.
+
+Tận dụng các thư viện này và sử dụng các kỹ thuật mô hình như gọi API, mà chúng tôi đã thực
+
+hiện. Nhắc nhở nhiều lần là một kỹ thuật dễ dàng, là một kỹ thuật rất thú vị để tinh chỉnh một kỹ thuật mạnh
+
+mẽ và là một tác nhân AI di truyền.
+
+Bạn không thể lớn hơn thế được nữa.
+
+Đó là chủ đề nóng nhất hiện nay.
+
+Và vì vậy, tôi đã thiết kế khóa học này để thu hút nhiều trình độ khác nhau.
+
+Bất kể bạn có chuyên môn gì khi tham gia vào lĩnh vực này, sẽ luôn có điều gì đó hấp dẫn bạn, nhưng bạn có
+
+thể thấy một số phần quá dễ nếu bạn là người có kinh nghiệm, trong trường hợp đó, hãy kiên trì.
+
+Hãy giúp tôi nhanh lên.
+
+Hãy cho tôi lên 2X2X ngay bây giờ và chúng ta sẽ nhanh chóng bắt tay vào những dự án quan trọng.
+
+bạn có thể thấy một số phần quá khó đối với mình, đặc biệt nếu bạn hoàn toàn mới trong lĩnh vực này.
+
+Và một điều cần biết là tất cả chúng ta, mỗi cá nhân, đều có một điểm chung là đến một thời điểm nào đó, chúng
+
+ta đều là những con người mới.
+
+Và vì thế chúng ta biết chính xác cảm giác đó như thế nào.
+
+Tôi đã viết một số hướng dẫn tự học trong thư mục hướng dẫn.
+
+Hãy dành thời gian cho họ.
+
+Họ thực sự sẽ giúp bạn chuẩn bị.
+
+Tôi tin rằng bạn có thể học mọi thứ từ những hướng dẫn tự học đó và tôi đã chứng kiến nhiều người
+
+hoàn thành toàn bộ khóa học kỹ thuật LM mà không hề có kinh nghiệm lập trình nào.
+
+Nó không lý tưởng.
+
+Chúng tôi có.
+
+Tôi chủ yếu hướng đến những người có kinh nghiệm viết mã, nhưng bạn có thể hoàn toàn mới, học từ các
+
+hướng dẫn tự học và bạn sẽ thành công.
+
+Nhiều người đã xem hướng dẫn, nhờ tôi giúp đỡ và thực hiện mọi việc một cách chậm rãi, cẩn thận, làm bài thực hành, thêm
+
+vào các câu lệnh in và trên hết, đừng lo lắng nếu bạn không hiểu ngay, điều đó không
+
+quan trọng.
+
+Hãy có trực giác.
+
+Tiếp tục tiến lên.
+
+Bạn luôn có thể quay lại.
+
+Bạn có thể, bạn có thể.
+
+Một số người thực sự đã xem hết tất cả các video rồi quay lại lần thứ hai và xem xét kỹ lưỡng
+
+hơn nhiều.
+
+Nếu điều đó phù hợp với phong cách của bạn thì đó là một ý tưởng tuyệt vời.
+
+Nhưng nếu không, bạn chỉ cần thực hiện chậm rãi lần đầu tiên.
+
+Nhưng nếu tôi cảm thấy đúng, nếu tôi thấy tuyệt vời, thì hãy tiếp tục.
+
+Vì vậy, người lý tưởng để tham gia khóa học này là người có kinh nghiệm trung cấp về Python, và nếu bạn có kinh
+
+nghiệm đó thì bạn thực sự có lợi thế.
+
+Nếu bạn nhìn vào dòng mã này và biết nó thực sự cho hoặc nhận những gì thì thật tuyệt vời.
+
+Nếu không, đừng lo lắng.
+
+Như tôi đã nói, tôi có tài liệu nền tảng tuyệt vời.
+
+Bạn có thể xem hướng dẫn Python dành cho người mới bắt đầu hoặc hướng dẫn Python dành cho người trung cấp, hoặc cả hai, và đạt đến
+
+trình độ mà bạn cảm thấy thoải mái và có thể học hỏi thêm trong quá trình học.
+
+Và bạn biết gì không?
+
+LLMs thật tuyệt vời khi con trỏ này rất tuyệt.
+
+Nó sẽ giải thích hầu hết mọi thứ cho bạn và có thể giải thích bất kỳ dòng nào cũng như chức năng của nó và có thể giúp
+
+bạn.
+
+Vì vậy, với những thứ như tôi đang làm ở đây, như máy phát điện và bộ hiểu biết, những thứ đại loại như
+
+vậy, nó có thể giải thích tất cả.
+
+Đó là thứ Python lạ mắt.
+
+Nhưng tôi nói cho bạn biết, khi bạn thấy cách nó hoạt động thì mọi thứ đều khá dễ dàng.
+
+Được chứ?
+
+Và có một số mẹo để tận dụng tối đa tám tuần tiếp theo mà bạn và tôi
+
+sẽ cùng nhau trải qua.
+
+Trước hết, hãy làm theo mã hóa.
+
+Thường thì tốt hơn là bạn nên xem tôi làm video, xem tôi nói về video đó, rồi quay lại
+
+và tự mình làm.
+
+Khi bạn biết mình sẽ phải đối mặt với điều gì.
+
+Bây giờ, tôi biết một số người không thích cách tôi không thường xuyên gõ mã.
+
+Hầu hết thời gian tôi đều để mã ở đó và mong bạn chạy nó.
+
+Đó là một phong cách.
+
+Tôi thấy phương pháp này rất hiệu quả và cho phép bạn học được nhiều điều một cách nhanh chóng.
+
+Đang gõ mọi thứ.
+
+Ngày nay với các công cụ AI, điều đó không còn cần thiết nữa.
+
+Điều quan trọng hơn là phải hiểu mã đó có chức năng gì và có thể thay đổi mã đó.
+
+Bây giờ, nếu muốn, bạn có thể mở một sổ tay mới và gõ lại từ đầu nếu muốn.
+
+Và một số người học tốt nhất bằng cách gõ phím.
+
+Và đôi khi tôi cũng tự làm như vậy.
+
+Khi tôi đang học một điều gì đó, điều này có thể giúp ích, nhưng hầu hết thời gian tôi muốn bạn xem mã, hiểu nó,
+
+thay đổi nó, thêm vào các câu lệnh in, sửa đổi nó theo một cách nào đó và xem bạn có thể thử nghiệm nó như thế
+
+nào.
+
+Tôi nghĩ đó là cách học tốt nhất.
+
+Và đó là lý do tại sao tôi thích lái những chiếc xe này và sau đó hoàn thành các bài tập được giao trong xe.
+
+Và bạn nên thực hiện những thay đổi đó rồi đẩy lên GitHub của riêng bạn để có các ví
+
+dụ về mã và giải pháp.
+
+Và bạn cũng có thể thực hiện những thay đổi này và gửi cái gọi là PR, một yêu cầu kéo, để tôi có thể hợp nhất những thay đổi
+
+của bạn, như tôi đã đề cập ngày hôm qua.
+
+Và có hướng dẫn về điều đó trong sách hướng dẫn.
+
+Nếu bạn mới bắt đầu, hãy đảm bảo rằng bạn áp dụng các ví dụ mà tôi đưa ra vào doanh nghiệp của bạn hoặc vào một
+
+số ý tưởng mà bạn có về cách áp dụng vào công việc của mình.
+
+Cách tốt nhất để áp dụng những điều này là áp dụng vào điều gì đó mang tính cá nhân với bạn.
+
+Có một người trong khóa học khiến tôi thực sự kinh ngạc.
+
+Ông có một người họ hàng lớn tuổi đang gặp vấn đề trong việc gia hạn thuốc vì ông không theo dõi được các loại thuốc
+
+nạp lại khác nhau và các hiệu thuốc khác nhau.
+
+Và sinh viên đã viết một công cụ, một ứng dụng dựa trên LM giúp người thân của mình biết khi nào cần lên lịch, cần nạp thuốc ở
+
+hiệu thuốc nào và mối quan hệ phụ thuộc giữa chúng, v.v.
+
+Và nó thật tuyệt vời.
+
+Và anh ấy đã đăng bài về điều đó.
+
+Và tất nhiên nó nhận được rất nhiều sự chú ý vì nó rất riêng tư, thực tế và hữu hình, và nó giải
+
+quyết được một vấn đề cụ thể cho học sinh và người thân của em.
+
+Đó chính là điều bạn muốn tìm kiếm, những cách bạn có thể áp dụng những gì tôi làm vào hoàn
+
+cảnh cá nhân hoặc công việc, cuộc sống chuyên nghiệp của bạn và tạo ra thứ gì đó dành riêng cho
+
+bạn.
+
+Và sau đó, khi bạn đã làm điều gì đó tương tự như vậy, hoặc khi bạn đã thực hiện bất kỳ bài tập nào hoặc bất kỳ điều gì
+
+khiến bạn cảm thấy mình đã tiến bộ trong hành trình của mình hoặc vừa khám phá ra điều gì đó hoặc có được hiểu biết sâu
+
+sắc mà bạn cho là thú vị hoặc là một thử nghiệm, hãy đăng về điều đó trên LinkedIn.
+
+Hãy đăng bài nếu bạn muốn.
+
+Nếu bạn thấy thoải mái, hãy gắn thẻ tôi trong bài đăng và làm cho nó có liên quan theo một cách nào đó để tôi có thể tham gia và đưa
+
+ra ý kiến, và nói rằng, bạn biết đấy, điều này thật tuyệt.
+
+Đây chính là lý do tại sao điều này lại quan trọng, v.v.
+
+Và khi tôi làm như vậy, tất nhiên, LinkedIn sẽ đảm bảo rằng thông tin đó sẽ được hiển thị cho
+
+tất cả những người mà tôi kết nối, phần lớn là những sinh viên khác trong khóa học này.
+
+Và điều đó giúp khuếch đại công việc bạn đang làm.
+
+Những người khác sẽ cân nhắc.
+
+Tương tự như vậy, nếu bạn đang sử dụng LinkedIn và thấy tôi đăng bài về một số sinh viên khác đang làm
+
+điều gì đó, thì hãy chia sẻ vì nó rất hữu ích.
+
+Nó giúp xây dựng cộng đồng.
+
+Nó chú ý đến tất cả mọi người và sự đóng góp của mọi người.
+
+Và điều đó có nghĩa là khi mọi người nhìn vào, có lẽ đó là khách hàng tương lai của bạn, có lẽ là ông chủ tương
+
+lai của bạn, một ông chủ tương lai của bạn.
+
+Họ sẽ thấy hành động như thế này.
+
+Họ sẽ làm vậy.
+
+Họ sẽ biết đến chuyên môn của bạn và tác động mà bạn tạo ra, điều này giúp nâng cao khả năng
+
+hiển thị của bạn.
+
+Vì thế.
+
+Vậy nên hãy làm như vậy nhé.
+
+Và quan trọng nhất là phải kiên trì theo đuổi đến cùng.
+
+Tôi, tôi thực sự muốn nói rằng ngay cả khi có lúc bạn cảm thấy mình không theo kịp, hoặc có lúc bạn cảm thấy điều
+
+đó không liên quan đến tôi, thì hãy thúc đẩy tôi, nhưng hãy giữ vững mục tiêu,
+
+đi đến đích.
+
+Chúng ta sẽ ở bên nhau trong tám tuần.
+
+Đến cuối khóa học, bạn sẽ thành thạo kỹ thuật LM.
+
+Sẽ rất đáng giá.
+
+Cố lên nhé.
+
+Hãy cùng vượt qua nó.
+
+Hãy cho tôi biết thêm về chuyến đi nhé.
+
+Nếu bạn có bất kỳ vấn đề gì, hãy liên hệ với tôi.
+
+Tôi luôn trả lời và luôn nhanh chóng.
+
+Được rồi, chúng ta tiếp tục nhé.
