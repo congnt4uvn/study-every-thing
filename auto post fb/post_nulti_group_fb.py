@@ -20,19 +20,24 @@ from facebook_login import build_driver, login_and_save
 
 
 # Configuration
-GROUP_URLS = [
-    # "https://www.facebook.com/groups/984940111090551",
-    # "https://www.facebook.com/groups/901737878900208",
-    "https://www.facebook.com/groups/1728522551728635"
-    # Add more group URLs here as needed
-]
-
+G = """
+https://www.facebook.com/groups/1359445864770043/
+https://www.facebook.com/groups/batdongsanhcm1
+https://www.facebook.com/groups/nhadatquan7namsa
+https://www.facebook.com/groups/1620447884651557/
+https://www.facebook.com/groups/nhadatquan7namsaigon/
+https://www.facebook.com/groups/1194594703901281/
+https://www.facebook.com/groups/744635730390896/
+https://www.facebook.com/groups/2006136186389604/
+https://www.facebook.com/groups/745712154058340/
+"""
+GROUP_URLS = [url.strip() for url in G.split("\n") if url.strip()]
 
 POSTS_DIR = Path("auto post fb/posts")
 GROUP_LOAD_TIMEOUT_SECONDS = 30
 POST_DIALOG_TIMEOUT_SECONDS = 30
-POST_INTERVAL_MIN_SECONDS = 30  # Minimum wait time between posts
-POST_INTERVAL_MAX_SECONDS = 40  # Maximum wait time between posts
+POST_INTERVAL_MIN_SECONDS = 300  # Minimum wait time between posts
+POST_INTERVAL_MAX_SECONDS = 400  # Maximum wait time between posts
 
 
 
