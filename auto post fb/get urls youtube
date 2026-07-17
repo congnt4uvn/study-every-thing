@@ -1,0 +1,19 @@
+from yt_dlp import YoutubeDL
+
+playlist_url = "https://www.youtube.com/playlist?list=PLTyD0c5uU7GChVF7Po9a6xd6g64r-cq6R"
+#https://www.youtube.com/playlist?list=PLTyD0c5uU7GChVF7Po9a6xd6g64r-cq6R
+
+ydl_opts = {
+    "extract_flat": True,   # Only get metadata
+    "quiet": True,
+}
+
+with YoutubeDL(ydl_opts) as ydl:
+    playlist = ydl.extract_info(playlist_url, download=False)
+
+print(f"Playlist: {playlist['title']}")
+print(f"Total videos: {len(playlist['entries'])}")
+print()
+
+for i, video in enumerate(playlist["entries"], start=1):
+    print(f"https://www.youtube.com/watch?v={video['id']}")

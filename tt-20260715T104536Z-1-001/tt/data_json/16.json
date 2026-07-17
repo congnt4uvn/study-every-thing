@@ -1,0 +1,2394 @@
+﻿{
+    "statusCode": 200,
+    "timestamp": "2026-07-15T04:01:48.446Z",
+    "message": "Danh sách kho tổng đã được lấy thành công",
+    "data": {
+        "data": [
+            {
+                "id": "19c1ade2-41bd-4f0c-a318-2f776d85411b",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "BA019695",
+                "ownerSideUserId": "095d5d92-b469-496d-a7b1-4982713bed77",
+                "createdBy": "095d5d92-b469-496d-a7b1-4982713bed77",
+                "address": "142.11",
+                "latitude": 10.73916616830573,
+                "longitude": 106.7193634808064,
+                "placeId": "ChIJFX_KNIEvdTERShRjUTNEpqo",
+                "placeName": "3/1B Nguyễn Thị Thập, Tân Thuận, Hồ Chí Minh, Việt Nam",
+                "street": {
+                    "id": 3677,
+                    "name": "Nguyễn Thị Thập",
+                    "provinceId": 2,
+                    "createdAt": "2026-01-06T11:48:04.463Z",
+                    "updatedAt": "2026-04-02T16:36:36.301Z"
+                },
+                "streetName": null,
+                "area": 118,
+                "actualArea": 118,
+                "floors": 4,
+                "wide": 5.1,
+                "depth": 23,
+                "offeringPrice": 24,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 15870,
+                "commissionValue": 3,
+                "commissionType": "percentage",
+                "criteria": [
+                    {
+                        "id": 3,
+                        "name": "Hiếm",
+                        "parentId": null,
+                        "groupId": 1,
+                        "groupCode": "PROPERTY_CRITERIA",
+                        "groupName": "Tiềm năng - Rủi ro"
+                    },
+                    {
+                        "id": 16,
+                        "name": "Chủ cần bán gấp",
+                        "parentId": null,
+                        "groupId": 1,
+                        "groupCode": "PROPERTY_CRITERIA",
+                        "groupName": "Tiềm năng - Rủi ro"
+                    },
+                    {
+                        "id": 17,
+                        "name": "Chính chủ",
+                        "parentId": null,
+                        "groupId": 1,
+                        "groupCode": "PROPERTY_CRITERIA",
+                        "groupName": "Tiềm năng - Rủi ro"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Ngõ 2 ô tô tránh (5 - 7m)",
+                        "parentId": null,
+                        "groupId": 3,
+                        "groupCode": "ROAD_TYPE",
+                        "groupName": "Đường trước nhà"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Nhà trong ngõ, ngách, hẻm",
+                        "parentId": null,
+                        "groupId": 4,
+                        "groupCode": "PROPERTY_TYPE",
+                        "groupName": "Loại hình bất động sản"
+                    },
+                    {
+                        "id": 54,
+                        "name": "Có sổ - đang thế chấp ngân hàng",
+                        "parentId": 52,
+                        "groupId": 5,
+                        "groupCode": "LEGAL_DOCUMENT",
+                        "groupName": "Giấy tờ pháp lý"
+                    },
+                    {
+                        "id": 62,
+                        "name": "Vuông",
+                        "parentId": null,
+                        "groupId": 6,
+                        "groupCode": "LAND_PLOT_SHAPE",
+                        "groupName": "Hình dạng thửa đất"
+                    },
+                    {
+                        "id": 70,
+                        "name": "Xây 10-15 năm",
+                        "parentId": null,
+                        "groupId": 7,
+                        "groupCode": "CONSTRUCTION_STATUS",
+                        "groupName": "Tình trạng xây dựng"
+                    },
+                    {
+                        "id": 73,
+                        "name": "Nhà tường chịu lực",
+                        "parentId": null,
+                        "groupId": 8,
+                        "groupCode": "HOUSE_STRUCTURE",
+                        "groupName": "Cấu trúc nhà"
+                    },
+                    {
+                        "id": 77,
+                        "name": "Nội thất giá trị cao, tiền tỷ",
+                        "parentId": null,
+                        "groupId": 9,
+                        "groupCode": "INTERIOR",
+                        "groupName": "Nội thất"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Ngõ thông",
+                        "parentId": null,
+                        "groupId": 11,
+                        "groupCode": "ALLEY_TYPE",
+                        "groupName": "Loại ngõ"
+                    },
+                    {
+                        "id": 85,
+                        "name": "Vị trí số 2",
+                        "parentId": null,
+                        "groupId": 13,
+                        "groupCode": "TAX_CALCULATION_POSITION",
+                        "groupName": "Vị trí tính thuế theo quy định của Nhà nước"
+                    },
+                    {
+                        "id": 88,
+                        "name": "Chỉ có 1 mặt tiền",
+                        "parentId": null,
+                        "groupId": 14,
+                        "groupCode": "OPEN_SPACE",
+                        "groupName": "Mặt thoáng"
+                    },
+                    {
+                        "id": 111,
+                        "name": "Dưới 100m",
+                        "parentId": null,
+                        "groupId": 18,
+                        "groupCode": "DISTANCE_TO_PARKING_LOT",
+                        "groupName": "Khoảng cách ra bãi đỗ xe oto"
+                    },
+                    {
+                        "id": 115,
+                        "name": "Khu vực thuần ở",
+                        "parentId": null,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    },
+                    {
+                        "id": 117,
+                        "name": "Khu vực kinh doanh sầm uất",
+                        "parentId": 116,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    },
+                    {
+                        "id": 121,
+                        "name": "Phòng trọ",
+                        "parentId": 120,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    },
+                    {
+                        "id": 123,
+                        "name": "Kinh doanh",
+                        "parentId": 120,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    },
+                    {
+                        "id": 129,
+                        "name": "Gần trường Đại học",
+                        "parentId": null,
+                        "groupId": 20,
+                        "groupCode": "PROPERTY_CRITERIA_FACILITIES",
+                        "groupName": "Tiện ích"
+                    },
+                    {
+                        "id": 132,
+                        "name": "Khu dân trí cao",
+                        "parentId": null,
+                        "groupId": 20,
+                        "groupCode": "PROPERTY_CRITERIA_FACILITIES",
+                        "groupName": "Tiện ích"
+                    },
+                    {
+                        "id": 134,
+                        "name": "Không",
+                        "parentId": 133,
+                        "groupId": 21,
+                        "groupCode": "PROPERTY_CRITERIA_GEOMANCY",
+                        "groupName": "Phong thủy"
+                    },
+                    {
+                        "id": 138,
+                        "name": "Không có",
+                        "parentId": 137,
+                        "groupId": 21,
+                        "groupCode": "PROPERTY_CRITERIA_GEOMANCY",
+                        "groupName": "Phong thủy"
+                    },
+                    {
+                        "id": 141,
+                        "name": "Gần trung tâm thương mại, khu đô thị",
+                        "parentId": null,
+                        "groupId": 20,
+                        "groupCode": "PROPERTY_CRITERIA_FACILITIES",
+                        "groupName": "Tiện ích"
+                    }
+                ],
+                "district": {
+                    "id": 36,
+                    "name": "Quận 7",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-12-28T12:08:29.287Z",
+                "createdAt": "2022-12-28T12:08:29.287Z",
+                "updatedAt": "2026-07-12T14:59:21.222Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 12247002,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker3381028187624099698.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=orAXMcHDS-fI33Hn3mtwVGLVXGwdSnw5vAldE1KehXaeC-1vEHMk551Zl6iXDZA8YZTAYBirV5IjUuDU8MTkx-XkQrWvrudVsoVbZiETOiUy9bynf74gsETSq~ENzoEQ8xy6lrQg65XKevltk27es2ur3gJJLQls7JsXPl~DH8DDrC--g~9ZarPQJQMkt3HV1cZEdrboass939TfTYjNjmhhaT7fpM9BMBlrb9R-XZntybJdX7aZ97pq9nqG5Fd~GkUlKfRuG8Uj4InnP0wVrEuoLPNIBlqB2yoFQnm52vEkoDlqeML4VMJo10d~XVyFm4YgbRHEeteRhmxpPizYEg__",
+                        "fileName": "scaled_image_picker3381028187624099698.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker3381028187624099698.jpg"
+                    },
+                    {
+                        "id": 12247004,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_c1339a02-0835-400b-9b86-a5792e76e6318656429748531440685.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=YWIsrxqDJzpWijRUfveeEAoIB2-slWrn6VjK6dQ8d2M~Yg16oYhWCECYOQto-tG9vjmqn5xVcU7HnHCbEGvwK6PQ0a2E37ZbnJpNPfd0rJN2xvxFeGwPi3s97isSTB5v5HygmylgxoX-pHdSSo5H-ypwMEpPorajjEUi7XsNKQoif7aow0aXhgQBI~D1sMZ0YZlE0FBpdl6~kUgmEpZ-dazJUGkdt8InKh3tK2tDfTCUYdQdlxhNqS-uhrQTFFl80AGsQcGL-XvtPvZQpbfENzbb-cbL-BNZye9smHlxPInlBxYVT9K3cMxTr3VLESwQYHg8s-n1h3FMtJfW9xAsYw__",
+                        "fileName": "scaled_c1339a02-0835-400b-9b86-a5792e76e6318656429748531440685.jpg",
+                        "path": "old/origin/2022/12/28/scaled_c1339a02-0835-400b-9b86-a5792e76e6318656429748531440685.jpg"
+                    },
+                    {
+                        "id": 12247005,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_cf1aa29c-072b-420f-b4bd-9c87b6e778f96309290204357101118.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=Ujn3r0a3AK7DQqAMsB2-TGWprhIKmai~yHsfQf3C3CFiioZPxVewc3BCiVwhBx9Ge0IYaBNcIZnhXoMv55Uf1LN6g9KPJxm9wVLH45a352EWbsqrOcXeKizkop-pGI-8f5XI9Pl1JLyeAx1gYKxDGWrZyaRan8lmG3BCsi1QmKgXvNq8as6-hjvvh4ssTztZuUsjZTeaLal~ib0VafXb14a4bSaGJUbOByrvTLLfz5fPNXSWhDKWwh2l47MZuJFqHvdiDkBkXkntZzKeS7A62ofTPr0zkj2ULPMXsZpQFVL7aDqZo6Ajp2pTBaNKxYy4-0mrsNjWTvsuWGmNr~~l-w__",
+                        "fileName": "scaled_cf1aa29c-072b-420f-b4bd-9c87b6e778f96309290204357101118.jpg",
+                        "path": "old/origin/2022/12/28/scaled_cf1aa29c-072b-420f-b4bd-9c87b6e778f96309290204357101118.jpg"
+                    },
+                    {
+                        "id": 12247006,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker1766050835750095896.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=PLfBwQWN3P-gfki4odf77x-BHXsNzbWH2VC~ozs1YO96E6aLJWjhckR3Y-qZ6uZ0M9o3OkyjBfkrYJJulT6ztBvwCj67vmNpWbmoMuThYybW7hJSdXHzDXSow~TazoT036xoqsLYP4KrJjZH26nCDLoDNwqQWmYnaZOq4IFE8JBEopSD7BxvGjV3mvxBhRy52V-jSSLFVVakN6rPcvAAfXNLH1kGiCeLZNE-eG7Pu8~MGRh0WqlbGzvuC28m7837bohg~QikMuuUN2iT9xnaoLRjtNdG2pa7-Vk7O4F5~DBgmyQZl6SKzB7VvUGnnv63FT~xka7au2Wppv8GwL~WLg__",
+                        "fileName": "scaled_image_picker1766050835750095896.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker1766050835750095896.jpg"
+                    },
+                    {
+                        "id": 12247007,
+                        "index": 1,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker3830219896830837294.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=GrhT3rJ6fcA7xG7eq3Wad4fql229~G6COHgWAZo8PThp-UZdTnErqmhKsJ3cyqdaZbsKxig5XGV9RpNINgZOlTJePcHEnxJmc54EV7PpXeM1rVRg6S-1p4ov7sy~gWh3ZZ-rT5GFVPgAQ5mMAAJl~cUHuzdhR6tdTpIZDo1rwfQ4sQCVGPuLpAk2g4Wu4aAbMocUpexlCpd-Az3NjzwMRT8LlpIDR2JxLvkA5O0kyzGEmwIUMIfjJHWu9AjbRb4M8O-JDZKPd~DPTjy~QoQLizpiiHwBQl6sz0rRNfRIT~czWpfz~f6VwBPlrmozgfP-EFYXJevqyUu06IXLhfOXvg__",
+                        "fileName": "scaled_image_picker3830219896830837294.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker3830219896830837294.jpg"
+                    },
+                    {
+                        "id": 12247008,
+                        "index": 2,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker2015949931044659263.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=RxUoJWoeX0cQPFDnquVelKbTZFRX0qCos7Kg2kM3xzDN30-HSM9dFxYHrd1imjThESoaQN3RTUnHVAqZHgex~n6xFnUYbuG3r1LBnHdMv0srUf9Y2hdSEQjlbBWCPm00qyb6fbFclPBO9PLeGiKFp1jFh2iORbMBw3hjD2SESYpxXqxwWf9VdZebqFuyvZFRDJCyiFdMJQmiRxIrT7WuU2ub2fCEdzyTicIL2ga6TEUxbgeDjvN12xofjIZu8Hgr1ngC1KY4O~G~1eAKPWvLpIqWIfi5Fdo-kGb1fR04RP2ISkvQt4StW4ZqMrIgiEe98TPFTYjv62YBMJGHZaqjHA__",
+                        "fileName": "scaled_image_picker2015949931044659263.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker2015949931044659263.jpg"
+                    },
+                    {
+                        "id": 12247009,
+                        "index": 3,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker7040405613863144442.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=OqXtAXlgxKhMSBSC-fNmKJAtg3i144jvKj2TyjxyMWdwQgrlvo7vS~D2gL-IEWgiAxJ9EXK5dgYL-Qt2k30Sle6HrPzxHbhORJmu9phZDSaZoviXrEiLc2JP9JlH32sSetySaLrxg7heZWsUr~vq~oeBI9dbDteval-vEs~TJp9g-PDwTQmz-r45ZhXI~Xpi4Bd5VEzclxb-qtG4Rjx29h6UIGfgwBpzcbQG5tldkZV8fAstnlAe5MTlHPCbM~xtPxjQcHOM8cXxjANlfwKpiHBdROdrdDZYdl9fuOFJBTJjQN~SJx8BKYBR1cfhIa~uqyW2uhuoYs3lSRRhSWWn5g__",
+                        "fileName": "scaled_image_picker7040405613863144442.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker7040405613863144442.jpg"
+                    },
+                    {
+                        "id": 12247010,
+                        "index": 4,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker536171696525824817.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=JVJiDYBoEUKqUd4~TIaTO-HbkK1V8wT6Mce1nbymSzdb7QcwKUehUfhtailRIzEoQdeHnQGbe4nRcwtq0TGj4P4hT4SaXnkMXsOlaZ-FcQf3PVIc5qnNTNdrh~NoOOo2u1ru3rGO00e37358afYg9KmhVKN0ftK-YOVB-9RZX1aFYEKInLUaE2JojLgIcGq4T9pHPpB5QGPt3x4ne5ihPhbD-KDhm1NZn6W8zGnRAuTjyVCrNuUG~OWeUMqI3cfeT62ZCYK3ZU77udyB2She3jJokLEmkrbE-AiuJ8FiVE6mCforzcJErRxqvRr06G3MT0FQH6yq9Ptk97bxVcGmvw__",
+                        "fileName": "scaled_image_picker536171696525824817.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker536171696525824817.jpg"
+                    },
+                    {
+                        "id": 12247011,
+                        "index": 5,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker8459407543932942662.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=Zj6AY~4rgmclewr26Htdx8W5O4pVCpq31I~MuGfzb7Pi7hRflnTAITH~-f-asw7IUxH000TMxDAVzfEgdw5ADJruoWgkbl4JITsnxfHkVpCm5W8E1ZEspZmGow~b1rlg5-WUpGPnYmuYhp9Mt1HSmHdOaJ6mUgPkTx13I-pO63RiNGAM~pknQUevBYU~vtkAk0HOTGrqZb6~HuEmhMqbX6cnRe8v4NO6yGZPCC2urxIqtrlRwFvojkv0iI9gmuInQC-TVvq1WS-v-p3AqTRdSgMaG3WgjHlGevDd37nAlA4K-Vb2H5K8eFVWKWUsU43tfzOwDDIsja1tboJh2brRTA__",
+                        "fileName": "scaled_image_picker8459407543932942662.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker8459407543932942662.jpg"
+                    },
+                    {
+                        "id": 12247012,
+                        "index": 6,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker538805777837728378.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=tjmkw70-DzZqTtBisPkKN5xrcu2729g-~RCIPflqBEAx0MfaTdIeuY7e7Non324i4-ljPapdA0-EZ2Ecnk3STv6Kr8O9JuEWPh1FpMTYG36twuoP8j4Myghq31bfT9xUButpo3xzK-vSpshdgtCTmt~h43ykK-Sx2e07-fobrB7Wnlu~OLo~D22Qjmyg8AUnlhDACIHJ7F1obxxOS0TR4SMBZqU4Rfek17IBmQJCZQ5jqnjRVxzc5QO2xxtkW38~x~z6wlMNBhT1HLqZY6LU1MHsoSkjp0pBp2p9c6tW~YepECSJR3q9eYXpY3d7N7R9Hlh1g73HObDqyWn1PshdGg__",
+                        "fileName": "scaled_image_picker538805777837728378.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker538805777837728378.jpg"
+                    },
+                    {
+                        "id": 12247013,
+                        "index": 7,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker3049077574368820553.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=PYqi-lt0FpeINuL~V3o4RVS0e4zGVcAX449nHZcbg0ZRWa7uzS9t-cNyDLhouOY-mJSYIY2Z0cHp4mMPoncB6Svoct-BmTnhO5NEd5BYjSWqeI727Md4Qp9i~MRhZkYMbBdLDlqQBb2k-tPp6ZNMcMB~RjEXhL56vTWS2yWOlsT6xRfSdbOdo8Nz0xGniPh424sgeBa2qpIVXgOZ9z9osQfQ8NYnfk0SBOa3dugUJCuwsALx8ZIzNd8VVwVc7WDaIdr-Dn0P6aBAApn5vDLfErjGn9GKd-LeeOBGVgQu14JRt5ay2olJ6-alEOnUBiBintVgU1fYB5l3hG5kyoxNpQ__",
+                        "fileName": "scaled_image_picker3049077574368820553.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker3049077574368820553.jpg"
+                    },
+                    {
+                        "id": 12247014,
+                        "index": 8,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker967762750767099917.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=R9ivG8cSp4nM8kZxUW6wn-n1EujeftgkSGOSgJb2UbF1DAMAAVGYuHvlKiFQoikDmg1Z6Me60n9DWpJDmh-RTtt3nvUiKEdKOqPvgTXjKseuPLv8pi2H4MkP3mW2ZrKcls6EzIQTfv8-r1hr5XQYSY7Mhc4iMZnWFRTPsVrdbxMCB36bTLymDlm5rC00yRdgRB53At2ktHqDKcN-WYTZyVPYrHkP7lATBNEKiZX~3yF3DCpJr1sSeJ73UMWmwutbHDYdxeHlhcKQjkfLaVRn3pkT9DrhwXX4MVfZGYQXOqhXSobN2hRaovfvLdmH6IRtKWC4cWUFRK~HBZRSrDV3Jg__",
+                        "fileName": "scaled_image_picker967762750767099917.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker967762750767099917.jpg"
+                    },
+                    {
+                        "id": 12247015,
+                        "index": 9,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker1105494595646197699.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=XxCSIjEfGpUFXaPbj2c9Wsf6sFrbRSBAnKUMNbf-FzftkQv8Ps5XZLSukqJqCJbE7w-qMxyIpcY1gBUdvmSzoNDZtr61Wsvyo0LZ871qEPAmabbt0C-MLJJwif-~1f8VEnk97DBu5PdCHQnXixsza2zYynOPNeSuNShBh8a1chheL3b5s5mMnhEvvmDbepo0XEu6bibMU7l0omTwp3eLQwPnEs-BBKVzg4yI4zDG0YUJwKOrqfZKATv8NCHZXvkKkTaLzvxceEBbwECB-MFY8YDj66D6-dhWvPrW8ApcsZez4Gqw4ozIr-eH45yKC4wKRIXApoNVBOiZmpGgD-Pc4A__",
+                        "fileName": "scaled_image_picker1105494595646197699.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker1105494595646197699.jpg"
+                    },
+                    {
+                        "id": 12247016,
+                        "index": 10,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker2996296355862433359.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=j7lVgLJ2LOPXJinP13eHwp8HDD-vUvf9LYVruU7jvtVNuheR5dpaAyaWpC0DQXad3Z3Ki10Ty5HtYexQUmAdqeyZzsOxLbarNYzw9zR-o9bhDVkCQJilDIQB73DlxS1jfuVr3xJjON39A8mQFZ6bf6CKYM3zDgP-yLJiG7oIP4gB8kDe5VcX3eju~jLAz1q1BTUFfdPyLY57zNkYDn9fvPm7akGb-FMrwLVuulzA3CKcl0rXyCKmVFjKeBznlvmZtHrYXXWnDjo274ckePqmmImWpHbgbguof0SzJE5rXPQz5ZmBh8jJcim6WguMqV2GLKzaI6YCpE9cE6fjItiMXg__",
+                        "fileName": "scaled_image_picker2996296355862433359.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker2996296355862433359.jpg"
+                    },
+                    {
+                        "id": 12247017,
+                        "index": 11,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker6790752093280704799.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=JwNoaNKQxpCI2kE~JnISNlKzCc-jL6ASU0TRgrNLs2Eg3YhEjDODItNAHDRpU2GprCGquCfvjs~VY7V8zBPQvyY~T~IPl~zEzTq8G0MQW-pGSVdaVOFkiB1tZ6q3G~5oqehtH3PpGX4KELgaJcoEN2EALS-MZXzbYEucU7WuHyvmoSu3onNJHDo7Oake2ZPLAInyaCp48uMbXtYoo5RNGlK0GTh49UEccg5K-E6riRkGLbf~zEwbapxMJJGkTno4-eWhAQyoZATnGnEtEyZ1yR~V3otf2WnchmBUk2PQkeANr950YrqOf0IwYBV~u5UAxi0q0WUxXmpMw867GXkORg__",
+                        "fileName": "scaled_image_picker6790752093280704799.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker6790752093280704799.jpg"
+                    },
+                    {
+                        "id": 12247018,
+                        "index": 12,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker5006152336036833821.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=Gz7GwsaoAnwiApAUNzAj1mj51CwJgcWbedzKP6ycqwr3AxAMr-VB-Y06tG07yIhmeBE6dyYp4mX5HYPT8SlgvPBo78t3cRCavXagsNq-K7Sg0VpnIizfIeM8dmuHle-mCkoxjQmlJQKcSZ7q5PZH4nUbkYaMr9s6q04xjhPAkQZP5VIE2VDl5xX-9FO0lBKWWnOC6tWm~a~i2gjZKRRQ1e8js~1Ulo9XdEhyqMiTAW~ZpruXkl4KOLOENXrE-mGJ7~l3sJo2rpvkOYxXSj-F3AufODBHnKgMnWgEXr89HajHyWJaM59MbzumHBxnGgG1f86DEQA2BVOT8n06fONcfg__",
+                        "fileName": "scaled_image_picker5006152336036833821.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker5006152336036833821.jpg"
+                    },
+                    {
+                        "id": 12247019,
+                        "index": 13,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/12/28/scaled_image_picker9075248260711479829.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=AIbERBA4ark3OJ-n~HwbsLTCboGDZ18JYkMkuTmk6qyNJFtQYwGA5l9Dq4rczwMuFs6JNTf0HEo7ar81zBRsFh1hYxqw2kMG28uoOSkBPpgMx-7O4ae8gCLBUbj7Wrm94SNP-h9IqFikySgHmPl8wfrmOkcEkBsZ2dRjvYnXmLrXDbNRWYL4gEfKzATDKPBumdndcb-BP2JpgAJPe6WhqPybqpAj3U-skT6xO4ZMauFVG6V3IenRN6xVEiCvtqz2742iPCudXg5oJ9ChL0D4V2PeqcsqPoTC0p-N8ZoZwyrveciPHkVaTHyx4-jd28iZ~ECajjMscwwM9gBZXwSEgw__",
+                        "fileName": "scaled_image_picker9075248260711479829.jpg",
+                        "path": "old/origin/2022/12/28/scaled_image_picker9075248260711479829.jpg"
+                    },
+                    {
+                        "id": 12247020,
+                        "index": 14,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/2025/03/25/2hb4-CA16C8D-m8nvoyqi_10_1.jpg?Expires=1784088312&Key-Pair-Id=KX5HYW72PVJI2&Signature=Kif0KZEbs6RpkUBlrBsrU41mBJ9AGbDD5ngI56BuBkIvwhIudtPL7JfYIET4mAO~szxOwdbAUwfncTkLjMqUXCEMuzLhoknxd7jOHYv07~RrSdRUtUeS5Wf56hPG1AW17dPyEvnRK4nYYzEuVlp0pNxitD9eYAH7htJEM4T9rth8UyNHK2a-G29W3FPO4CTcZQlzXS~vfLeb~IEN~MJx~t3kMFwyhbUQuXSjIG1ze7C9Fp2uQEkIpiOwFJWSaHxclGMFBkGU7yqCu8IcJsSDkbsWOJZqv1GJ7x4u3~Qa-VVcEwicsWvgTBXeUTtLhKo8HXmlBwg4svVkk-0ocBLGXg__",
+                        "fileName": "2hb4-CA16C8D-m8nvoyqi_10_1.jpg",
+                        "path": "old/2025/03/25/2hb4-CA16C8D-m8nvoyqi_10_1.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Nguyễn Thị Soan",
+                    "position": "Giám đốc Khối",
+                    "avatar": "https://dms3amyi97gvv.cloudfront.net/old/avatar/avatar_638566489693341111_41829.jpeg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=JBHqoBl7ErTEtyvB9WoOVdEB2ZCFrUV~MzAdZ5m1jfCJDEWOiEZDReqwOKmMpj3E5dTM52hs~wgoYtXnWN~OtiS514yNN3AGBx1MoVF0bJKz2P2jsNO6R0s8~PLKS4nouUOeXw7CWCu0XllW9alPB47pspDHkrhaoCCcKNUZWe81Y96VsPpEvleuptvJnAPVQUfwYAurTEKbKRvmyHvHEqH-GzfjE1wyDTS5JM4rqI7gwRfPUVq2236Xhnc9yt08j-yMAxZ5xPYGMjUbYe0LFt7buH1YXegLL8J8kdEng9n~ELSseQ3GWhZ2vbUVnIrHEDLIlMy18yraSPZ5YuFQPw__",
+                    "numberId": "035189003514",
+                    "fbLink": "https://www.facebook.com/phan.nguyen.14203544",
+                    "phone": "0944050289",
+                    "createdAt": "2026-07-12T14:59:19.412Z",
+                    "userId": "095d5d92-b469-496d-a7b1-4982713bed77",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 102,
+                                "type": "KHOI",
+                                "name": "Khối Hồng Phúc HCM",
+                                "level": 0
+                            },
+                            {
+                                "id": 316,
+                                "type": "PHONG",
+                                "name": "Hồng Phúc HCM",
+                                "parent_id": 102,
+                                "parent_name": "Khối Hồng Phúc HCM",
+                                "parent_type": "KHOI",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 316,
+                                "type": "PHONG",
+                                "name": "Hồng Phúc HCM",
+                                "parent_id": 102,
+                                "parent_name": "Khối Hồng Phúc HCM",
+                                "parent_type": "KHOI",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "20702ddc-c4c0-4da6-8d0a-cf6fb17202b0",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "AA03060394",
+                "ownerSideUserId": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                "createdBy": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                "address": "214",
+                "latitude": 10.750603,
+                "longitude": 106.730654,
+                "placeId": null,
+                "placeName": null,
+                "street": {
+                    "id": 1388,
+                    "name": "Bùi Văn Ba",
+                    "provinceId": 2,
+                    "createdAt": "2026-01-06T11:47:55.820Z",
+                    "updatedAt": "2026-04-02T16:36:29.372Z"
+                },
+                "streetName": "Bùi Văn Ba",
+                "area": 64.4,
+                "actualArea": 64.4,
+                "floors": 3,
+                "wide": 4,
+                "depth": 16,
+                "offeringPrice": 14.2,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 13560,
+                "commissionValue": 3,
+                "commissionType": "percentage",
+                "criteria": [
+                    {
+                        "id": 3,
+                        "name": "Hiếm",
+                        "parentId": null,
+                        "groupId": 1,
+                        "groupCode": "PROPERTY_CRITERIA",
+                        "groupName": "Tiềm năng - Rủi ro"
+                    },
+                    {
+                        "id": 115,
+                        "name": "Khu vực thuần ở",
+                        "parentId": null,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    },
+                    {
+                        "id": 116,
+                        "name": "Khu vực kinh doanh",
+                        "parentId": null,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    }
+                ],
+                "district": null,
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-11-03T08:35:15.970Z",
+                "createdAt": "2022-11-03T08:35:15.970Z",
+                "updatedAt": "2026-01-06T21:06:44.296Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 221925,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_image_picker4419806889075496030.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=HhvuIeGrwLbwDxEZoNPqWfj1upFekMsT2Sk7Okam3ubYsL1I1nRFyAZYGT2Oglo8~OzMv75wE7JyhBxoTaK3yvqPIEu3b2jzpD-2eI86CuO3JJENC5l3o0dxeF7HeucFhlHfKvdEdDzSOYMubXiIKBKLanb33P8I8-wecglZBvIwLsIV-S6DTbqAmLsHNi0xH9AWK2IWIQwavqjaUnlk7nSBE~RpBGLJtEzUNoRFnmKoSKvfE4f78UFQM79nIf2KI39k8Zbb6JM7NomYuHXG77B1frOod1mlxAN2GjREW~nrO9HYYbLJE4LBr4CCUim5~YIWfRFzalPzpXOhKKL9sQ__",
+                        "fileName": "scaled_image_picker4419806889075496030.jpg",
+                        "path": "old/origin/2022/11/3/scaled_image_picker4419806889075496030.jpg"
+                    },
+                    {
+                        "id": 221926,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_image_picker9158569553124283340.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=I00~CIzk7ExZ2FMu4fBplV4UuG2mz11qaG4dcTRr12sxrVj2Gr38~udfdSrA1E38W0IA6ppIu-TeefZeqAm-Qer0KrePOSLuhQ7x5hFPSZZZT5e5XYWgoxTEjFY6IGpohCNOWrUs1drA7786wYLxRbaALd8MqQW7tGvo4ouX3jBGLzMe0YNB-yoNDxxxY8MFgHW2GMS0g-WjRHE-sHNnBMsnkCV5rklZb~Rnvx38VjvJoLMdtDStiCDx6Gw2aeStZbu0HShDGTtc5mn3GxjIUmIw1RV2zhlWOgDdkEsHUKVOIbo-rSfIJ9qTRb~qQTTTLRahwnPi00Eww6WRHGAqrQ__",
+                        "fileName": "scaled_image_picker9158569553124283340.jpg",
+                        "path": "old/origin/2022/11/3/scaled_image_picker9158569553124283340.jpg"
+                    },
+                    {
+                        "id": 221929,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/2025/11/20/2h9q-5E50D6CE-mi7657r2_4_1.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=BNHkyc~gxvz7Pl3kRZCwzF~qgTRn98Zvk2cyPm4qShNZtaJ2S0ZtTUH4E7tES~hb2t-WCqZPDyb-rzD-JfmR4vBCyfLgcK3NyWiNvO6vsFu~DQKM2RunNQLI9MNN3tKIS6T2hNpbOHTH9OgCzMdYScgehRRv37eiuNTtrQgApJjNgjgh7TXyez5-oiNoQMr3AioWEw6cUzbEmSB~SDYDs2vTHKDggGDrbV0gPQxmQsDa4KbC42nayDlQKAi~dR5O7-cy-1Tem6kThuJaBUXFZ2p3aTavb59RCN5ZMgl8iJtd908TFcU5e7fPn1gr70dbV2Xlr64nJVBlbf4gptEAtQ__",
+                        "fileName": "2h9q-5E50D6CE-mi7657r2_4_1.jpg",
+                        "path": "old/2025/11/20/2h9q-5E50D6CE-mi7657r2_4_1.jpg"
+                    },
+                    {
+                        "id": 221930,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/2025/11/20/2h9q-5E50D6CE-mi7657r2_11_2.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=oJyNQeELFqL5K3nmuzUuBHnngUpLe9DiD-vSVTNFtn7515HLf3cbO0CV-3p41bBfm372dLfmuL7n2KQWbdhH4yOIVE7yL8XUMRCaVt~XUsu-qytDaRoR8aUq6Lc1cZ96sM~RH0EbMM5A1FEGq9LWJ4k1~MJ3pRutwoi3A5gr0~yD5I0TFKU0we2dzz1t9QaLy2Grloai85z1--iWhoqUkHbqdBQUa5q29ULO3MvD~185esqvXpGlH0lVkHaiVnoOXf7YDELH~8CWQhrSnLc0FgwWPhbN9lrHQQXDSsGd84Q~koQRB9JkqpSjpU6-TteTO4JmLJVyKu5VpQibB-fYwQ__",
+                        "fileName": "2h9q-5E50D6CE-mi7657r2_11_2.jpg",
+                        "path": "old/2025/11/20/2h9q-5E50D6CE-mi7657r2_11_2.jpg"
+                    },
+                    {
+                        "id": 221931,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/2025/11/20/2h9q-5E50D6CE-mi7657r2_14_3.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=sZ7DJC6fhXueJNMjds2w8Wz39xOK7bJqCI7jBhyVOJbXmGDxaxAk5yUiYJBwl22kCTrd2TRnosvwxQ8HcGvesw~J711GEUX1kaTTtZ~fQzVlBG0kSqys9xxUAs9S6L0VI0nvLv96rNG4mORnNPG40Gdw8BpqGSlIa~9rHWhKzr3JEPWP3nHl~LilBDWLajk2B0fUiuIqY~XSBPW674g4inAQeDziTEoO9e91Grr4m-6uvpp7v1OMmSu3iHR-~jPpSBzKbV4Qp6lGQ2ayiMo6q3v7IiCGDyu~8GYTKkG8anOn7wiyNJqBAuaIG8EOnnfi~1VezDYsvFfWBmiVwr33eg__",
+                        "fileName": "2h9q-5E50D6CE-mi7657r2_14_3.jpg",
+                        "path": "old/2025/11/20/2h9q-5E50D6CE-mi7657r2_14_3.jpg"
+                    },
+                    {
+                        "id": 221938,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/2025/11/20/2h9q-5E50D6CE-mi722hpe_1_1.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=FPSRomvw5i~Ne5BWHF9nPzlsra9YaRkfRCQ6MSZgh9Q17RCbZ6ADxIek9HJZRccL7uujzaf9o46LU0~GC2DzrI6GJnWwgCYYqJraYhfsBwmCF9qHCrv8rKZ7AQuMSpdlDVkGMPrh9JOCDRfneEpvJ7rrVUIZee-KQUtFChE4cgKHix9QbodmGLQJ5v0ep~FP9tx0kNexgBm4VPdFiB0-QaB97~GOQAckclKW0yhvDBDlbZXKP56P4bjilTb3SHWAoMzI7zTq1PzsXFENh9cvXlB0Iw4Q4j-vFyDKfq641mzmucdFQl9~tg2dcfuZOONWoALsbUF3ImKCvOOVsbZWDA__",
+                        "fileName": "2h9q-5E50D6CE-mi722hpe_1_1.jpg",
+                        "path": "old/2025/11/20/2h9q-5E50D6CE-mi722hpe_1_1.jpg"
+                    },
+                    {
+                        "id": 221939,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/2025/11/20/2h9q-5E50D6CE-mi7657r2_17_4.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=sB-qHYpBK6PUf9aFmQ4C1bbuKnEPz0lhb9FKE~Vipyi0ckvQ7BLTMXP0eQBZAFTwqdiWpd4ljku~b8qdMmsltc~Jzm-z895tRimPKPLEEQPz3Ks61AZjBjvxJZIdykuoSDFaJq-LPzpZOTTym0k0dCcDGo52fWdquk69f9HsgGI7DSk8zryM6Hf7IKG9r1W~tc0og6ehwdYukmf-CrbmRe3FWXsvIQ0Gzfyh~nmQtgR6m6KPneBCAmmsJAI8S-sFV-JGBHFXeU4Z1tObZyj2uL5~cTFm5WWP14HAlXyb~V6VOqVnRTzXkf5AagGq9f6FklHQu41A-8o-IqyKr2-szA__",
+                        "fileName": "2h9q-5E50D6CE-mi7657r2_17_4.jpg",
+                        "path": "old/2025/11/20/2h9q-5E50D6CE-mi7657r2_17_4.jpg"
+                    },
+                    {
+                        "id": 221927,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_21c5ce2f-2a9e-4bcc-bfd5-4cbb8470139c6537702729520244609.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=bph28ELJSan-86NzvT9PM9XECc7tc10sKJIVNJj53pDIXswLT7czndSXPOs26ngUqYuySJgbCbSUDa-gJ0wxxV1QEAPlAxoyuyPa-cIV69~2InJ4vyEObf7ZIu52TbIuPKOmVZh3MU8AY~tYk-rMd0wgv24EjGZzNAjJDziWR6Jo8ycw8m8DQ1efFqSH1H2LCmvUzzX8dVFyrSqECsljOOi3JmZen5HeIjCofKk7t5CySnCtEa-whu7Nxpj8wDDNAguPWjZC5cS5PQ2MPbojlcp3h-NfQoPmaQOquXCt2V-PCxJLkD~rPzWf5SyjQNopJpxx1~mO-HgHVLcfy3oxdw__",
+                        "fileName": "scaled_21c5ce2f-2a9e-4bcc-bfd5-4cbb8470139c6537702729520244609.jpg",
+                        "path": "old/origin/2022/11/3/scaled_21c5ce2f-2a9e-4bcc-bfd5-4cbb8470139c6537702729520244609.jpg"
+                    },
+                    {
+                        "id": 221928,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_7ffc4829-7581-433e-be36-56cbce124dd27460402212417132302.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=h~eoytzztFR20RuYLKTLdvl~nSihPWLA7cIbwwIuHddbmRSiTrtG~wfBxx6ILXEk7fs~LfjFrfznX7sKfaTmWmAmqGbZkt6JaZw9ZxyZYb1ui22sk0vf34yMs1h~7qQEpruLwBHe3~wJkkR0PlMvFcoAq~it8ECKUcbedHsqjJ8IX8KVRdxmouDoFMnUZ95Gq075LO-IhyQmc9pQMb-iCE9Ba8cQftn6IfT0zlRDl~P7YxuumPKgjATSB3sUIiBnEiUzDnljq0mCND5uEJC87xkW8rkeNUueidyQR7GuCi9UieEUPAiBEx~mfyGCnVDcgadBcTDEs7ylK~0EpvBZcg__",
+                        "fileName": "scaled_7ffc4829-7581-433e-be36-56cbce124dd27460402212417132302.jpg",
+                        "path": "old/origin/2022/11/3/scaled_7ffc4829-7581-433e-be36-56cbce124dd27460402212417132302.jpg"
+                    },
+                    {
+                        "id": 221932,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_image_picker2057292817636118390.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=ETTRTYlLP2XDSHsT5YO0wSM3Ck0lOQSVB~S-szPWTg-OM3q9p3aHmoFA4Uw610HzSA5s4svGbKTcRHDhuJ1sp86Ac-Xc7L4S5BBiwuPAycDjf~8Hb2ltaz9qC5KQKXRnEhvYC3WwWGzE8xGEQCjfuOh9a7q7Z1SuJ9U4NMLVl1BgCjhJ2H4eiv-zonO4CscaYowIIIH-wEuy3hDIAUgGzUtnUxNXRPSSCLyrNpBQqt9iRBajHOZ9-LOAWiq2WpRWjhI160Wo7-SghD4-SvdC-rIIR02k20tfyyZeqrZkD6tRhv-uEDYUUcyMYLAD6XFohz3sGOcvHtWA30CaEy40ew__",
+                        "fileName": "scaled_image_picker2057292817636118390.jpg",
+                        "path": "old/origin/2022/11/3/scaled_image_picker2057292817636118390.jpg"
+                    },
+                    {
+                        "id": 221933,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_image_picker6697663455570006581.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=KZLQraR4pV7gr8IshQNmBinSknJOzWtPoNPFafIyO6PYO6IHRegV1uSOc8oRxXwYBQs-d881nKYbccCNf6d-qpB91ujxGZiyw7kqdgHDSEcsThYJUSXAdvxMZlcbVE1RmaVFGx1UfvtdS0isnWbS1-pokjfCbEqaWZoTY9oQNGbJ4kyAJj2MCWY7J9Asan2FMxwrRjxL5RA2u2VduSfLdC1XSRYtyGxn7Dpn97anZckvheDG5pgFBAgVD7AI4g-WekruUmuCB-tDROuHgty5eAWdErGHuWuqUo-5HdAMkjSTnDUdVJm3OSgqDq8CAN5zFBSNH99-45QK1oeeFUx4dQ__",
+                        "fileName": "scaled_image_picker6697663455570006581.jpg",
+                        "path": "old/origin/2022/11/3/scaled_image_picker6697663455570006581.jpg"
+                    },
+                    {
+                        "id": 221934,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_image_picker7189664692556888467.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=Abnk-PQi60LOVkIbypefXUIXTGJsZsX090gmuGJbQZgCPuhHSUqXG1rP2icJttLM3LKVzzRqM636QXHT8rxsCKwID5wTfo169XDXKAkK0SusxRQy5vbPmjqj40KIZX9QIlVSzUQqS8OvCUKS0SUinA-SwlU38wMd5pTTPgp4krjG1kCsR4sBUDH4jrAxvlDhlePdlVtMQnKhROlY3Pyke-U0urwnTthuHaO3C3wWZRvRnt847sHfMmUO3NbdVCCrFpunV3x2JuMozKJoBI4xLs74SQKHIxAlHI7JMFXaMY2ZZ9vOvueKrMNPrGrpU8CCmRX1MnBuG4Vo7q5Yeij5Iw__",
+                        "fileName": "scaled_image_picker7189664692556888467.jpg",
+                        "path": "old/origin/2022/11/3/scaled_image_picker7189664692556888467.jpg"
+                    },
+                    {
+                        "id": 221935,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_image_picker8880815162396736831.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=kxbefyD38MZUsQ7IiEGmZ04d3X66UHVx3ZzgLeim6IwZl-PeMn-9a24ey6ucZb3qZaaunOAWY3DUpUkpOLEasiCknMquzj0Zly25cWewsuhDzh0pIDpU6Rvd4Jh-f1Yzf1xR96-wJBcUjAyaUI2gUccFXml40Br5400Hy8c9xlm3SVr6xTqLXzKvW3LlJQFfqUThvJ36slBnv4d~w5MvDKndCJoIqJe2zz6TDfInFhpZ1QqP5NK~a6j1lMFJwJz3B7cMl9tkMVI0tKzkAjFJmj3KaBVWwcmiyeXFD6plDQueyXYvAEQuWUJe-WpYznQBwbeXJHpiYgNB7~0ZkezIxA__",
+                        "fileName": "scaled_image_picker8880815162396736831.jpg",
+                        "path": "old/origin/2022/11/3/scaled_image_picker8880815162396736831.jpg"
+                    },
+                    {
+                        "id": 221936,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_image_picker3187833593110377880.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=tdKNsqq5MF7Cg7AOSqXSGKL3~5riu9VvP7bMRI8yklbvsATWldbB1aBUDB8Qn-39xPPTsUjbZuf3DTlPKnZ808YUvU9xxLlch5ha8nsP9ESpy1eVnZgUtCgFKT-x0ZciGNiVl1xKziVVSaPN1Vo-yhkFIpYF-~HAeeIF-JQiYye7G7dMccEIWXIXtSoHue1Ag5WM0YDMGZ29o66R-eYfA~9xj5dbBzrxYttSixHe881OQTE~Z9LYH-J-z7layAv2KLF7tQQ9IwQIBNm6Kodef2NQy6XCJHDlpIC2A3TaiA5wE9Cjkov6xabRzuA9-I4gKt5DKCqeznU5vBLk3JMxbA__",
+                        "fileName": "scaled_image_picker3187833593110377880.jpg",
+                        "path": "old/origin/2022/11/3/scaled_image_picker3187833593110377880.jpg"
+                    },
+                    {
+                        "id": 221937,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/11/3/scaled_image_picker8040461005288900353.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=uGZbRGkxfgUju8QUnueMo8uGgXpesXRZVP50uC1TQyqjsF6BSG6drHSdn1z86saJ7zOMJDvNTjPZWdsThzoyUIFMeDOM7DLzBUi5UcYZSbKJY5zDAZYw2R9eePtOVNfH9B4GTW5MElerVrzW4tkokp0~MOwrH~jXRk6qwIP~-JmLVcqY1hBYqN1sWukae6S8f-7UCvHKKqT7c0uiUO~VBMWVjYF00tKA4xqrdBAz6hPhFvX3~Li1qd~OPKxSEcLhhlcVrXiWRKYWVZ2jQhVpeBG0iju~KKeRDm2Bx718tD8gXy8ACvL3GtzueDd4QPCQamQYqVLfuIJtp6edNZ6tJQ__",
+                        "fileName": "scaled_image_picker8040461005288900353.jpg",
+                        "path": "old/origin/2022/11/3/scaled_image_picker8040461005288900353.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Bùi Tiến Tới",
+                    "position": "Trưởng Khu vực",
+                    "avatar": "https://dms3amyi97gvv.cloudfront.net/old/avatar/avatar_638563895889116198.jpeg?Expires=1784088684&Key-Pair-Id=KX5HYW72PVJI2&Signature=YQw~FKMJRpsaukna4JKppqObSnEdlZAPL0bIEhTkLKizjm9jSrGFPg5ANT5yD9veofVJOEKm1ji0jHrOhqnBNVQ2jx4NH2NJVDyo4gkjrlrEYnQRQfGQ~ACqOtmf8xAzHG9vBIa5ACqu1K1c3rdqH5dnlYpfL3JxDf-oK7YBEGuwWFffJbNW6EE9dPwJocHES0y0-Jt1tU-XunS8Ha3qQ3VA2JoJXHe2rPAKIY8GTikOkPMXJ6s8pFsOfG~Q4SR2IxMSjeQL-BlNyNieRP2UefKXy4VcPSl-b6HbT88JPe-qvdmauXKLh5qpd9wEP~uGF1nvkZUeV7jUdSjXgtM5IA__",
+                    "numberId": "035083011125",
+                    "fbLink": "https://www.facebook.com/milan.bui.315",
+                    "phone": "0918723431",
+                    "createdAt": "2026-01-06T14:09:50.547Z",
+                    "userId": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 162,
+                                "type": "PHONG",
+                                "name": "Thành Nam HCM",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "bba797c4-1d1a-4ba0-a605-553c7526234d",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "CK107693",
+                "ownerSideUserId": "b96cb414-4a1f-42c8-925e-48c0dc6306d6",
+                "createdBy": "b96cb414-4a1f-42c8-925e-48c0dc6306d6",
+                "address": "300.34.39",
+                "latitude": 10.7419502779413,
+                "longitude": 106.7198472842574,
+                "placeId": null,
+                "placeName": null,
+                "street": {
+                    "id": 3738,
+                    "name": "Nguyễn Văn Linh",
+                    "provinceId": 2,
+                    "createdAt": "2026-01-06T11:48:04.652Z",
+                    "updatedAt": "2026-04-02T16:36:36.521Z"
+                },
+                "streetName": "Nguyễn Văn Linh",
+                "area": 97,
+                "actualArea": 97,
+                "floors": 1,
+                "wide": 5.4,
+                "depth": 18,
+                "offeringPrice": 8.5,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 12872,
+                "commissionValue": 3,
+                "commissionType": "percentage",
+                "criteria": [
+                    {
+                        "id": 116,
+                        "name": "Khu vực kinh doanh",
+                        "parentId": null,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    }
+                ],
+                "district": null,
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-10-17T07:27:51.267Z",
+                "createdAt": "2022-10-17T07:27:51.267Z",
+                "updatedAt": "2026-01-06T21:06:44.296Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 210468,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/10/17/scaled_image_picker7068521972965304149.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=HwCCAJiqakg5vJg99H5T7CaGmYoK49v7KWNoL-BgZM0r27OrLdgXfHwJN~0g1JGs4BqIOjvzcY7Buox~~LsX2c9CwtdlyXBlGWne07HUvAnBoxlUTvHCp5CLSWWXbOvw5uQF0zzHM2G0vq5kMeFYf8ZI5poocvpCPDyKSoHR22VGjGv-oq46-QmNnxiDU59e0htHeQHk~Hi~IdoPtQaYBkTvM~7jueTvWXeeo9pQCbwRU-9dySK-QrlDly~Wv2gi~i084LXI6WXoLKHpyY3H6cYs28dX1xj7N7JVpOPg6QTmmFURwaUhdqJwMyqFgLG3A1J49VnPeCKBBa9Tp~CXpw__",
+                        "fileName": "scaled_image_picker7068521972965304149.jpg",
+                        "path": "old/origin/2022/10/17/scaled_image_picker7068521972965304149.jpg"
+                    },
+                    {
+                        "id": 210469,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/10/17/scaled_image_picker5733951825057388269.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=bUp4bovdzwoO2mC5rvQf5PeBZgBRNmPiCHPKrF278P3R~seTazO8Hm4CxHqd7YRmkD~PqD58BqZ55V3x03t6OYvai1VC-oMa3iJDbHLYQ2VNCK1YPerS3UJQTkwdt1rrfsfkC4aL~3TB3KvwP8YrAHUB7IeggTwHhjn-aM-SV~XEZSThbHd~-q9qjp2F7Ise9XmVXwD4eA1PyAt2zShRzWNAppjCWuL9-EaI~pOXq45tARCoDQIkuNX2OO29jQqQeF9FHijHCYMeCGz6Rbr637YFwkIF1g-Fo09sVrvEfFULqr6nfI040tBqBWAjL41gOEbRqTmH7rSKRXLHp85kHA__",
+                        "fileName": "scaled_image_picker5733951825057388269.jpg",
+                        "path": "old/origin/2022/10/17/scaled_image_picker5733951825057388269.jpg"
+                    },
+                    {
+                        "id": 210470,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/10/17/scaled_image_picker4066772007257037851.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=shi7zmbz5KgGuGLRdzGKX0KyEMoSzwnjE9kJFFREvDzv1vqq4iI3cxA3EkrdxIwofUeMa6qtc587YbI72oEg2kg3hhGz11dwsh2Hd5uVHiQkGjjIGDHPWXo82SvatKVIhtig-CWdQdNXcjhIM1FGCl-paPKujs2-rkR7bXxfiGvlcKgO3ftfni6S~DFn82NmlZ1PPZ2Sfy3FHYdXREj43y7elGaMQtdfpxmOPZykors0fZlLOSysr5TUIXwkCnlbXhUKc3aKWWW8co6Q2LosrGWORDlIiy5QtZbME-7icF8vr6JMtojzm6Fb2HkcJXk20Q3v7EQKhG6djRgnyc0zaQ__",
+                        "fileName": "scaled_image_picker4066772007257037851.jpg",
+                        "path": "old/origin/2022/10/17/scaled_image_picker4066772007257037851.jpg"
+                    },
+                    {
+                        "id": 210471,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/10/17/scaled_image_picker657780568665042648.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=co9MFRQnZ48fbnikVRIvjMkgiJNaK2LBUvUNjC~74FHSzJn2S8rDd~8LE4YITtaS~eUwsLfE1Hp8WBIIapxiML2Akh9u63QGpcGZh8wxHjzHHX162cCfcKdmjOtUwlM8TY4aqz77UuPKfjmze-QmP4qf5nNm7PAJXHekqcd6Ht4IW6nXhiCwVLjJ4ZWnGUsNTaR72tWxl9kGgf2NyiHDH1GJAXtEcuJpztDfvHeMD53x64Dga4UaytcDTzsCAZWGYv-v7Q92PgHE2DSlh~W~4KyvhyliTqMd~soT1pclbnR-OvmoRn4Fxx8V72RGhf~BzbgtwLmvYXlXkddmqvDo~g__",
+                        "fileName": "scaled_image_picker657780568665042648.jpg",
+                        "path": "old/origin/2022/10/17/scaled_image_picker657780568665042648.jpg"
+                    },
+                    {
+                        "id": 210472,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/10/17/scaled_image_picker3132599446183635962.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=ifI~7n~5qMM10Ixrn6CUkFK1cNHG2deAiddkQrbrtJyr9URT30sDyahtBoOTmIBR1uo5JubIDbto~zhj4M0rgfcl~vWpMcKyBsnAp-pt~Fi8f9XMKHPmjpq0smaxh2gvbcLbWYNcB3STx~Q-HN1K3yIk53qd-QLl4H34I-arqdCJFfFt2xV~BmW9YUkgo~KWw82IlOrPZEHL4C1fleNgU00cqNTByWQ0vjH1qWzr-oN8Pm33PrZ~1jrvVS7OyCLi02dXKdV7JpVl4OLnu4mosfc8GHCmwYkcdz2xT7FmvSpT0FLLKK0AsNC61LzZOhOjXxbBvXEN7bKAseo47agFGw__",
+                        "fileName": "scaled_image_picker3132599446183635962.jpg",
+                        "path": "old/origin/2022/10/17/scaled_image_picker3132599446183635962.jpg"
+                    },
+                    {
+                        "id": 210473,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/10/17/scaled_image_picker6129924201373226008.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=aYduHNOxNitPJDJ6Mxp8XrikkbIxKrqwwbKrVdJwFJpW6c9ojNxM2Iihn9b4shrmudlcceSX2SOM6HjBXUZ1SFl34YGiLb3fxUwSnuKUiv2hifSNv796gTOUjuiiQrxRIdo0Nn2Ge8e53Jlg3v3OR80NV-Dhh6YR0ZTEFz~QZd-b221tdvAm~EKJ8W8D1t7xv640y5j6deOqa44imBtuFlWemtyTcAdDJLcY3Vw6NzquvWgO8a9B-4MvwJ9neJMco3al4HRtMuN4s0EDBMciN6J2KrWCajUmdkgjukEM1ma7ccsJPIXEsm9FE47oW8xyIJ6xu3hs458HHaEvrz7xDw__",
+                        "fileName": "scaled_image_picker6129924201373226008.jpg",
+                        "path": "old/origin/2022/10/17/scaled_image_picker6129924201373226008.jpg"
+                    },
+                    {
+                        "id": 210474,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/10/17/scaled_image_picker4298669611163641418.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=tmlnGvZTL3672AAU-QnNVVcyCKQlt6P-faPVrdB9xIC3qkD8ymHaUnfvDgnkDzFxHqwBsuoyV-u3SsuS9~EdNexEFHvJmu4dZ4T~jCnpg40-vH2IYniPzbMIY2G2BYQYhKkVB~SZwxryKU~iSyP1x~AQwCf7fmLyZucknKGOHkEZitMpw8Pk0s2o396~wA3Hx6Xox1JAd-FFU3zma0VAyAfC2cV7PyYY65YQ8OwKnyZdIMIZPeS0iveU~~2AhYDK2thEncoaIsqQSOvvybNeaE6PpzfcZsfwdPY~0erqegO6gfHh~t1x0fFCLfLZlepPiu5VHfCrYx3csh3okTvy5Q__",
+                        "fileName": "scaled_image_picker4298669611163641418.jpg",
+                        "path": "old/origin/2022/10/17/scaled_image_picker4298669611163641418.jpg"
+                    },
+                    {
+                        "id": 210475,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/10/17/scaled_image_picker2429534096663024684.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=t~f94~V0NCtxLdAVZCTX8SkxVW7ZWITVG14eaIaifjuP5wDXRl3EMW~ZCLCcYDm2zhNp-If9bNhwrLtSd2YCi7mXRczl2Evu0STKGWxjOicL372YDlHnudZtzkX5Pz9G3x0LGwOzGoEeo-PKTyclKxUZK1EnKQzNOQR6e2fQNTxJ5lqF2kQFCf~pfihO6Yjl81N09W4Dbw9n4NdUlv3-icBzzrq3Fi3bHhvO-zyoxrOvTEhMSCIi7jI~uO7VidONyXvVTPXszLNgknnREd9OAk9uZCNBPZMEqcHPtTgiYofkClU-7OFWwgZVEQdhzM1IkBYb2Xx33CtLpSRwu-9XYA__",
+                        "fileName": "scaled_image_picker2429534096663024684.jpg",
+                        "path": "old/origin/2022/10/17/scaled_image_picker2429534096663024684.jpg"
+                    },
+                    {
+                        "id": 210476,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/10/17/scaled_image_picker1535910523152582922.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=RewmKkb68gITwIE6bk-5YXgYsaFVcUDMzR~8ngENs9OgGlgvDA-4R5R-k1RGgpAkulAbIeXD0QnzyUbykUt7sD8sNfWb9FcMA5iVJym5WT7iNyf403gXFJSSSRlAvmZD8lisZJYxCGC4cepZ1JiuJ0L74wOHX6ZlIRA1KebwlTM3TRyncBW0ITYKL6wR6zDPbdLd-n6h1QpWU-8lw4M~45FeaeZcVEUxzAsvWjMRiZw1J01~jBjj6TjvYAWW7N3EmZAVVjDEb2-NSPpwmts2NDxKTRXsDFjS8zNzrCSYcVXVdlWS8FtLmpuLAW2Y1wkMGxnryTyApw72NRqj78HQtw__",
+                        "fileName": "scaled_image_picker1535910523152582922.jpg",
+                        "path": "old/origin/2022/10/17/scaled_image_picker1535910523152582922.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Lý Ánh Nguyệt",
+                    "position": "Đầu chủ",
+                    "avatar": "https://dms3amyi97gvv.cloudfront.net/old/avatar/avatar_638563729206445296.jpg?Expires=1784088360&Key-Pair-Id=KX5HYW72PVJI2&Signature=RbXLAEnSAmyXkKoJ7RIU52Tp5IiOExJ6ZQVuvEgJ8p~RwgMbBhhVabtP~TD39~pVmLaXeiRJedGWUu2bunshFgKSL9KL33CSV6iebaX-GVYqvZAi0PkHxxMLTKaKbSZhYj4olkkMiPG~NjbQPffgr1asPaSObwYfN0OFxlxVEkx2T1OZCQ55VswO9JD9TYzvkjkMbclcJU4VNKy98xioSG8G4FCmKgfHy8RBsHf-Da9jK7EAwaVgf8KIEudh0tKCMlqEAKtRINlD3C25zNikkZV5HaarfE9f5sCsEuQgapkL8~xy8mGp2-I7Db7EuoC8nSptk6CFD49pBFAh256U-g__",
+                    "numberId": "096190015382",
+                    "fbLink": "https://www.facebook.com/profile.php?id=100088325454023",
+                    "phone": "0708889779",
+                    "createdAt": "2026-01-06T14:09:50.547Z",
+                    "userId": "b96cb414-4a1f-42c8-925e-48c0dc6306d6",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 39,
+                                "type": "KHOI",
+                                "name": "Khối Vạn Gia HCM",
+                                "level": 0
+                            },
+                            {
+                                "id": 147,
+                                "type": "PHONG",
+                                "name": "Vạn Gia HCM",
+                                "parent_id": 39,
+                                "parent_name": "Khối Vạn Gia HCM",
+                                "parent_type": "KHOI",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 147,
+                                "type": "PHONG",
+                                "name": "Vạn Gia HCM",
+                                "parent_id": 39,
+                                "parent_name": "Khối Vạn Gia HCM",
+                                "parent_type": "KHOI",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "14ac4c0b-6d9f-4dbb-bfd0-f693c6f25942",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "04699/2004",
+                "ownerSideUserId": "115521a7-070b-4e07-8b1e-88864b7363b6",
+                "createdBy": "115521a7-070b-4e07-8b1e-88864b7363b6",
+                "address": "176.21",
+                "latitude": null,
+                "longitude": null,
+                "placeId": null,
+                "placeName": null,
+                "street": {
+                    "id": 3677,
+                    "name": "Nguyễn Thị Thập",
+                    "provinceId": 2,
+                    "createdAt": "2026-01-06T11:48:04.463Z",
+                    "updatedAt": "2026-04-02T16:36:36.301Z"
+                },
+                "streetName": "Nguyễn Thị Thập",
+                "area": 0,
+                "actualArea": 76,
+                "floors": 1,
+                "wide": 4,
+                "depth": 19,
+                "offeringPrice": 5.9,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 11046,
+                "commissionValue": 3,
+                "commissionType": "percentage",
+                "criteria": [
+                    {
+                        "id": 3,
+                        "name": "Hiếm",
+                        "parentId": null,
+                        "groupId": 1,
+                        "groupCode": "PROPERTY_CRITERIA",
+                        "groupName": "Tiềm năng - Rủi ro"
+                    },
+                    {
+                        "id": 17,
+                        "name": "Chính chủ",
+                        "parentId": null,
+                        "groupId": 1,
+                        "groupCode": "PROPERTY_CRITERIA",
+                        "groupName": "Tiềm năng - Rủi ro"
+                    },
+                    {
+                        "id": 115,
+                        "name": "Khu vực thuần ở",
+                        "parentId": null,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    },
+                    {
+                        "id": 116,
+                        "name": "Khu vực kinh doanh",
+                        "parentId": null,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    }
+                ],
+                "district": null,
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-08-28T11:12:08.650Z",
+                "createdAt": "2022-08-28T11:12:08.650Z",
+                "updatedAt": "2026-01-06T21:06:44.296Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 180988,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/28/image_picker_39084467-95EE-4A32-8BB3-571ED0067B1A-49317-00000855643F801E.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=nR~gGSeuCQpCkD~4xMtPJihfE8tk~tKNa4DpDLWMKFF~QEifq2hOcNniMnmkTuUJOlfuV4FPNfI5~5QxwmuMLvdmF1Apzw5Az9HayPtF7sZw0v~XcZaKQjb6X83yxUpLF8OSMhTdzO8qu4aTQ4C-HM1K9Yayl3myj-Ugl1CKhfqwh1kvMUhz1QJI7OgWRaP-XgqnHQPle3bH2VLaCN4qZaTOpU77RqA24J7BQLW6A5kOnaQTWpdHko2HVM2pHQ0VTG5O2C8zU~8RjSfCBpgqljWXP7C1kFi7FUk90kOBRbWdPLxqsfd19auhmqCQyqEKfmHXxIzb5gV8rbXnMr5yDQ__",
+                        "fileName": "image_picker_39084467-95EE-4A32-8BB3-571ED0067B1A-49317-00000855643F801E.jpg",
+                        "path": "old/origin/2022/8/28/image_picker_39084467-95EE-4A32-8BB3-571ED0067B1A-49317-00000855643F801E.jpg"
+                    },
+                    {
+                        "id": 180989,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/28/image_picker_2377B570-B5A3-4028-A7C5-56020407BAD3-49317-00000855642D4B05.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=Mylf-FERtFTFNQGaQ~uz8tnl7vu28MHo~-XdZwCYABOcpV9PPNQEMjDtXnvUoiKqZagFsKfQEjotzJU-naoFVzhi~AhHq~tRH12300vh9WF-8hwa-21pZ6mbO-hJv1wc0AfJSVGPL9hyu0Foo4vuIGcoMnjdLLGJKmaz-8ErGyO8nN7ihW0ST91my5Kl6mP3XF2rQRo9V3HvEQpOj2dAhCORaxxjlBtMrf8s6Ol2wZF~ooRNZWEYJDqMLZvfM66fcwtjanCv2XERfTpEEzX7Af58JF-~DnuQOh0FpSU7MqkPuvX77Emmr787ToVfLSh1Whe0GGJjkrzBO7aoGQLnyw__",
+                        "fileName": "image_picker_2377B570-B5A3-4028-A7C5-56020407BAD3-49317-00000855642D4B05.jpg",
+                        "path": "old/origin/2022/8/28/image_picker_2377B570-B5A3-4028-A7C5-56020407BAD3-49317-00000855642D4B05.jpg"
+                    },
+                    {
+                        "id": 180990,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/28/image_picker_FD018B08-A78C-4260-A198-535A8D368FDE-49317-0000085564744C2B.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=JrzFp-mfQTCg8JymgG7W5qXoDbfhbW8sEFDRONAH0fl41SuIyMDEN4IeUWonR-K4r934cd1ELZfXpDTNNOvf611NW4mN9rb~xVK52huRH4ApobbxMQChcSGotLe94zoSkA2acHAaIetiwm3leaRZN4uh7lW2K6vQrJ4r1jG0gUtypZCPJb~HdHRIG2VwU0ZsBJN01l2cIURGBbGsbMn28wOrw1AnoFWyxASk3kwWSwIvLZ8AVluNZq2wI9XINd8fMIdlWkLrSdKiwmifTmqqwtsetcT3HzPSs8Wv3JLIy-CJHCeHAOPbRIT9N2buWGx31OcoxcKaou9L2FUw2TLHdA__",
+                        "fileName": "image_picker_FD018B08-A78C-4260-A198-535A8D368FDE-49317-0000085564744C2B.jpg",
+                        "path": "old/origin/2022/8/28/image_picker_FD018B08-A78C-4260-A198-535A8D368FDE-49317-0000085564744C2B.jpg"
+                    },
+                    {
+                        "id": 180991,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/28/image_picker_9BDA87B8-BE99-463B-B504-35A6264DFD03-49317-0000085570D41960.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=nZQ-eBnjqV4IER1BzbqQlmVKoSqjDtcNkTHnZHvHVFFNvL1RKjJxUNM95GkrZJmXg-Yaw028fuT6um7TxDzOI-LbaJIxzJ6xZMiQ0FZJ~tQQWStTEDTxGSNT1oeqwzfvepMEBq7vRAYdt3f5Cdm9uJ442FqzqA96xmYgW5dP8SqRXGl7t4yvWPYEdALIIQqDdHFDqUiVRhvj~yh7-ixthdECR6P4IOzm-CKMtenPRg2bN9nPKhbd9n8AWVfyIW-OdNakg-gsa9G~RH4FyXVzRYK5hR9U6IWM9akFMTZiTDdA7D2QmHrSasRuqvidY2hTCAy78jbjVAYlOZFsdgUuwQ__",
+                        "fileName": "image_picker_9BDA87B8-BE99-463B-B504-35A6264DFD03-49317-0000085570D41960.jpg",
+                        "path": "old/origin/2022/8/28/image_picker_9BDA87B8-BE99-463B-B504-35A6264DFD03-49317-0000085570D41960.jpg"
+                    },
+                    {
+                        "id": 180992,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/28/image_picker_3D364A50-D49F-4544-81A2-D5CA1FDD0949-49317-0000085570FC6AB1.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=AijvZ5Teqzidi0WIlQe3f871RUtuZ0~7woK7i~~dds56t5NrPwDO56H8bO2pUhoLV4R9Hxl~o1Q5nn1mL7Md8xf1usGgUUV7mD~BwVehSq-rR6VFckZ6SNiP5myHu4MBLYQheApSkO9PgCVcfBSnX7HE5seL-L801Eq0ZZFSAQnPyBeTAWQbdYIwjjYuOvYuGScNwo-GO5VbCX2pzKZrJa69MPDf4VdD04wpL69fP-KoHaQT4GBj4NfMSlgVQNt2pyEdi0rhX-jiMEbB0TwE36XOiTUEyvFeP6fN0vqb13Tw4zHFJpbETerUY6BDr9CeF580qyGR7jpNrlrTYVGAbQ__",
+                        "fileName": "image_picker_3D364A50-D49F-4544-81A2-D5CA1FDD0949-49317-0000085570FC6AB1.jpg",
+                        "path": "old/origin/2022/8/28/image_picker_3D364A50-D49F-4544-81A2-D5CA1FDD0949-49317-0000085570FC6AB1.jpg"
+                    },
+                    {
+                        "id": 180993,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/28/image_picker_01B33FB7-F4E9-4BB4-8BD0-5EBAE5DADE6A-49317-000008558B93EEA1.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=tt4eX9-VBYCmaWm7PcED6sQsaoiSh7ffyq-MvDOyewLMokxSrvrJEjkvxXqBWhqn0J8B8bb-AFXt189o~2vU8NBPi5r4X8G2Hq-42JbHgslEdO2R7UFmF22Rr2UzomGyeBcdBerwyzlwGuWh4NMAlsP8NIC-IIrSfA~ldhl~bfRLvqD~yCBB0HYPVcnWChVJAy2IBsJ2wybOojPrM~iIrN8IWDwvEVF90qINIzme8UEBeDuplhXuwLu6N5tXASgCFTUM5mwjlyygWcLRPvwOfycDl5XSnPgkPQH6pGJu7s8dTokJMD869k3RKle-7HBjKnqCL1wV-84FEWREB2HikQ__",
+                        "fileName": "image_picker_01B33FB7-F4E9-4BB4-8BD0-5EBAE5DADE6A-49317-000008558B93EEA1.jpg",
+                        "path": "old/origin/2022/8/28/image_picker_01B33FB7-F4E9-4BB4-8BD0-5EBAE5DADE6A-49317-000008558B93EEA1.jpg"
+                    },
+                    {
+                        "id": 180994,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/28/image_picker_92538908-9202-4B72-831E-EB0805D6DE19-49317-000008558BEA309F.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=jBV6s2BriVB8ODrZXe2btg8thAeKCQ7LrGcnuou~CX9ZwyZ6l8GSz1rQ5mRB1w~X7Wt7o61nTvVbXf4TjaQvg0~s2gjYuln9uw-KLzv0Gt-lHzOtUGnwh3EpU2nxFnWjGDaax1uK6Vb60Cj5z5VVf4f-xSSXFXjzEhOOXtlrT9Ncq-6vwwkNMKMwQ2C8MuFr5j1ElpvgWfeUjOT2TXw9Q-sDMaean8SdgrQRo9nEdGS88vA8FlSV-mVj7dGZiVw3FRHYqff-PKf197JyfOQfIhdxXCMvzvhNSwBfs1eyOsJaMqi6ERNSY4Ea~UdkS7IBtW9VFmyyYiAAfYOTfF6AKw__",
+                        "fileName": "image_picker_92538908-9202-4B72-831E-EB0805D6DE19-49317-000008558BEA309F.jpg",
+                        "path": "old/origin/2022/8/28/image_picker_92538908-9202-4B72-831E-EB0805D6DE19-49317-000008558BEA309F.jpg"
+                    },
+                    {
+                        "id": 180995,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/28/image_picker_924F05C7-4E02-45C9-A002-961D59584DB2-49317-000008558BBACCBF.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=rPJj9Gkj1Cdq8Gu01-WaFDLrKfnxVk78DInd9vvST-LroYtTt5NE2qrUX9ld1EqoYkS04G2MAggRJcbULXootdNf~56jxBP~wuHETwcxNBMFQjaj9iNHasj8heL9MAOCQWsVKa-h6-dJdRd6EWJ7jH6kU8YyLvcgZi1gwpqtMT7dZCacTKrYsuBIc-a~qX8XCn9cQCLhDAVm33GeS036-MPP21DGxRwxYMtSNCzHfYnRzsNAkKvCdjeDuZOi2z004JY6Tnl9FSdcvCVVkmaJww9TkFDBcLvP~WBi16pOCgLmctoxZ2Os2APt4lmJwaJBpyToPdjwLUURDMhsouz~ug__",
+                        "fileName": "image_picker_924F05C7-4E02-45C9-A002-961D59584DB2-49317-000008558BBACCBF.jpg",
+                        "path": "old/origin/2022/8/28/image_picker_924F05C7-4E02-45C9-A002-961D59584DB2-49317-000008558BBACCBF.jpg"
+                    },
+                    {
+                        "id": 180996,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/28/image_picker_DF0EE2A6-E137-466E-AD50-5EAF4530C6ED-49317-000008558C1D07AA.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=LK~YLrt~YXrc7MTi3hfTk4V4YayWE3NeuunvD7ow0CkrwnYH9Z6CoymxFNe2hkY0UrU7OoFGEgAt~MWEozVk5T81tE48D18ZsBg4m20Q4ZfqPf6aSv55EkqFarziAxjuVGvcwqj8jjjvsnDBQb59C5PDLN6ztkJJNJvNu0--fZ7x7x7ochqwI0mSKYrXIZ5GR5QQXPt4na1~BMBJwqITTyKf65Sr6GFOeLHf3uJraKvZw5dxacmnmkvlI~PnJN4tY1z43FMHfH0tm4P3pCo7uwmocnhuw~n7epCSk6ahCydPxAiw-j-FF6BKZDKfP-NPLQoaqTCSp1TYEaX9ucUQsg__",
+                        "fileName": "image_picker_DF0EE2A6-E137-466E-AD50-5EAF4530C6ED-49317-000008558C1D07AA.jpg",
+                        "path": "old/origin/2022/8/28/image_picker_DF0EE2A6-E137-466E-AD50-5EAF4530C6ED-49317-000008558C1D07AA.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Trần Thanh Hải ",
+                    "position": "Đầu chủ",
+                    "avatar": "",
+                    "numberId": "079097004507",
+                    "fbLink": "https://www.facebook.com/tranthanhhaii12",
+                    "phone": "0909977732",
+                    "createdAt": "2026-01-06T14:09:11.707Z",
+                    "userId": "115521a7-070b-4e07-8b1e-88864b7363b6",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 12,
+                                "type": "CHI_NHANH",
+                                "name": "Trung tâm Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 12,
+                                "type": "CHI_NHANH",
+                                "name": "Trung tâm Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 165,
+                                "type": "PHONG",
+                                "name": "Kinh Bắc HN.HCM",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "b74c4acb-df05-437c-a50a-f714e109ff69",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "508.12",
+                "ownerSideUserId": "b96cb414-4a1f-42c8-925e-48c0dc6306d6",
+                "createdBy": "b96cb414-4a1f-42c8-925e-48c0dc6306d6",
+                "address": "508.12",
+                "latitude": null,
+                "longitude": null,
+                "placeId": null,
+                "placeName": null,
+                "street": {
+                    "id": 1527,
+                    "name": "Đào Trí",
+                    "provinceId": 2,
+                    "createdAt": "2026-01-06T11:47:56.296Z",
+                    "updatedAt": "2026-04-02T16:36:29.781Z"
+                },
+                "streetName": "Đào Trí",
+                "area": 0,
+                "actualArea": 88.1,
+                "floors": 1,
+                "wide": 5,
+                "depth": 17,
+                "offeringPrice": 6.8,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 10754,
+                "commissionValue": 3,
+                "commissionType": "percentage",
+                "criteria": [],
+                "district": null,
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-08-20T06:21:05.123Z",
+                "createdAt": "2022-08-20T06:21:05.123Z",
+                "updatedAt": "2026-01-06T21:06:44.296Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 176195,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/20/image_picker_C7986E16-1654-4BBA-A3C7-B84987F9CB5D-8917-000015437CBD0C38.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=YUJ35C5gNsMWnGyaI0F2su1WsjNj7hN~XBRpm9OMmGzNpSxQvWMFbur38OK3tCTqlesWfo8NcleXvEChJ7DnzcVWlxQnslAv8uR7hHlvVWzvZDaJaj3qPHC1ooO957xtxcu29IB0e2TIe~1jWVEsYNE~wg3kim-JFG1nISOr4s4Ou330HswIc~r4ngnUM69Oabl7-XQ4uhts9nl2odHUAX9jmU196GkwtVbwQ5Kf7PIWUx0Fm3n0fI26ewSeGcCyxkV1qtebKypZaYly~6pdihYyT22v-WYLSU7okTPZ~0IPnuStO9RvHKDSVEftC5dxLZU9Jalm2Y~hZlaZd8H0NQ__",
+                        "fileName": "image_picker_C7986E16-1654-4BBA-A3C7-B84987F9CB5D-8917-000015437CBD0C38.jpg",
+                        "path": "old/origin/2022/8/20/image_picker_C7986E16-1654-4BBA-A3C7-B84987F9CB5D-8917-000015437CBD0C38.jpg"
+                    },
+                    {
+                        "id": 176196,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/20/image_picker_6B40C1DC-26D8-4826-92F4-D31BDAFA614F-8917-000015438EA9FA88.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=Yto7Yn9fe14DRYftS2MF94tzZax-hGmihd~AK1CafPiwV1AVPJvA9yodbwi5CY9nF4l2jkgO4qP5iqXF3GgKnFPSe4IcSdWtgWUolfgXvQ-oiZO4oLafWVU5NyZGXvcJl4gEFE~BlZoEL3leXTNQjKqNKXqaHnANeXFzKjamyEQm3ocVvDVCZ1xSH8618NLkB1T6sBpW0Absx8m5QS~SyApgvvd~1pRFQsiSKqkwEYT94ZfJoSEafs7QjDUf1-tPrXWaNgGQurV6OVZH-cxxM-PkNzWDP430llYigpD1q0Lka~UJtUJsLk6xCZQF49mx7THFK9z9AHqDkxDwSWGrKA__",
+                        "fileName": "image_picker_6B40C1DC-26D8-4826-92F4-D31BDAFA614F-8917-000015438EA9FA88.jpg",
+                        "path": "old/origin/2022/8/20/image_picker_6B40C1DC-26D8-4826-92F4-D31BDAFA614F-8917-000015438EA9FA88.jpg"
+                    },
+                    {
+                        "id": 176197,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/20/image_picker_B79673BA-409A-417F-A91F-AD7645EACE4B-8917-000015438E87E5BC.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=aL84tzZwyCubswdfzcC2-7o2EQLyAjZmboANNlk3ulzLkBg9wZOwV9Wz6rStQVvVvgPd7S3P7fNpKAOBGJW6Rwr6tB8fbYcfAGg37zzR-QYzJM3YEFcL9cWpHBmSDp7sZJX8YZGY2OKgoQZEyYwEgmGV3Oms624kboFZUG8xEVaCEXFIOyQRzT92l9b8FOYtfBjevHkwa~mApPkACOyHg8LQsnLGtlm82HsG-gZIxeyXG3bIpkbS8VCGs2cwtMJA-LwaL5QxvOam7okm3CNBNuNb8LCh9C5Py27sCz0TVkRC2fbeTFGDTdssOCcCQiHkK-NMWw-0AtGfiQNq34ntbw__",
+                        "fileName": "image_picker_B79673BA-409A-417F-A91F-AD7645EACE4B-8917-000015438E87E5BC.jpg",
+                        "path": "old/origin/2022/8/20/image_picker_B79673BA-409A-417F-A91F-AD7645EACE4B-8917-000015438E87E5BC.jpg"
+                    },
+                    {
+                        "id": 176198,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/20/image_picker_2F9E3C97-0533-4387-89D0-190F69F1434C-8917-00001543A21115E7.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=DrT1Ym9wcDkHTpWrsYLtImS~8EBh--Y8V8OsWSPRVMXh6Lwl80MU~Clz5VvRnTsfhb7K~j4q24MTbwLyBZrCYFCuPb3RMJk0EtCgQQdsEEsV31W5q2OcOqQVY7NcR7-lvUsOpWDVjNaBRBbC8j-oK0hkwgxRnGnMJNh1b4V8JBIdF32Y1gA-spq-tNT4UGzYsJ6H~9D4dIzCZ01qpxpOgQ5UmZ3mftbsjlt4WJldRQsINc5e2RAhXCPRCt-HCZMRqJEQpJZiDhgTGVd48j7cUSheXS1qrjI6dqs3mWBNZeLqoJ16q7fmjcBjW3hDvLV5gaK~8bwpE1UslCqxGCcJxg__",
+                        "fileName": "image_picker_2F9E3C97-0533-4387-89D0-190F69F1434C-8917-00001543A21115E7.jpg",
+                        "path": "old/origin/2022/8/20/image_picker_2F9E3C97-0533-4387-89D0-190F69F1434C-8917-00001543A21115E7.jpg"
+                    },
+                    {
+                        "id": 176199,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/20/image_picker_03E280C2-08B6-4AF1-A21F-3F1561C02052-8917-00001543A2370F30.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=s06~ec7dloqYy247XJfrtP85Y1vazU-XGR8fNltH8coCoMFFnvmBTjw4hUvrx19x6j0dd-nkNASmdD5qfankjExbT3-iiDKgeLWZ9qg713vHkRBeCbsfgo9oLHW--cALl1ooeR5ds1YDOq77-WFOBEkmFzXk393pER32CrAwVFVPBRaAH6-Fua0QFoTT3bjawTxTvOt3ZoVtB~an69mIGUy7Do4NcFkuUGvoDERdgZs3RrdXCdQgINrK3IRf~x3Bh5sauYfSmt9ls5CroUf5HXTO8v~0rNL4JKIPKVjSbJryP9waygSQMRdUwUaqe8fNKFvsCIjrH8gj3d1UdrIqxA__",
+                        "fileName": "image_picker_03E280C2-08B6-4AF1-A21F-3F1561C02052-8917-00001543A2370F30.jpg",
+                        "path": "old/origin/2022/8/20/image_picker_03E280C2-08B6-4AF1-A21F-3F1561C02052-8917-00001543A2370F30.jpg"
+                    },
+                    {
+                        "id": 176200,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/20/image_picker_AA5F2D09-1C70-4892-87BE-BB4C730E06F7-8917-00001543A2901FE5.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=X4JjzxfjnobIqwmJem70b1kyK3RELCda3BO7LWShGkrMtaFDw~a2r7eVIL0ApcG4OQjEJHXuFAQP-xdM~H26HDENvJBisOoeVmvCiFl11nn3jX0D8IRZDADc6wkR6n0g3FD8-Oh8oI0Zvp2Dfyvdg~2s9BKsqhqndOXMFTTjZbL09~fT6ubLlYxfeGfSj34gNo9xOavKvwVHVLd9aKBmtFRL0F8hT2m36kwJGzX2hugH6oX5U2fvTS9uU3VgGOOiINorofqUYM8B~oCZ7O70kI5LBDoiPA3EeF~9lvKwiq4gXEaK49WIGiOGQNs9LXWCy0ye1fnVeYyhS7qS3ot6NQ__",
+                        "fileName": "image_picker_AA5F2D09-1C70-4892-87BE-BB4C730E06F7-8917-00001543A2901FE5.jpg",
+                        "path": "old/origin/2022/8/20/image_picker_AA5F2D09-1C70-4892-87BE-BB4C730E06F7-8917-00001543A2901FE5.jpg"
+                    },
+                    {
+                        "id": 176201,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/20/image_picker_AF0D82AA-A44C-49DC-AF8F-884298DA596E-8917-00001543A2BC73B8.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=U6mzT0lWysyxSbg-xipcECKwGXnlE1E0SK9~wbHvmw09nll6FvVyNvVOJAYozGVzQbBn9plC5vLwlHyyeV2BXreDovoUZK3fwyPTTsWreWc0tdbbZaneX9AE1xyh9fB7oJPYbshzzFloHluYS5HErbRzClcdIsJTWj4xA7r1hbw554-ZQxFUTmyr5io90Ja3TOVqgT39dMc0KKgVFRhsVmCgQ75Um5JAdNpr72mbihTy2xrVdHbTScL6F~rvGWrk2EKbKN1xT2tbWSVPXKD~SRQh4n7ay5I2a9p-q58P3sKDX8~TzpWfhAT6HMxtV55b7JTmg8fw-KGcZ0r5m9rylQ__",
+                        "fileName": "image_picker_AF0D82AA-A44C-49DC-AF8F-884298DA596E-8917-00001543A2BC73B8.jpg",
+                        "path": "old/origin/2022/8/20/image_picker_AF0D82AA-A44C-49DC-AF8F-884298DA596E-8917-00001543A2BC73B8.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Lý Ánh Nguyệt",
+                    "position": "Đầu chủ",
+                    "avatar": "https://dms3amyi97gvv.cloudfront.net/old/avatar/avatar_638563729206445296.jpg?Expires=1784088360&Key-Pair-Id=KX5HYW72PVJI2&Signature=RbXLAEnSAmyXkKoJ7RIU52Tp5IiOExJ6ZQVuvEgJ8p~RwgMbBhhVabtP~TD39~pVmLaXeiRJedGWUu2bunshFgKSL9KL33CSV6iebaX-GVYqvZAi0PkHxxMLTKaKbSZhYj4olkkMiPG~NjbQPffgr1asPaSObwYfN0OFxlxVEkx2T1OZCQ55VswO9JD9TYzvkjkMbclcJU4VNKy98xioSG8G4FCmKgfHy8RBsHf-Da9jK7EAwaVgf8KIEudh0tKCMlqEAKtRINlD3C25zNikkZV5HaarfE9f5sCsEuQgapkL8~xy8mGp2-I7Db7EuoC8nSptk6CFD49pBFAh256U-g__",
+                    "numberId": "096190015382",
+                    "fbLink": "https://www.facebook.com/profile.php?id=100088325454023",
+                    "phone": "0708889779",
+                    "createdAt": "2026-01-06T14:09:11.707Z",
+                    "userId": "b96cb414-4a1f-42c8-925e-48c0dc6306d6",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 39,
+                                "type": "KHOI",
+                                "name": "Khối Vạn Gia HCM",
+                                "level": 0
+                            },
+                            {
+                                "id": 147,
+                                "type": "PHONG",
+                                "name": "Vạn Gia HCM",
+                                "parent_id": 39,
+                                "parent_name": "Khối Vạn Gia HCM",
+                                "parent_type": "KHOI",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 147,
+                                "type": "PHONG",
+                                "name": "Vạn Gia HCM",
+                                "parent_id": 39,
+                                "parent_name": "Khối Vạn Gia HCM",
+                                "parent_type": "KHOI",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "47b82212-b12f-488f-85e8-31880a1a209d",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "03641/2004",
+                "ownerSideUserId": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                "createdBy": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                "address": "115.62.10A",
+                "latitude": 10.704798,
+                "longitude": 106.7340765,
+                "placeId": null,
+                "placeName": null,
+                "street": {
+                    "id": 3823,
+                    "name": "Phạm Hữu Lầu",
+                    "provinceId": 2,
+                    "createdAt": "2026-01-06T11:48:04.993Z",
+                    "updatedAt": "2026-04-02T16:36:36.897Z"
+                },
+                "streetName": "Phạm Hữu Lầu",
+                "area": 91.7,
+                "actualArea": 91.7,
+                "floors": 1,
+                "wide": 7,
+                "depth": 13.1,
+                "offeringPrice": 4.7,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 10652,
+                "commissionValue": 3,
+                "commissionType": "percentage",
+                "criteria": [
+                    {
+                        "id": 115,
+                        "name": "Khu vực thuần ở",
+                        "parentId": null,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    }
+                ],
+                "district": null,
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-08-14T17:10:53.163Z",
+                "createdAt": "2022-08-14T17:10:53.163Z",
+                "updatedAt": "2026-01-06T21:06:44.296Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 174498,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker6357631741487134494.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=EtNMmP~1XXoDFK8549WR8QCnAMWwMeYo8raJNwA76aYZPvDBSLGystRXFZdl~cXxqSUYsGjKTbXPxnYrlWd7isnA~NanJce9qo97~I8malFp9sNrEyrtPHds9UCG2~tFk4~DKjHkMJjKxj4FnwfwF0S2pXwJ07EF3iYeWTHMv24DJut4eXUXaJLSenWY49cLn6lRYSgyqTBeewN6iukmgJPDG3Agi6IBCSqS~zUHmcXZJmlONrDQsZaz2GsLL5~paIt7xYFjKU7aC8rbQcvj9Os475baUKyZkWUXCwJ3~wWlzJobLawFjRTws7GzP3-pdCeKFu4Ry5mQ~2-k8z~uTA__",
+                        "fileName": "scaled_image_picker6357631741487134494.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker6357631741487134494.jpg"
+                    },
+                    {
+                        "id": 174499,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker7367758211660094764.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=UfmUvhcgv4NhjZNC2P7ZowvT~PMXLhW6n6~DJAdokpTOGe8No4fugtIVWZG9N28gO1HvjTffMtK-OFq7nznNcxkIjJAwG~VHxaKBhEa~E0FdsqoJTEUcM5~rFf~kDkq~UTHi13wJlwgvhzKtMahJJY~RUN~hxrmqK7A-2P9Ib5GqFpqtzQXXfVXc76sUY8lK3V4ZLpK9yhxResnHk0UmvY4KiPWnPHXO2I-OAmSjV6G8FyqU3C5rq2A~9Efha7s6RNthq~-4YMwL9f9Be6wlsDmW2YEdulZbaaKAUhgDXRvWTUtbMpW6urv4g8Y7slg5PdTcUP7oXDje32MXQYV42w__",
+                        "fileName": "scaled_image_picker7367758211660094764.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker7367758211660094764.jpg"
+                    },
+                    {
+                        "id": 174500,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker3943521187209774801.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=FPVOGQJbYvbsjckfi8-B4H00C6~lRVwqdbuMGkll~bg--ZkjkX2LLaRI0klSD-9tUp5rh00JOmMrVb0ayNzG4AHWsp~7kx87NKkA8rupAFeU1hVxAkPYcqib-FVy-s~ZVb2hoCXAABbJnCXa4wrwYJl5YQXOTZdTDjNjheCfj7FW39gkJ-4X9cmGmzKcJKC8KTc7rvjOD2fcjHaJRkZgbwk6K1A7FgqB3IO-s-FNHJLCxpPWknOfmInTbSe1orzARWijtZhuZbPPaNf4JmDiFYR2gTuQlEFc3dNt3thxHGQZ8oxiSPnVERF-X5ab4tIe4Fhl4rjVvRIqUM3rXHdcIw__",
+                        "fileName": "scaled_image_picker3943521187209774801.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker3943521187209774801.jpg"
+                    },
+                    {
+                        "id": 174501,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker8287736331978396607.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=GzNvu4hEgr3n3cFd-N1GomxIvx0y71NtXn7tD5OXHgzNY95XOkHToTJyYC90ELMTEFVnkrrGJ~FN~7IFDByqAPd6YctlnB2h-Fm37GDt4jE581K-N-U9FfCE3dleaRDK~l0KzJk07MIzomuF6F8aVO1JiRftV5DFPS0Jsqw5zcSNR1z1zafwZd5P86xJ-CDoZI9WUCSmODOFSxWPD1bbvyiknvRRDN5504tKSv1FD8e76PaxcMhngPX-tSRFb8uTxEkUGtP-aNqxmmpNv8e-hVsStlgHac75ty2C7AR5EE1ByNXsptii95F4AEy1wUI9d7BCTVVvukEd0up2Po-v3g__",
+                        "fileName": "scaled_image_picker8287736331978396607.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker8287736331978396607.jpg"
+                    },
+                    {
+                        "id": 174502,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker5270930634987629156.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=L3jHtYkSeTxLi0L~4XDVIsKz0oNwbTcGYtWA5mpcK~85CVSsVSuKkpdE1nIPwm9DxAMNIOrvXvfWFkPfUdMC-HzQRTOpn5WlscP5Ef7nKBCumb5kJCGCzIDVjg5AJ2nyI953bjjF4fy2xSfgWP191PAoyfDQCw70NfU5LxWmYZ1tEENiowq~iPJNwXqTj11UQ0PTAFS3AL4udHxTQT~BP8Ba-c1Y0-ETAtaQW8bch57a87hji5fIMMZ5ZOqBfFfQTeD62NU3gG5IauWodog0ZeWYwwmHLdEJl45H9Yz5GDqxjerANk5cbf92wwBT42oR6UeiRSVHdLqgOc835O4CnQ__",
+                        "fileName": "scaled_image_picker5270930634987629156.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker5270930634987629156.jpg"
+                    },
+                    {
+                        "id": 174503,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker126688534925022861.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=u-nE5c6DP6TF~zEl6vpZyLq6QvINzgsreJOZ0IC1tisUdMRdE~JUXsieP3vpGqU-IzMDcFuNEoyOqRNyPU49pO5JWlczkFCLAzBO6c5n5E2kzijJdFZO249Qc~KZNfi2iJ5PEiO-jk1ia6XxQ08LQyoT8R~ywzhftlzYlfvSaV-U6zqnGW6XXypnxVu1VjVT6VhkVb8gwqXZoHHT3spRy6minmxr5judnFZDtVaPpYaElt60B3hmZHss9ylLwufIPrOSpArdvVz~m1uSO6AvUFqEVmibkJcVqehh6odzqb~3U1bYPslUGWHokhBO2fbSvR6XQBP1FWpooJSk94rHIw__",
+                        "fileName": "scaled_image_picker126688534925022861.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker126688534925022861.jpg"
+                    },
+                    {
+                        "id": 174504,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker8676391738643409704.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=DXyROHBjAiOcCBzBTPa2AQkfe6irXMm6OgMVFpxxAA4b2wbhs0-nopyCo2GK-PFBQ0MHZ9~8zvjB-lLkF5LCG~stAI14ufMlxITI8T5y0XsW2Cdxuo1~BRtJmuPzzabGxLZxurfc9Uc-8cM6XoO3HXyuvCmaG1onrvRUI4DLn9QhUWgIrS1L-JmK72Trf3dGR6-QcMNY3tvDFhBLy6aR4y2DknlopctRiR6GnP3zoSbRerDoACf~CKAxirfQqiifJD4Fjjd8g0esuHlYJ6i~Jz1ovnw1wGtuTOyATrdujCdTxdOwVYz8rOeSYNa1t8XZQI-4WALj1b-14hUdqh671Q__",
+                        "fileName": "scaled_image_picker8676391738643409704.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker8676391738643409704.jpg"
+                    },
+                    {
+                        "id": 174505,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker3442079532288814777.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=v7drhuxzl3iHmFz8bfoaKknBU~G~0AtspF8HaBxgaPnKjVedKKL~YjkyGY7HzG69ofmhlcG57HoafqJUdvGn~Ikt~vmFmifXeHKLTg~h~ijgtTo0cBviQIAFUIW2Mq44jwHmzXN7Hp37IP1keY2X4Qxv5Ppaox0Uu1xHjvUQw5WlGSr17sa7g097ViGJ2g5jDCRoaxP4~QQTZ1zi0lMytb9Zzx694MZRAzi~~Wl2ytQUcFFDQVs2ltkupan9rpQ2etfMlN~0C1nxLAaDvo~lMFFgt1eHXbjGQtVnnWbVAGy6Q27I9BroSGU-ktcm8kJ1e2CU67zx8obOQl1-rXa~0A__",
+                        "fileName": "scaled_image_picker3442079532288814777.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker3442079532288814777.jpg"
+                    },
+                    {
+                        "id": 174506,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker7111934742261121263.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=M6RtIj4xbboc27ZLmrdv4oc~p~hi39SBa7Kdzr7G82M2iM46mbPEg6eojE~WGDzaXIpHJga7e6tupjQ-sYxXU2iK6a4qbxXT3uixvDr8nbE4054qqJuyRkWPyB2tzoAjUEybwkIPckc73wZS8QrRFe4pb9NWKAWKXLeUffRkpTyVQjFYqgN5pbn19EJFr8fGRGu~ofT~4d7792MQyEdc5lwLxugnnXh5hXsL~Lc4ibG2MBt3j5M4eXbMFzPZ35Oc-yRnozv037tpvKjggvWt9-6usoRkmVOlq2qyFxiQqtwHdBU-cJzL4uNNtKTUwRhlJ82pSX-WeervUiqexfizLQ__",
+                        "fileName": "scaled_image_picker7111934742261121263.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker7111934742261121263.jpg"
+                    },
+                    {
+                        "id": 174507,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker7341654295443779231.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=WgsCGKPytpJxVyyn9ClF16jgETgQVR29pNtA3YehwUhD05XRasYecuBJMh0l~dCMOKwoY2PdXQqioWvxXboMtR5fRqjhDkhoAEEVQ-Gex94pVmjrIoHQ4Czj6OYvJ3FPSzV58HKDXxr7oKJjluiO7wVuSY2--98q17FFQItLemRnm9uWMTbozLq0t-Er4xb4p2nNfSvyjlKc74I5w7w7zJxlTaiyv~6JpY9x6bYtUWq8Bctth6-ScRr5DXimzHuK9eqMh6KWzHuqjh2CdFF0G0BFKTVLj7lMASno~4qwZY4uaamNxIZiHStfYgn6vsFDOgYIdxfB6j6rNN0caSugFA__",
+                        "fileName": "scaled_image_picker7341654295443779231.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker7341654295443779231.jpg"
+                    },
+                    {
+                        "id": 174508,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker2546632408992014721.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=eS0h6W9FKh~2is-FQArEinTETak3koyrHe2OM6p165WAR8j-9wmREUZ~NaYLgTtzkYV1r0AtsjkUoN~-SggRqQtaJS~CQUtquhR~b1WOHnFWvDYGRIjmw90yzMU5Y9Ei4TYAvHZgNRJJ7yhC7peZa0CtBz7bfzv5eLjc3sfRLNI7A7gPVYL9hIrikpM3RMXZaKMd4v1rTv~BP9rS7USeIwqgNC6oq2EEFw31SVulHFHPEXq0X3oIfIP-X4ZV3vnrPvM9S4x5uv6JmsAPTmxNGLYx0Gl5XGFUVrXdW8ZjeXO~YW5vVsKtLRsTmv5LTK-XgSVKDjcKj2~uWETjbP8fPA__",
+                        "fileName": "scaled_image_picker2546632408992014721.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker2546632408992014721.jpg"
+                    },
+                    {
+                        "id": 174509,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker428530272367177779.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=cPi92lMFV6kGPaH7G5w6LoA4Xruv3izkTHxXl--Ub6RXXmKi7rn0E~6SG3f4INVdAGIXb5EAM0Psb8iyIEPokevIal2-rzaeV-w9-uf95D5RKpCFIS5N0cxUrSkbjgoGRYAghA1dSB9sfO0SL8YbuNRy5gp~ctpYcdKMbBf5QE0HzydSK1fmCoJPzesR-ui7~r4ovMfOLZ2JQR~BBR~rEn-7uFNpKs6mz6O4wT9n0zOJofBLCiIwJCThLGwBdq-WBBzNu3HOCksyhjSoKTgq4YaN6~5RFF3kxDlvVDtW7xRwUUai0dC8LUA-twRZus77wWGQsfnOKubc3oA0FSW0uQ__",
+                        "fileName": "scaled_image_picker428530272367177779.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker428530272367177779.jpg"
+                    },
+                    {
+                        "id": 174510,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/15/scaled_image_picker6185149455892170510.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=xcsfYG1P8YzwvTTbiJbA7qDN-PuBWy7UUfoz9~7O~0ltQuLFO~Y6i1-v45YgcYUiEKkoA4SdetJs0mB4wLY9abN2OZMc1AHAyh7Eu8hebF13SmK8PiWGjrR01h1LFywvsUWkAjx28AnAlT5F-cjRPSEu17aTxNV~fN3c9DdTCbCJ930n1TF7cx3ZmBl3PFetg2peDC2~FCfm7D49tXtby8uP~3Lysi1shMEFBJg6KbuyszX7QOE70vXZBdhYzAYhF2a6E~HCMDKMUjhkqI9RGen68oq-w8wc30qzqSMZX-Mefmj~Aqi7U5l79DzCS2v0tm3wnRHNsP64xUDK98HB3w__",
+                        "fileName": "scaled_image_picker6185149455892170510.jpg",
+                        "path": "old/origin/2022/8/15/scaled_image_picker6185149455892170510.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Bùi Tiến Tới",
+                    "position": "Trưởng Khu vực",
+                    "avatar": "https://dms3amyi97gvv.cloudfront.net/old/avatar/avatar_638563895889116198.jpeg?Expires=1784088684&Key-Pair-Id=KX5HYW72PVJI2&Signature=YQw~FKMJRpsaukna4JKppqObSnEdlZAPL0bIEhTkLKizjm9jSrGFPg5ANT5yD9veofVJOEKm1ji0jHrOhqnBNVQ2jx4NH2NJVDyo4gkjrlrEYnQRQfGQ~ACqOtmf8xAzHG9vBIa5ACqu1K1c3rdqH5dnlYpfL3JxDf-oK7YBEGuwWFffJbNW6EE9dPwJocHES0y0-Jt1tU-XunS8Ha3qQ3VA2JoJXHe2rPAKIY8GTikOkPMXJ6s8pFsOfG~Q4SR2IxMSjeQL-BlNyNieRP2UefKXy4VcPSl-b6HbT88JPe-qvdmauXKLh5qpd9wEP~uGF1nvkZUeV7jUdSjXgtM5IA__",
+                    "numberId": "035083011125",
+                    "fbLink": "https://www.facebook.com/milan.bui.315",
+                    "phone": "0918723431",
+                    "createdAt": "2026-01-06T14:09:11.707Z",
+                    "userId": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 162,
+                                "type": "PHONG",
+                                "name": "Thành Nam HCM",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "379a9860-7354-443d-866e-caa6cbb02ea7",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "AB062906",
+                "ownerSideUserId": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                "createdBy": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                "address": "52",
+                "latitude": 10.747438,
+                "longitude": 106.717431,
+                "placeId": null,
+                "placeName": null,
+                "street": null,
+                "streetName": "Đường 17",
+                "area": 142,
+                "actualArea": 142,
+                "floors": 1,
+                "wide": 8.4,
+                "depth": 18.8,
+                "offeringPrice": 3.3,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 10283,
+                "commissionValue": 3,
+                "commissionType": "percentage",
+                "criteria": [],
+                "district": null,
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-08-02T07:39:41.670Z",
+                "createdAt": "2022-08-02T07:39:41.670Z",
+                "updatedAt": "2026-01-06T21:06:44.296Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 168602,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker7927466890355923649.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=if2XsiY54UtddmDlhA0u3T5uwYacYrA0hkUt9mWzwHbtLsg1W9wflaUxJJC3B~tweOdN7s2HmHslgLquA1ONH8ASCtgwhy9jVKfjzJsoyF6qHOU6g9VNnKIVhGvnAvT4wu6phLjDnZJLha0IA8SHlAxPao5e7K7GBxCUv6aKPPLTdZr02ibPRo6eLkDynVTdPS3LNJPZ7khweyrzsvW9vYZxLs3ulV6FUygrz29i3mcQgyD7JDDvl2cd4Fc8Agselp0Fnr2Svo2VaRVI1d-BmVjjyf6gux2zJibb4lDlX1kjJtAW9bP7uBGI5JrJxaGZxoffAbZMYFHuEuawm7eZ3w__",
+                        "fileName": "scaled_image_picker7927466890355923649.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker7927466890355923649.jpg"
+                    },
+                    {
+                        "id": 168603,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker7244269944608020387.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=WccMuAl675KHWxPKcIc8d9zoO9-x8CTKCcrATkYGdakZXjOPxLNcVp9p6ZWeOCR3YLHg0hfcUYY0zl2Q74HIZdNjZmT2GqSgCWL~VQU9ktxHzZ~yzLhc6Px-ajTOLjqatk-oCYCK2wcYQ-bf9gGClg-dPdA1tleL6vGr9kRs9MetPxM~eAELPa7t1sYuaY-b~p5X9hNGjp8iUFuOzLQya1TLfdgSHEF9Ygsf8NKwvAOhL98x0gFBpdbN13-tJfHpxsIWd2NkHnwr8m4f159FormStr8cOj9TezBkMJfjzj9x5mqTa-PdStf65A0lOjykNx2F6rkRkYi8yrAjsSLawg__",
+                        "fileName": "scaled_image_picker7244269944608020387.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker7244269944608020387.jpg"
+                    },
+                    {
+                        "id": 168604,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker3543309666700711938.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=qsbROQ9L2~Eoqa~GjrlI9yAwXbdDRxGJjKOe9m7QRwoKi8Jbxaq5uXPmW4hDZL5RPUa8oaw7dGamx-FJGuNhQJnzvngJoVbpRY0CiFbLaqxAGGylkIHLD3VxoSxPLOvWk20wu5ZyYiapxg9JNYcbhmOmH0Q0d9bnvq-DT0Yw4lN6PIArY9uZ7JkBRUNJUAtnyAEh-pw0r~Ztz4KD0wi70CzM3mK7EeWaB-MP1tLF6uvWyL6lzWzsff5iMGRXmAYQP-KQ4DlggIcuPEiBsIa~QcP4ssHl2zUlvbKDY-uinzYkj7QlAIYEIuiqq2OOQoZ5qUHYDZJmczdbNI8a4n0l4A__",
+                        "fileName": "scaled_image_picker3543309666700711938.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker3543309666700711938.jpg"
+                    },
+                    {
+                        "id": 168605,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker2878480799968808955.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=WqW-E0ECNeY42H3v3yrvZEayXpf3zITReIdopDfknNFzuzXPIuKUMvrm5fISJjn40oa~7BKq8jYsB94uZF9tZA5gdSobSHgZHOXr2fUZq4dWiJBKGKW1yBvoGT8tgRZDpDSahDj39tljIm4iIJ3jOrMHE5PoR9wdt2S-WZcQHah5AyyHY4btJ9tHBAp-REgpnfOH9aljhn~rzxF~qEnVsiF4jMTfGuGffRvXlqqhzfx5GN7JkFySMlsxIofsOO9V4CRMccq6EIAIKQ4PiOH7b8s4ZwLtkLlkl1vJr2Vdvv~amM91GBSSunuyTbOL2drZkCnpLoUi-akafYRuWkwD3w__",
+                        "fileName": "scaled_image_picker2878480799968808955.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker2878480799968808955.jpg"
+                    },
+                    {
+                        "id": 168606,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker6619289472498533788.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=PL3y2AbOUjlqXe3H2fqzOutEZPV9N40QqJUdnyxwR0xvjKjYmZj-a~g5fsEEzRpQzgV9l3mNE3CeFFjeC-SwUM7oATc0mmR1okcU99LBjNe7yctA-oWf8n79ZujatezK~hI8EyIE0RU2lDCV8auHKbAGGH4H-pxw3RUXl0SigV955VWGZRlXd98YjvdP2Xtn1h5b1h1tLlPD9tAEWM9HiZoZMYhx~MWpuU5J-IUnndiGh~henLXq~Te10t9R7lkwCghtW1cD6J1ByjlaPswMDgevSLHCfX9PP3vZcxQff19wmIjCtSlS~59jJvPAssBtCWVuA0c7z076gYw2tfpAGA__",
+                        "fileName": "scaled_image_picker6619289472498533788.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker6619289472498533788.jpg"
+                    },
+                    {
+                        "id": 168607,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker9148561678939412150.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=R8qRrg3RLWB667sCV0WevKAzBMK4C0ramIYa30NPDCrQe39uEb-1DE0UvpxB~8JZ3iwJs4zPkJGHkfpCCVsfrdZwdy2E9KwX7X4EBlvK46tAau7uKyZnLLNkvls-6wZAXHzG5HKHh-KIsfJ-bMB1pH7mBfaCljhzpaegUYqC0f6YSxv6UdBE4q5cugnDmNKBN5xwxtnTar1JJfcZIBJfRUZzrUkDIRHhn-8G6oHzX-oDsh35ikgVt3vhy91Ohuwz9pjp83g-ymEpyzL1GqKMMFW2Wq3K4FoNT5IQeGVJpFyUevSzULostgjoGeHlZsU0UWulBAxoBpTyt2G1JfkAlQ__",
+                        "fileName": "scaled_image_picker9148561678939412150.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker9148561678939412150.jpg"
+                    },
+                    {
+                        "id": 168608,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker4383875126816386389.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=YJu~y0tAI2VNWM6vgflz-mUjNz9kVzrAyXnwk3Imhq386OpW0BTaU7R1s4i4hVWzEy~~szRyc9Zs5oeG4K6ayjeWoCdv2oyOHKf-XfgzY2ZLrqELL0BbRqcTAeRV~6j06voacvXd9kTmGpasWjy5Q62qtID6hzZfHYeqbi-qnaPkiLgcfqrIGKXVOadJP~ZKJYxf3Zv-K7jCIWuFDQW~yt4CfF1VDRZ-OhWRRZXC~~lViMDwLiPqJytg~KWquHA5dlm3kZCUIfXrxpwSZ7fpmsZqqF7UHsQQpx4iA~zVwQ4gvJhXTdUtggeHo9PVxqKm6D7asPO8-tnwbJyI0nofJA__",
+                        "fileName": "scaled_image_picker4383875126816386389.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker4383875126816386389.jpg"
+                    },
+                    {
+                        "id": 168609,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker4620512144102111397.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=Poa7EGjqpaPxcq~w22cSmO9fM8V-VVKdCcXAQcedgztL1C2-y~Q3QOlN0HmERFKYd4j-c66AA9P3amTsww7zTbetiBPryDwQEdHUIW8rHVlsdgTqT666yUW9RjIYxjGM6LGcEj1SSJWRDFo7B1viy6u-Ow1at6j0SjI7fLadMeP8QWJv9Aankq7BRzaYq58tuZCBpFfirZ2NXQKGD9awXUbXW2d38La5CGBcph5vauit1CpzYwX7HhJc8CRrmIADnboIjq~oNghc25awadzTtPGLDr9spIJtEB3-8ixymfxoHkflrKCc9WlHJCInLespx5o6wWFlchrk7JH2R1CYXg__",
+                        "fileName": "scaled_image_picker4620512144102111397.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker4620512144102111397.jpg"
+                    },
+                    {
+                        "id": 168610,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker2363452912137653691.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=HTL~8Qrz~U0kkr71z6NqF~0HX4GdD9erLUAh7YElHfAcm-NfDksA~fwh9XjIO0MZRR1VN4sBccSvbQ18WI93tl3n8eLA9DOY1Nsi4a1UWnlhLhfHZ9NVnxZiMyFXs3l3f~F~Ic1SKstI6RgnfAva9XS0ZQIudE6Z6SbEikS0aspZQ1bK0utoc7cVgd8GPMnSmKvqAwbWKP4fUM6VBzfDJ6Il26infKpmgNKDje7wlMxjYZpia242vuFaR0W1vkQsCgWFt5jwHd1vv7xLd6llceaexu08DRrmxHp34cZY2gV1dy7nwOcUfBEr~rgqeue3ncqsFveXVr8~O8bZzi8C6g__",
+                        "fileName": "scaled_image_picker2363452912137653691.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker2363452912137653691.jpg"
+                    },
+                    {
+                        "id": 168611,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/8/2/scaled_image_picker7114658966277588399.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=sKVWCuISuSWOq8Iwu5-JrPSNmY2M17qN1QoIYtlKYaxb9JC~nVVnlno4TcVV0L4N9quYmWN31mmWVuxD56e~NWT54nIUOdp~QZBcd3O1SSOEWkCvxLIy-bdh45M2meQTDtg9Z-pLgRi9kUbqcrV7Rm-3YOkWA8nTQkQvJ0Gl~GR6-G5bUrYVNnmHDUNkf1876GPFZSA4w~v~7v~eIgAYphoXC9iU3a0GYdh7VXYaxgV5GXBu422TxRKrOWbOlUCHck0ICcMY-O46yPLUkGsYJ3ZBahTlx354IOOq7mIUzQMjwVG6WGb3A2hY0w3CLQ2yWK6JooC6o925BDtVOWGzXg__",
+                        "fileName": "scaled_image_picker7114658966277588399.jpg",
+                        "path": "old/origin/2022/8/2/scaled_image_picker7114658966277588399.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Bùi Tiến Tới",
+                    "position": "Trưởng Khu vực",
+                    "avatar": "https://dms3amyi97gvv.cloudfront.net/old/avatar/avatar_638563895889116198.jpeg?Expires=1784088684&Key-Pair-Id=KX5HYW72PVJI2&Signature=YQw~FKMJRpsaukna4JKppqObSnEdlZAPL0bIEhTkLKizjm9jSrGFPg5ANT5yD9veofVJOEKm1ji0jHrOhqnBNVQ2jx4NH2NJVDyo4gkjrlrEYnQRQfGQ~ACqOtmf8xAzHG9vBIa5ACqu1K1c3rdqH5dnlYpfL3JxDf-oK7YBEGuwWFffJbNW6EE9dPwJocHES0y0-Jt1tU-XunS8Ha3qQ3VA2JoJXHe2rPAKIY8GTikOkPMXJ6s8pFsOfG~Q4SR2IxMSjeQL-BlNyNieRP2UefKXy4VcPSl-b6HbT88JPe-qvdmauXKLh5qpd9wEP~uGF1nvkZUeV7jUdSjXgtM5IA__",
+                    "numberId": "035083011125",
+                    "fbLink": "https://www.facebook.com/milan.bui.315",
+                    "phone": "0918723431",
+                    "createdAt": "2026-01-06T14:09:11.707Z",
+                    "userId": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 162,
+                                "type": "PHONG",
+                                "name": "Thành Nam HCM",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "3b7506f4-639c-4047-a856-a30edb5838ae",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "70113093032",
+                "ownerSideUserId": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                "createdBy": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                "address": "20.1B (279.1)",
+                "latitude": 10.739831,
+                "longitude": 106.717213,
+                "placeId": null,
+                "placeName": null,
+                "street": {
+                    "id": 3228,
+                    "name": "Lâm Văn Bền",
+                    "provinceId": 2,
+                    "createdAt": "2026-01-06T11:48:02.927Z",
+                    "updatedAt": "2026-04-02T16:36:34.945Z"
+                },
+                "streetName": "Lâm Văn Bền",
+                "area": 104.6,
+                "actualArea": 104.6,
+                "floors": 2,
+                "wide": 8.3,
+                "depth": 12.8,
+                "offeringPrice": 6.35,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 10026,
+                "commissionValue": 3,
+                "commissionType": "percentage",
+                "criteria": [
+                    {
+                        "id": 3,
+                        "name": "Hiếm",
+                        "parentId": null,
+                        "groupId": 1,
+                        "groupCode": "PROPERTY_CRITERIA",
+                        "groupName": "Tiềm năng - Rủi ro"
+                    }
+                ],
+                "district": null,
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-07-25T04:10:19.317Z",
+                "createdAt": "2022-07-25T04:10:19.317Z",
+                "updatedAt": "2026-01-06T21:06:44.296Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 164650,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker2583373081089791183.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=JgypI8c3G0iYV4in08EGUZUL1077L-Psf9crmVsPCojrxOcoHebdw9TDXnZtDttmB1t19rx3ewEclA56Iranq7thj8e3rqX3uFSI7684BcSrYJOLjTjCtvmpM6uhsmWoaJeD6wmzHT2DrwUukGvG10cpwBi03o3-Vhj7VIfFgn0lZaVa3gpck0KW6tY4cFxcf7XizlfBHYg-DxXVFBc5FcQu~wUVubHuWtF4pj3cxEjzvPBhWe24MfBZK1VyusukDXN91mJzXasj47fGXZJR6E5mbR3Ast9FMTZtSjjMcnt5z2y7ZmXS~CxFFvNvgVHxZJBFPpxiS3gCzFOR-jRDEw__",
+                        "fileName": "scaled_image_picker2583373081089791183.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker2583373081089791183.jpg"
+                    },
+                    {
+                        "id": 164651,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker4917609874572796398.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=jD6nwspwmD0SKiyytAlkQ78LetgliLd1svTttvyFt1T5awr0pG7TpCl2RyJvbUeKWvrJK0HeGhD9sT2az2SEVmB4H-POhH3cidGdPntMeexpLVfYJlsxpLCPG0wd5mP3sc6lfRbkwD0ONtUQr7AXh-qugiO5scULnAi8go5aNg1uHCxW~MiR5Nu9eBU63SFW3aSU2a2XnARFvXBF2IsoNp1FlIBtzgA-87p7kYh7ceAfquLRUD~8bq56u~tWkKWL6XaFhGdYJvHCT-x5y0UV-3igTBlftQa-vAD4PSDHiZnoRC7PhqzO0znCSf6zbZXZGt~TsrvFIuwLSl7o9A6-zA__",
+                        "fileName": "scaled_image_picker4917609874572796398.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker4917609874572796398.jpg"
+                    },
+                    {
+                        "id": 164654,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker6644611745573254108.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=lu3DGD7HVBq3W1cKz8IFGWOx5xUH8MTM9cZZAmIRyeGH~RHaBkrV7KiaLUtKjLYrIRmerX7qDRLj0~L9l~bbqWFl~KuAASgdETTFUwv~Cj3FVN~zSl8f8AYb2bW1RbkfJ--TSa7pmFuc191OQgi9xEJzd0mtcD6QNcHTJpyJ9MUly4MgsqpXKJ-4~2mP6hJ8wmlSUH7JsfpA4fGm2DEO37DWvT9gSmvIihP9NOWvOtvu4qqbPpmmgkt-B056dhFOhExSLU9gdjcD6aeyGQPhgc0etJ4SDBi-fDMrcvORUo3~tgcX5yVTgcpdX7ABvt1j-dO7dIFmw4TQgmnbGfshig__",
+                        "fileName": "scaled_image_picker6644611745573254108.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker6644611745573254108.jpg"
+                    },
+                    {
+                        "id": 164655,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker7926465907859549185.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=MPBhc3c7lfFwwNFMGhfOpKKmvOFL0M6RjTrvQjWEMZvFWmVG94XmczD3vxbzvSCfuaUIZQwmRTIasEMG9JrtiiUc0csTSDxbcoYAYRrGpoh9QouwTfFTqyJOD0A28R~2Ex9LbJvUpyqmOA-QxHJTfP-nsZ8h~ks0hnLwRuMKeOJkLWc2WdLt1xAQJ3~XGjytp-dO96ed6yuPOEsp0gc5wxl3Xqa-p2WbutEap-QvgdLouzhpBmI7NUQcHPCeLtHKM85nNrrVCgUaTgo62g~MIFe1qeOYyH25kFIfDZqy3Y5tW-VLHM7Zq-E66fYpbgQC9RrbGqVUl--vqsiqAAWWtA__",
+                        "fileName": "scaled_image_picker7926465907859549185.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker7926465907859549185.jpg"
+                    },
+                    {
+                        "id": 164656,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker1197976534856939049.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=l26jqXpHbd9nTSkaMmPGUWip03O4tTJo8EjA16NBw6Lupt0u-gFqcPYGsCE0aG~fGQJo~yd5MBSfv4edTDtpTFcBfEB9WE2SJM43-axijCE5fv9UERB7itEJcGDazmxD4x2ILgEDVVqeMV~Uya2xoxEf5FI2zrmsDggUD56nCBPkgp6aqrzk5Llu2vKZm06uZc1Mbzg4gajH8Mj9colcisNmReL9F1ikqSthneL49y3ltfWQbAC2EtZa~IOdEKPRHrtaoiLsYE6veRIW6a0E2zbCmK23fkKvyZPJNBwrs6UrA2U8CBzwe-V2mnFVo4SofvINw26wqO8h52kEwqKhkA__",
+                        "fileName": "scaled_image_picker1197976534856939049.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker1197976534856939049.jpg"
+                    },
+                    {
+                        "id": 164657,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker3550542697559038861.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=UQbRXV65ZJINmpvog~Lja-V3Oq770VVtVultOygVi8MhS00qmNfMMOip04g3rRX3q9Gs7Wb5zlmlBoFC5YMDxJ8JrTclZ~CNYjdRABXFjIeHiX2UQUsN~wgsx1dS5YSDOQTztgy70Ull4xOZivd4209nblrMd3wP3jeneSOr30OZHAfY63QpoMOljkYAdmq7HVo-Iaq0VERQFZZAK4v812MEX59Lm34XsDtL7reBFQyHf05nb903Y1Qb9gdJbJabCXjHHUKxmaapEfY3644KqlPUsNlt8YHge1-6VUzpdwgrzS5ZBkgVRpFvdfRCgtPSiQQDsldC8zPRdJRfrrVLWA__",
+                        "fileName": "scaled_image_picker3550542697559038861.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker3550542697559038861.jpg"
+                    },
+                    {
+                        "id": 164652,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker5213362716386230309.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=sS7lPaav5yLWli0mj8YQS9VFcH-PblmG5I3RAqqQQt30mcfyKwrZ9z5CLMNTq7hLf9Abhj7Eza8viky3Qu8L2dsVj7aasGmBvfiR1NjB7jd~NyCsx2C5r13edFHHsH3vAMEgxagOwQt7G05sAnQ0oSaYjzozCQC1RPi4gWqpcwS-vfYg3~9yp5jKCxvmEGndoK8jE0Wi78kaULXyq3iOhICg9ARqboirL2U2N0b0y4slTVQKuQfkywpFmpuRStWhqcYbDmicR6NwI8XSbftj57QieBexWuVhBu~3pPhj7jBBmOp48g6TGivjSFgvNklpRqrcMRpnHSM4vkNP9TlWPw__",
+                        "fileName": "scaled_image_picker5213362716386230309.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker5213362716386230309.jpg"
+                    },
+                    {
+                        "id": 164653,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker1673249002757315728.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=DAlrbu5rVs6-Yky2yn0tJrwdlc6T5TLpgOW8j4E-YuHpHEt2d3EL-4TI50jkLdO4ZLdIrqR8wKBsJB0MiYhlYxTDDEiri3izgitbXz52OSGb8eLUaIaMlHcEaQtkLP3sgi-vN4M4CO~7WLhU-vse35VMU64jEyoRt-N0gIwY-3hNhpfzgZuSXs0iUkOVLPJbwkM3Sn4qkV1Bt-5UqlLphXdgGfboJYdVgzujolNDFpcrBR6Fp6aTZw4IBu3S1jvrNXdDLPWyjz18qnL59GIQoF9snGPl3LI1gmqcaga8BhLVSuBCBF0vFYkPDMBeVrNuxo07r0p1mLr91~NiAsFyWg__",
+                        "fileName": "scaled_image_picker1673249002757315728.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker1673249002757315728.jpg"
+                    },
+                    {
+                        "id": 164658,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker7995060422008177479.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=q4CaoGXSGcLPu2Np2UA25dKH9PiZYA6ItQ8m6wXXw3L-pmXuzuXrpXt9JC6QAEZMIsZvcZWPlY-T-3vLca14m69QK28mJgC3ALjJO7ttxDhQLeg9HRP5bP58ZOdTB9i3WBt8LUGsfBozMWAc9LBUgkWPUhzuY-9pILEnuq7h-k2JTBWooRvF0FWkoDMxKYshEmZCbTsLfjtMYJryWOTZT~MqmaERtL6b6qR4fqujPuWYJFOoq-l1d80lXmaha1w4EnkS4S-qwvs5Fjgiq3X6yNj7cbIYn9qh90EDA6vqGMKxKtaZFmo5e~2EAZKFsHkJ1QXDo1iOLytQLSBodmkPJg__",
+                        "fileName": "scaled_image_picker7995060422008177479.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker7995060422008177479.jpg"
+                    },
+                    {
+                        "id": 164659,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker5844359113459961409.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=Mxd73RQhwDSIYA~zl9pbPzUSASZfjF25bf329CBr3xNY5l8ypYm-8qKHnJ9LWc~dl6dmnKCqLGNFVwRabAUddCovuRDTJAMoTwwFloPmPANVafjizk7FPe-ZYFYileVwETAUZY9qMRLkuKAzYj90YpHBRX0Iur5xmcsSwzi1cC0vOPO2r8faxUiakACiyX91pShkmoflrwo8uFwxOL8fk1mx716xX2gasRgQhAoLq~Gk3oZFluZUFN5OTFVTuKkmfKYR1L1D2ve8IeQ~Qj-VJWNb9Vlx8-cWNfr55Zd63opHohp1SiJSkcXs4WCaEdL2LDqd8rpFhuTkmcuaB5kBSg__",
+                        "fileName": "scaled_image_picker5844359113459961409.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker5844359113459961409.jpg"
+                    },
+                    {
+                        "id": 164660,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker9067465149422178306.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=IFtr6uCvp5Cp8V~2BoWGmOOs5voMIEtZL-Rm-E-jiru1uB~StTBb5Ied2BvhC0XMfe05JwWQeO-0qitiPygJ3xitCKBW4~DYtblPfzGatwf60pC1VaV7uJZqmONWg0E6Z4P5T7DZcXvA7dgR8mLne-OLscuZYt803Xp0H6Yz7g-L-049BIrxNXr24bi9A-PueFggn2RqjFqV0mnrL93z1hO3UzrMHk2-kK4oCKFgZLXqHg2Bb9KzYXjWDZ30keIU4GlMVDhQ10UpjyWACVWjhzoUyCGUviAKHR4WKjC1BKBdSDculMW2uqPCyUpHthhU8tKVWQJseqyitUYoEAqF5A__",
+                        "fileName": "scaled_image_picker9067465149422178306.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker9067465149422178306.jpg"
+                    },
+                    {
+                        "id": 164661,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker3153491998793948595.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=M04r~jhauTrhJHsX7HceKQV~VuAXr3iwPHO1csQ9tSQpZpGnaNhC60iXfrvoKk6aGon1JkOjCqxn0xIbkwXIoNOqACeLwQbBneak4K01HFlyzPtQYDISgwAZ3~8GasmJoNI8zW-5nPyQwERZG3e5xhWzaNhJrUjN2b0Mr4pOR5rD9j0foKHHitVjXAm0nO-yCOBNF53Byd8mxtsqamInlkxRjVy2ALbTcOdfGdP3aH8KPoR6g~tUNHE4m1G~PQ01gbLEYzS8kWlMYjhz~A39ObQV2iEN0cljDEfDadRkVavwvt~uaL1uvjseD274KWluonGg3z7FOccPLChwfVqezA__",
+                        "fileName": "scaled_image_picker3153491998793948595.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker3153491998793948595.jpg"
+                    },
+                    {
+                        "id": 164662,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker4989093391255388175.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=OU4e-uL8S0FqySkr~JwIYAgOoX~aHGBpyXj5QTYSlvhttMDoCZvFC~5puYNCj8LJW1qyh12xkfn25auZkLWGC3jCeo-2xxrI0qpJEd~7HevfbmoURZw7MER8uRaMzHOothCVAh376imIhcW~RG0y6Zva04ePTa8SZPFMKJa1CzgRaFdNlvr7EjqkOk2POD3yP8rsCr0ZJQUrnHZe-ga304AhuA38C6xGvFJZzqz54HE2DVQRCPiBLLv8SVx4axblFgrzEPJg2X86pLGmZiljC04t928FpMW7AC-GkkMF8shrfTvR37~tALvmS6X97oHU8LAVRJzjy6vLddJRe~E2sA__",
+                        "fileName": "scaled_image_picker4989093391255388175.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker4989093391255388175.jpg"
+                    },
+                    {
+                        "id": 164663,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/25/scaled_image_picker1629960282566183249.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=SHEcmR9kFbVhDQ93jjB1k6vxZqXlJKu6BkInhaQQ9uT9IG0xhlVAMjms91wB~XTs8JHmimGWQKCEDkv6leWwcty14AFgfBpKMH87MIfpnzgOuR3sFnlWJNxtMzB9fh7~~djdT642UJRbXRgfYGEZvV-bgZkMq914jCQfIPIXodOIKPB1WujV5mdoyULT4u0OV5WmYC5QAKCCTGlkVdN8NZZSIMipItJWZtpr~mvneseVoQ4EluCi-CB7OkTFv7lyiXLHiygW908U65Z72OnPgUr~di-CgCdKdcKr3ja2FTqSXg6M59F9puHk5vCimIn~XSqQW-KshEhDJ~ejKrKsfA__",
+                        "fileName": "scaled_image_picker1629960282566183249.jpg",
+                        "path": "old/origin/2022/7/25/scaled_image_picker1629960282566183249.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Bùi Tiến Tới",
+                    "position": "Trưởng Khu vực",
+                    "avatar": "https://dms3amyi97gvv.cloudfront.net/old/avatar/avatar_638563895889116198.jpeg?Expires=1784088684&Key-Pair-Id=KX5HYW72PVJI2&Signature=YQw~FKMJRpsaukna4JKppqObSnEdlZAPL0bIEhTkLKizjm9jSrGFPg5ANT5yD9veofVJOEKm1ji0jHrOhqnBNVQ2jx4NH2NJVDyo4gkjrlrEYnQRQfGQ~ACqOtmf8xAzHG9vBIa5ACqu1K1c3rdqH5dnlYpfL3JxDf-oK7YBEGuwWFffJbNW6EE9dPwJocHES0y0-Jt1tU-XunS8Ha3qQ3VA2JoJXHe2rPAKIY8GTikOkPMXJ6s8pFsOfG~Q4SR2IxMSjeQL-BlNyNieRP2UefKXy4VcPSl-b6HbT88JPe-qvdmauXKLh5qpd9wEP~uGF1nvkZUeV7jUdSjXgtM5IA__",
+                    "numberId": "035083011125",
+                    "fbLink": "https://www.facebook.com/milan.bui.315",
+                    "phone": "0918723431",
+                    "createdAt": "2026-01-06T14:09:11.707Z",
+                    "userId": "06f0dc99-f501-4b02-9af7-d0f712673251",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 162,
+                                "type": "PHONG",
+                                "name": "Thành Nam HCM",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "a6aea546-1e2b-4f85-a34f-75083fc69989",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "BD547532",
+                "ownerSideUserId": "b96cb414-4a1f-42c8-925e-48c0dc6306d6",
+                "createdBy": "b96cb414-4a1f-42c8-925e-48c0dc6306d6",
+                "address": "803.23.10.25",
+                "latitude": 10.7335715192603,
+                "longitude": 106.7318582162261,
+                "placeId": null,
+                "placeName": null,
+                "street": {
+                    "id": 3109,
+                    "name": "Huỳnh Tấn Phát",
+                    "provinceId": 2,
+                    "createdAt": "2026-01-06T11:48:02.477Z",
+                    "updatedAt": "2026-04-02T16:36:34.508Z"
+                },
+                "streetName": "Huỳnh Tấn Phát",
+                "area": 64,
+                "actualArea": 64,
+                "floors": 1,
+                "wide": 4,
+                "depth": 16,
+                "offeringPrice": 6.8,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 9614,
+                "commissionValue": 3,
+                "commissionType": "percentage",
+                "criteria": [
+                    {
+                        "id": 28,
+                        "name": "Nam",
+                        "parentId": null,
+                        "groupId": 2,
+                        "groupCode": "HOUSE_DIRECTION",
+                        "groupName": "Hướng nhà"
+                    }
+                ],
+                "district": null,
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-07-11T06:48:54.693Z",
+                "createdAt": "2022-07-11T06:48:54.693Z",
+                "updatedAt": "2026-01-06T21:06:44.296Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 157978,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_E9DCD106-5B2C-43E3-AC3A-5A93443EE194-36689-000007870C488290.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=F1ijcyRK~SWF~Mzi-khsXMp9ylzlvJbQYv0RoRsU0SCaWrC2q0-qQqMNTubz1CC32K4zhX0S2pfKCOannOOswp2YsMgEcN5wDVQxbsioQo769JnR6nfXaxpWuo71j4Pfqo77mBHJz-5h3P8EbZwXvB1qaaKaRuhQJoNxyY3Fdf9gN1DvtqKh8xjI36JTKz1ekwXxUMn162JaletifkwH4-P24FV1lIOlKVz-tjHv-bQvxYteKoWcu1-aYOvxMkt~EMhdKsApeKpoZS5bn5yAk-vfIeHBXbOVPmI8Q1E0SspDDnbP0UMX6EMh7qDRl6F0TaPceF7aNlwl5r9a-9yc7g__",
+                        "fileName": "image_picker_E9DCD106-5B2C-43E3-AC3A-5A93443EE194-36689-000007870C488290.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_E9DCD106-5B2C-43E3-AC3A-5A93443EE194-36689-000007870C488290.jpg"
+                    },
+                    {
+                        "id": 157979,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_76A482F4-50FE-4105-8E26-BF5EF03C1656-36689-000007870C260744.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=XkKXOTnk1CD-e4fNOTqXYKp-a-jYbr05XJYaIeJ6BIGfvs1VJKNhURR7trHYHKGiAdZIo55~34N4MUIGJRjmnY0~XnACyzCUS2mlj4F1BWPteRo-VtJ~sdcDHGi~YfGELWEFyyW1N6dZehC4ahCtLYTWmlfjFSgcVoRFOdSOSkZOs0XfANHXS~3YYHzdxSkb3WQM9D1xD85XdHOxJKgGkTx3rIckCrQ9Zstmh9f6owo0zyVnMppxTSUVrsyjfpOuP6VDFI3ZvgfEFPz2YgkJnSvh~SuhIs~BKqmfgeIpmIU~ZWqTyDmlsKsP5gxQfhz8hsCIFnNIpSTesHjcR3k0Yg__",
+                        "fileName": "image_picker_76A482F4-50FE-4105-8E26-BF5EF03C1656-36689-000007870C260744.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_76A482F4-50FE-4105-8E26-BF5EF03C1656-36689-000007870C260744.jpg"
+                    },
+                    {
+                        "id": 157980,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_593051D4-CA14-4B9E-B302-F3476B38D2F3-36689-000007870C27F548.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=QfnmTm-wA-9JWEUrgYx1h89ISh3H0fuQE-Jt0GecPWElMTm0GXOM9G3G9Wc-dvMnTx89HN6SdAU6G09jEWkM3q7f1jKVf~rGDtd72gI~636byDq-Tz73ckBKeWTWCk8SsCNBp8e-wBEAQ1BZ6p4JxjJIYsNxueYW-25v5JbQbhF6dmtpeDjj8G26aZCsYqMh1KxY7VxkrA7XiLoKkpCdyXeHSFjYFuWRkjb4c3LqL8JpJ6HyE2G9K9I1ssYeIJ7RqGceP0bA0nFrfYpJVynrQqL0Gl0ORru1ZKLngbmTCxhy6WQGrlKsaP4VExLrz~qQIxC8Ae2CmanMKVZUt1uU0Q__",
+                        "fileName": "image_picker_593051D4-CA14-4B9E-B302-F3476B38D2F3-36689-000007870C27F548.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_593051D4-CA14-4B9E-B302-F3476B38D2F3-36689-000007870C27F548.jpg"
+                    },
+                    {
+                        "id": 157981,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_B0915815-0A77-46AC-8C2A-46672868D0FA-36689-000007870C56C9E1.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=JN3BWA7XJvAaJtzNdGXw-OWKIhtITq8y3F-9N-xkb5Xl~PGoJiyuBzd8CgQGKHQdLdyv8HNS5KkZE8RnvR4mRIEdqP6iesjLKsve9mQGTcCrzCCHi-hS26B9R7aZj8APR2bXF1CcSdgWPfhVMSeB7Jxjry~fwn21~NLgujOXpd3yGseFVEXTRbK12P6cmj2955YfbRbismXxo-AYFNNneEB2IQZTC-h7DHapTBkBW3sVseLLznepikEy5hjyf5t5YCQrEVGf5VlhJ-MTH-2JsfQA5UX82xT18bTanyy2rA95OuEmnAUXOsAVldSpXKrj~PZZUvAdeGl0ZeumIZUuOA__",
+                        "fileName": "image_picker_B0915815-0A77-46AC-8C2A-46672868D0FA-36689-000007870C56C9E1.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_B0915815-0A77-46AC-8C2A-46672868D0FA-36689-000007870C56C9E1.jpg"
+                    },
+                    {
+                        "id": 157982,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_814EC083-3BF5-43FF-B169-0E173DD2F0D3-36689-00000787263D4250.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=PiqvpgFS5JAug9mM6rYiLx67qoreHbYKPDgAPW5W8MANqeXT~v0~vsJ7v1dbwJSE0BSYxboAXoU7PPPCGwpoduIGWSzUbioqGNd2Fke-FbOMMjNHM6bkRh4kKc9itvcG6LatRVCrKiedTnxkLOwYd5kkydpbuXnR9yF4BJbeKDVqVgjjeO3VLdLhx-2c-VWKWGTxNIIL-5el5ORVLYKYYxT51cqYqCDxn2b-BI56GgavgLYuf7dWqCi0AJYW1KzW6QokTwJD54vjljA~A2KaZ66amB~NO0pGdbu7rgGA04~eMVCjOwsz9OcMDrS-Uy4-seXrOsMITDbviW436ciGfg__",
+                        "fileName": "image_picker_814EC083-3BF5-43FF-B169-0E173DD2F0D3-36689-00000787263D4250.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_814EC083-3BF5-43FF-B169-0E173DD2F0D3-36689-00000787263D4250.jpg"
+                    },
+                    {
+                        "id": 157983,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_AB7DECFF-5B91-4D6C-A1B0-A9D391BE605A-36689-00000787261D3633.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=SUX29rHw1SN6LbQn2arZ3Idh9VW8EmKykBQCxtj9m9hR9rvdtMSvbIlZTbiy3EFtaD28kJkDwXt3BQcgUhZ7W4v3jko1UI2E4wpq439gJEsl~pWLH-NJQ4oGl0Qz2PB02VLTxI8V2KbPEbd~h0fZLigmPw7IAMWvs-aEPfVg1ybwIQ2aJeZrLYqdxuKVi9d1SMvLrgVfeTFaGw~YwxjqJg1ljK625INU~H~aXls2vHLpcxwzesTVCFMj1GlRNhy~o~aYRG5LKmJX9mT88Baao9V4sP557HzK5eW-bH84pzWKEVNpcNKaNuzVtIlR4V9L23z7sNj8-LgDZ3~8F-7oWw__",
+                        "fileName": "image_picker_AB7DECFF-5B91-4D6C-A1B0-A9D391BE605A-36689-00000787261D3633.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_AB7DECFF-5B91-4D6C-A1B0-A9D391BE605A-36689-00000787261D3633.jpg"
+                    },
+                    {
+                        "id": 157984,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_9C16F034-A48F-436F-A124-D5F7009A59CF-36689-00000787424EAF13.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=EVp-ewrUc4nbAic0~6Lm1nCiGzZqTDNPRT~fn1wgxxAghQiQGyXQpcIPqiUhdoOhutoEnwAWxty8QRaKIuNPIc0RNjnyiUipfZiFJ2gJLQWd8KZPTQWhGIx4NNKENPukxjPabp6sSHPK0DdwMQ5JRmIZKiDCjUa9FonEa1eQhrhF4PT4MFcTJFfes0RJF0YXUsX3mjqjfBNGjhu7aca2g1mKxTahbxtNFGVZ3rNHAU2EwC4hFfbMpZFWUTqHof5RtAYgVKhnt8Drti~sR4Yyl-Iq5PFotg89K8U21HbYLdXp~68O5oZGBdf6W4dpq0UqOVv8tf-V50BmdGuJ~TxUZQ__",
+                        "fileName": "image_picker_9C16F034-A48F-436F-A124-D5F7009A59CF-36689-00000787424EAF13.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_9C16F034-A48F-436F-A124-D5F7009A59CF-36689-00000787424EAF13.jpg"
+                    },
+                    {
+                        "id": 157985,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_955BAFFA-697A-49A4-B72B-FCF07C3528EA-36689-000007874282A7C0.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=WSPYFrxdUDaZMEL4q5lSvK5WA0BL5jt8xmt9nRqv3Q~mnii-kZ~A1Jg0OFRT8Wghb-DVUToNbGN-boHzT3kP9bRxWsxJSly2gxRUXzphlvF3LmVetF2X1RxW-IfBaCsnjHPt0mDxutHqncS9e~W0C0c3uCLTCKdJFkQptzIbpl3Oi48nQvmKDs0Ik5En-3K8GTjoLzKld27AMtY~M--S4dgJTqqH5De1HDwSwRcQGAGnSocOaU9cUwVdDYWtEfdr0eyrFmR-E-0GtTQXtfpNP5-dJCnibUyR2lg7q7bq4fhw8d3UT4tGlWfKZS9o5cgh4DXuWw1f9aUPC~Oeb5RQIg__",
+                        "fileName": "image_picker_955BAFFA-697A-49A4-B72B-FCF07C3528EA-36689-000007874282A7C0.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_955BAFFA-697A-49A4-B72B-FCF07C3528EA-36689-000007874282A7C0.jpg"
+                    },
+                    {
+                        "id": 157986,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_98D4D797-AC85-43B1-9D4F-C03D3A00E38C-36689-0000078742DC1F76.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=ffqPeZtDCrwpZWAoTGxE-t9~M65B0DS24B8Sa9RyeZT2Wk2QgrPsQsHqYj~Clkwu-ADhreNKoZsu4kZF10YSd~a-I5ndn2-B5rbne3MmDaPjbA9nzpxOd-CHKGe9-EQ8RTBNmGonfvxWpglSk3jAFFyQLPCj3MDb7nL4DB6gVcBNta-N7-Wk3Is7jcmPSDEyj2iTb6e~VZBJOYAXUT8~5V2mLGn6SNhr-SKxoDWmgLkz5CnpupMNo3kukrZ-FC~IrGMBoWbvRcNrmt~omEu-cdGdjn78wMn3xQDZayehBbz18aUp36Xin5NIF7jT8Q016cQfYdJodrpxaeQkX4O~sw__",
+                        "fileName": "image_picker_98D4D797-AC85-43B1-9D4F-C03D3A00E38C-36689-0000078742DC1F76.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_98D4D797-AC85-43B1-9D4F-C03D3A00E38C-36689-0000078742DC1F76.jpg"
+                    },
+                    {
+                        "id": 157987,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_D47AB679-329C-4663-9BBC-5E86ADC9EF1B-36689-0000078742B0C1DC.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=AFe5wP8zJOfrwbj~kxP4Bb4r1tH4PcLwU2gu1BiYk8r8XNlucpDXT8Jhp0mq7F~5k~TS4RdsuZxFYUNK8H4m~tw3VI7ZZBrfZGXZInFpxV84YMZUDCzkn9G5YCv60H6J89Jw5b912mEq5EwA-M5KNpey1W0L707MHTNckoPKoEgVCHZNovPke~bMuAe-HZ6AOeEidbDdFTG6A3dTzxglpqHIfVXQyyhNsMf1JwTE0MkVnkTeD51lRX6l3-0o~xdeAxlDVpof2YDh1Vb1JDvnY2M4nMmHGSVFzkBhYaMsy5kKed7ZjeViLBGXGnngGF6AMcECXz--pponEiGVlwQQ4w__",
+                        "fileName": "image_picker_D47AB679-329C-4663-9BBC-5E86ADC9EF1B-36689-0000078742B0C1DC.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_D47AB679-329C-4663-9BBC-5E86ADC9EF1B-36689-0000078742B0C1DC.jpg"
+                    },
+                    {
+                        "id": 157988,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/7/11/image_picker_56B2CC86-35C5-4CC5-8A34-238046DCE4A8-36689-0000078742258AD2.png.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=t8pWrdg9z3OxfpkwAvaJyFlsTqrPiXcEZb1qOAlURkawm~vQkVztWEW4WTY1L~y7XweTV9P1QRWuZiGjRNIyvKmVO3f5MXkh~3ejbRlFPVRkR~ZaeFobxAK0llS2~YWxGsjc6K0nAebdWC6Tn2bqO1355DX-J4NkCRY6rO1HACFm1vbO5Pj9qOl9-EBVYMV9amipS2ZpaDqKD8BBo7uQ7Z7~4Rn8wsw-3ETZGcZtg4F85eUg7FmjCkRQnf8V~NcpO7-obESBw3IvJNTW4xS3BqgEN-3lACHoAz4aG6E1EiYEsHjZOAGcmSt0FAPsi0uUdbVmHhqLHdUzoqQ4VpaSyg__",
+                        "fileName": "image_picker_56B2CC86-35C5-4CC5-8A34-238046DCE4A8-36689-0000078742258AD2.png.jpg",
+                        "path": "old/origin/2022/7/11/image_picker_56B2CC86-35C5-4CC5-8A34-238046DCE4A8-36689-0000078742258AD2.png.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Lý Ánh Nguyệt",
+                    "position": "Đầu chủ",
+                    "avatar": "https://dms3amyi97gvv.cloudfront.net/old/avatar/avatar_638563729206445296.jpg?Expires=1784088360&Key-Pair-Id=KX5HYW72PVJI2&Signature=RbXLAEnSAmyXkKoJ7RIU52Tp5IiOExJ6ZQVuvEgJ8p~RwgMbBhhVabtP~TD39~pVmLaXeiRJedGWUu2bunshFgKSL9KL33CSV6iebaX-GVYqvZAi0PkHxxMLTKaKbSZhYj4olkkMiPG~NjbQPffgr1asPaSObwYfN0OFxlxVEkx2T1OZCQ55VswO9JD9TYzvkjkMbclcJU4VNKy98xioSG8G4FCmKgfHy8RBsHf-Da9jK7EAwaVgf8KIEudh0tKCMlqEAKtRINlD3C25zNikkZV5HaarfE9f5sCsEuQgapkL8~xy8mGp2-I7Db7EuoC8nSptk6CFD49pBFAh256U-g__",
+                    "numberId": "096190015382",
+                    "fbLink": "https://www.facebook.com/profile.php?id=100088325454023",
+                    "phone": "0708889779",
+                    "createdAt": "2026-01-06T14:08:32.236Z",
+                    "userId": "b96cb414-4a1f-42c8-925e-48c0dc6306d6",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 39,
+                                "type": "KHOI",
+                                "name": "Khối Vạn Gia HCM",
+                                "level": 0
+                            },
+                            {
+                                "id": 147,
+                                "type": "PHONG",
+                                "name": "Vạn Gia HCM",
+                                "parent_id": 39,
+                                "parent_name": "Khối Vạn Gia HCM",
+                                "parent_type": "KHOI",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 147,
+                                "type": "PHONG",
+                                "name": "Vạn Gia HCM",
+                                "parent_id": 39,
+                                "parent_name": "Khối Vạn Gia HCM",
+                                "parent_type": "KHOI",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            },
+            {
+                "id": "3d81bd6e-9378-45fc-9559-1ae8cd85ee28",
+                "isSigned": true,
+                "status": "qualified",
+                "contractType": "paper",
+                "certificateSeries": "AD177858",
+                "ownerSideUserId": "4cbb56a1-c529-4ba9-9cce-8220427f9b56",
+                "createdBy": "4cbb56a1-c529-4ba9-9cce-8220427f9b56",
+                "address": "85.13.9",
+                "latitude": null,
+                "longitude": null,
+                "placeId": null,
+                "placeName": null,
+                "street": {
+                    "id": 3755,
+                    "name": "Nguyễn Văn Quỳ",
+                    "provinceId": 2,
+                    "createdAt": "2026-01-06T11:48:04.728Z",
+                    "updatedAt": "2026-04-02T16:36:36.571Z"
+                },
+                "streetName": "Nguyễn Văn Quỳ",
+                "area": 0,
+                "actualArea": 17.5,
+                "floors": 2,
+                "wide": 3,
+                "depth": 6,
+                "offeringPrice": 1.4,
+                "contactName": null,
+                "contactPhoneNumber": null,
+                "commissionAgentId": 8768,
+                "commissionValue": 100,
+                "commissionType": "cash",
+                "criteria": [
+                    {
+                        "id": 115,
+                        "name": "Khu vực thuần ở",
+                        "parentId": null,
+                        "groupId": 19,
+                        "groupCode": "PROPERTY_CRITERIA_BUSINESS_CASH_FLOW",
+                        "groupName": "Kinh doanh - Dòng tiền"
+                    }
+                ],
+                "district": null,
+                "ward": {
+                    "id": 195,
+                    "name": "Phú Thuận",
+                    "provinceId": 2,
+                    "provinceName": "TP Hồ Chí Minh"
+                },
+                "type": "owner_side",
+                "listedAt": "2022-06-15T10:37:18.423Z",
+                "createdAt": "2022-06-15T10:37:18.423Z",
+                "updatedAt": "2026-01-06T21:06:44.296Z",
+                "tags": [],
+                "isFavorite": false,
+                "media": [
+                    {
+                        "id": 144615,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_20E4AE25-DBF7-4AFA-A63C-694B24DE8896-3296-000001834E36A87B.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=nxyFyklzCX5mOlIVfSE50eTus~dnatbKw0mTEJegSVPnZ199zo~buj7XM78HXPp8V2lbPv4gOzjr5DF5cNoVuBSPE61qc3O4NIO8pfOYuG00zVZBfMDogYxoVpBciuFWzRzLF2Nh~Scw4vinmZ5rQk9oYGrkwj949DcDLaml3rGGYyQSG-UD2Vr0dlXRvyIW~MB~mCdoWRvvpySZG3rK~eEf0M9k5uQ48-2uMh6rfkdcrfnMdPpZnijRruczTpwM0xcjOTVEupyuaqvhob3QwkC99a4HzTEREYXSjI2MK0Asx16BJirwCU8U8tAq5OxEoGPGXVkZzchFnOu4ddK6VQ__",
+                        "fileName": "image_picker_20E4AE25-DBF7-4AFA-A63C-694B24DE8896-3296-000001834E36A87B.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_20E4AE25-DBF7-4AFA-A63C-694B24DE8896-3296-000001834E36A87B.jpg"
+                    },
+                    {
+                        "id": 144616,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_3B2D23A3-DBFC-4A3F-AD98-555242ED72BB-3296-000001834E540508.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=k5mpg9x5unxDOiNPISl~27aA7YErvm3OSV2TtBllLjZHfUseOWMwqVohkxNqOOApnPOo7ZQk4kHht3kVWB9T7hFwzxupCVYmbR-uZqVaSwuBobuQNoKjms8-LmhpVU7NxDiiJqZlpUW7VzQXCyaDYatJuOhG4ZNpaOECbnhbgy7Z9KTvEibD1hyDMqRDmmIWE1ME--Ffh-6Rfr977xMXpwPOmnHo6vmi5SESwN-sFt9mQKzW1m3l-0xY-PIoyQeBBVgpLSxnQKD1v87uypB9oBilvwJF-XEnIFM3QBxojb1JtuZcmDUv3iwvNUMd0VZFYp9eQITEiRCrQ6Ss2-kOqg__",
+                        "fileName": "image_picker_3B2D23A3-DBFC-4A3F-AD98-555242ED72BB-3296-000001834E540508.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_3B2D23A3-DBFC-4A3F-AD98-555242ED72BB-3296-000001834E540508.jpg"
+                    },
+                    {
+                        "id": 144619,
+                        "index": 0,
+                        "type": "certificate_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_061072FD-CE0B-4065-BF11-5CD13826DF9A-3296-000001834E41DA82.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=YWJEhq773fWlc93EW0IXso4cIjMt3ADFEfEpkEoci2qIO701150Pn6wn88oHDMqYlSrTRKI4Avb4o9ZCOYW0trMqOwExLdtgFLcLJLP4YMLfJQ6-HZtOsLo0Fk4Ut4gvV5B8Wjds3xvWmgcgQTY~cWRki5d4EDKW~nInpOsZHKA9~a-PSGnFut3gswGS42sxeKzl6YNYOBi041BmbyyvM2HF-TOXLO7GbkE2vEPqLOe5fN4TP3toAPYsTMQUyo3ulfQu1L0NuHNUGiVUkKmMChUyrSTPhGwAS~95d6Od0g3p7g5D0SeliV2tHorTvnmro2qqxIQPy3nXWZGcogSsbg__",
+                        "fileName": "image_picker_061072FD-CE0B-4065-BF11-5CD13826DF9A-3296-000001834E41DA82.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_061072FD-CE0B-4065-BF11-5CD13826DF9A-3296-000001834E41DA82.jpg"
+                    },
+                    {
+                        "id": 144617,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_2E8427EF-9E6B-4ABF-A418-22F707C7AE9D-3296-0000018374E5D7B8.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=ftiXbQsWHS-DnNB0MfsZUJj-NRDZ1t-TlWM2B28DOVP9sxMuPR~NkM9qzj~8WUYBdk4iMxh0WyBMuL9-QvGfyAmOXeOk6uWMTz3bgrCjWrlYrZkEBi-rjp219LruYQcgEDO45xF2FQI7JbeIH0L0KxKoSF~sPPHUTfGxTdbInbGsudxB2l6AW-7hY34~kjH9cHsDO2YXTlRrVOI-RUh~FJDoxnUxqyFhzODpQITOYkNvbFQm1vfhupl4LodyAmb0U8Y6t1w0fXXOz31hPISNYYxN1QoeUwhmI0O6nSOJEcF~W88ly5GdSeri~6bUiDGur5u1-K4Tn2PwJNqeBFozWg__",
+                        "fileName": "image_picker_2E8427EF-9E6B-4ABF-A418-22F707C7AE9D-3296-0000018374E5D7B8.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_2E8427EF-9E6B-4ABF-A418-22F707C7AE9D-3296-0000018374E5D7B8.jpg"
+                    },
+                    {
+                        "id": 144618,
+                        "index": 0,
+                        "type": "contract_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_138EA003-6730-41EA-8FA9-A7BEDD2811B2-3296-0000018374CACFD4.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=gHOEg4xnPBJ0m0AkAq8Lgc2XKIboQxrhvf8B9i594S1GH-udxCib5ooMWdPeGX0zvop1LYY3FL~5TMhUNhuva46Q~2vVeXFvI3GBWp355DCA-CnUaF3bRs0bzmJ-5aocfY14LReF3sEfrkDFXAeZ0kFT2NdvE0xMWTnKfOubENZHXQviSQUWJp0Mz5fJx-c9W-egT1dKO~67nqP5JujavhlJyDHTggf~vV5dIDglV9CDJ2S92gvZFI8ChOIJUJutiqp9v3p3l3x0ESRIP4hC43LxIbKRKlOPvWpNZ78G3fmuCAtzZxGdLbUoCNzxktvftP7DXl~0Qu4Il3JNj7FJ-w__",
+                        "fileName": "image_picker_138EA003-6730-41EA-8FA9-A7BEDD2811B2-3296-0000018374CACFD4.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_138EA003-6730-41EA-8FA9-A7BEDD2811B2-3296-0000018374CACFD4.jpg"
+                    },
+                    {
+                        "id": 144620,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_B1D0EC61-E9DC-4EAA-9138-EB343A15DB36-3296-00000183867FC746.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=ReGwTlwk8p6VzcrpVOEElkm3Ztw3VhqNcxOhviwYg3d~Etf~V4qnKqVCGqpPJYGTndUN-WG7FSAfBv8VRSHEHZAf0E4Ur1st12gc21FSTZJHV-w98NnlMSZDJFuzPvN8n3-ufWX5JjxSdwWbQH-JrM5m3Qihk2A7mIw2RlvjtpTf4ZEEjjVigqQIceJ10eX-eru9gXa5RKwGXUxb9jVYFa9k9bGqD0Y7Cjrfxq94-DRwOrIgVdFRW0qjA3F38fzgnABvgtpFiTfXtNu7n13KKn4VLS1emI0bSbesrUhZkgU~LIUrR4dqVeteTPDh-JwUMDjXsr04Xpm87VkgBsSQoQ__",
+                        "fileName": "image_picker_B1D0EC61-E9DC-4EAA-9138-EB343A15DB36-3296-00000183867FC746.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_B1D0EC61-E9DC-4EAA-9138-EB343A15DB36-3296-00000183867FC746.jpg"
+                    },
+                    {
+                        "id": 144621,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_78DF5D0A-2FC5-4CB2-AF37-296A8B487C3D-3296-00000183869D493D.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=hmLpAdh2fMFjrYmjE1YGIQe4x0zUoTgOW4Tw-h5eZgqAbqUaS0kmNB16EYs2t7jfz79IghdluDPyiSEkADdbev5M6fHRuD3CV9ItSxV9RF5dfrB6JaBXXLQWkz5ef5xW0dY1x80VL05H1T5cnhwzUHMua4bJwsjKTwMIxRa8o8pPLaajl-rlryTdSF54ALGUg~0kxKeAE5MtBnlh0v99RcRNE5Unyf6O6Rml1f~yU4wYy9RcZo2gsxjKRCvFGMJrT8vqw0eyjtVBYYK44LjRKZP~6L6sWvZC0S2pkF~wXRkFC1kQWg0XikEQgUwlRcwtKNvxihmwu5Nf6tIjVSGcxg__",
+                        "fileName": "image_picker_78DF5D0A-2FC5-4CB2-AF37-296A8B487C3D-3296-00000183869D493D.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_78DF5D0A-2FC5-4CB2-AF37-296A8B487C3D-3296-00000183869D493D.jpg"
+                    },
+                    {
+                        "id": 144622,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_C024D2B3-E879-476C-ACD6-A77A4E68AFA8-3296-0000018386B7F343.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=aCFLql8jqwR~tUDGJcIcWNu28ecX2zuYzK7slMChJrwdWnr2mitIuPK3Z2f4C8CUilf3JDOtbDF270CCcbtjMJheL2ZXmhK0wdogHlFBDVRjSAW6bXJA5FIOjFXEdUqvchrQ3xRTWcR-YJpmjIBpwoeXv6EARDfkZxHrUmBrDDuVQSbp8DBPc2dFZhNyqVOybsbaC2C8jYrm7on1J8lsQ-OxqjbmCVQL9rEC6OMYvPjFobiC6oVoXbpfbnoR5ZVQbCJeKs~kDo31toTlQ1xjZIdfnlaQtdYFiDtkIsWTm6fbOSTiklHch5Wi1SVHZIdDcBw2UShrkgPjMVXYqFWX6w__",
+                        "fileName": "image_picker_C024D2B3-E879-476C-ACD6-A77A4E68AFA8-3296-0000018386B7F343.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_C024D2B3-E879-476C-ACD6-A77A4E68AFA8-3296-0000018386B7F343.jpg"
+                    },
+                    {
+                        "id": 144623,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_2AA47501-A0F0-447E-A2E8-8543CE35C97A-3296-0000018386D5570B.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=jTzMHnFq5JT30cs1nRQua6lQgYb8XeRBoUEysHDKhesb-W~g6DwTkvrbPjVqgx2kEOGK9JAvUANwxufZlTkNSnMtP49qFcUH75MCepWwWazHemYrRnq56kmeNxWnq78iZTPs3voXcKyFaBWJ9detg9O5vaS6nlKi9h3ouKk8r156iXhrK2ehg1G2y7NHHuScpa9buEgh4mfF4QY0Bz4-q~RVlUzhOQeHd374LmARlQSe1WJpa2khY0jqXE8~8mJyBZahW6T0FRlg55N-LYDJ8Mh4XVrrPG6ufPjwZhM4szKFNv71Jtqc1Ssg2ZEAF6qFCdITxKud~-MXyCyRpv18gg__",
+                        "fileName": "image_picker_2AA47501-A0F0-447E-A2E8-8543CE35C97A-3296-0000018386D5570B.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_2AA47501-A0F0-447E-A2E8-8543CE35C97A-3296-0000018386D5570B.jpg"
+                    },
+                    {
+                        "id": 144624,
+                        "index": 0,
+                        "type": "property_image",
+                        "mediaType": "image",
+                        "url": "https://dms3amyi97gvv.cloudfront.net/old/origin/2022/6/15/image_picker_33A9C7EE-E59D-47C5-8816-56250C49AAB4-3296-0000018386EF6F2A.jpg?Expires=1784089108&Key-Pair-Id=KX5HYW72PVJI2&Signature=f5QzIS6YoloZxG~t5B84vZjg-g1CmNxELIeOe~wlXJIF70GoYVuLA7KW08dt6vJMyOpOpG9my31WnD5qxr-HDMzUbqOkfVGKa42Anawt6TYZTWpHnz9SkV8MuN-aohtm7YltYGwF0GZBPMCWJKj~FJkOEHdlFfXdVxf-2bkLMdpZ~0I-XwGby05iD7xaEoOGNqZd-pFlcfTyrdorTkbtvywj3ZtNImnHgcVe42yngQ9icwsG7dz3Qek3ZsyllGEH~jNmPDRyuDkrUOVLfedgEb98qC7pma06zakxjVqkOMcYHGIZxGwhYgD7Te3n3BnohiDsM0qiqAXln8kiNMXDfg__",
+                        "fileName": "image_picker_33A9C7EE-E59D-47C5-8816-56250C49AAB4-3296-0000018386EF6F2A.jpg",
+                        "path": "old/origin/2022/6/15/image_picker_33A9C7EE-E59D-47C5-8816-56250C49AAB4-3296-0000018386EF6F2A.jpg"
+                    }
+                ],
+                "ownerSideUser": {
+                    "name": "Đỗ Phước Lộc",
+                    "position": "Trưởng Phòng",
+                    "avatar": "https://dms3amyi97gvv.cloudfront.net/user/712133800_27642316135365288_123726165835178088_n_1780477490506_c3766b7a.jpg?Expires=1784088676&Key-Pair-Id=KX5HYW72PVJI2&Signature=Yqr9pAveZCbvkv1o1SUzl5Man8CxK4C0V2zXwfDcu3TMZAHdRFU~6EiO8TB4-zF-hyTFZjTZ3iPIQRsDovj1UhjN6WPswdHbg2jIrt62YEarvAm9hO9gl6ZD3-w3~CeZ6T3~9Icj-U6RuT2avpVuz3BqfzHLtUJp7kea89cvyCCboUs3mvxMJSjUwpXogbfhCCshNq2L9qT6AC32bgBuCe5TZysLQxhoij0Ov3jtoJ1XY7Rg7Ujq5vDDc2qYefKjyJ-BWF8mMdAOUVFGAlK1YuQ5E-feqGuyIRxSjHDraEpT0s-~l4cuLkHcrXh5cKHSQnmgF0HUe1ieM3Ld7xZEhg__",
+                    "numberId": "079089009504",
+                    "fbLink": "https://www.facebook.com/BOSS.THEBEAR.CREW",
+                    "phone": "0905931456",
+                    "createdAt": "2026-01-06T14:08:32.236Z",
+                    "userId": "4cbb56a1-c529-4ba9-9cce-8220427f9b56",
+                    "department": [
+                        [
+                            {
+                                "id": 6,
+                                "type": "MIEN",
+                                "name": "Miền Nam",
+                                "level": 0
+                            },
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 1
+                            }
+                        ],
+                        [
+                            {
+                                "id": 14,
+                                "type": "CHI_NHANH",
+                                "name": "Nam Sài Gòn",
+                                "parent_id": 6,
+                                "parent_name": "Miền Nam",
+                                "parent_type": "MIEN",
+                                "level": 0
+                            }
+                        ],
+                        [
+                            {
+                                "id": 265,
+                                "type": "PHONG",
+                                "name": "Hùng Hưng HCM",
+                                "level": 0
+                            }
+                        ]
+                    ]
+                }
+            }
+        ],
+        "total": 310,
+        "page": 16,
+        "limit": 20,
+        "totalPages": 16
+    }
+}

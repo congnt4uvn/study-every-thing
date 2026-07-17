@@ -1,0 +1,7 @@
+# Ignore session and temporary data folders
+auto post fb/session_data/
+auto post fb/chromedriver-win64/
+auto post fb/__pycache__/
+chromedriver-win64/
+session_data/
+session_data*/
