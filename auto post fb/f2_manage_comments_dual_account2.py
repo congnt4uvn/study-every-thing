@@ -13,8 +13,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 # Import login functionality for both accounts
-import facebook_login
-import facebook_login_account2
+import f1_facebook_login
+import f2_facebook_login_account2
 
 # Configuration
 POST_URLS = [
@@ -485,7 +485,7 @@ def main():
                 time.sleep(DELAY_BETWEEN_ACCOUNTS_SECONDS)
         
         if USE_ACCOUNTS in ["account2", "both"]:
-            stats = process_posts_with_account(facebook_login_account2, "Account 2")
+            stats = process_posts_with_account(f2_facebook_login_account2, "Account 2")
             total_stats["Account 2"] = stats
         
         # Final Summary

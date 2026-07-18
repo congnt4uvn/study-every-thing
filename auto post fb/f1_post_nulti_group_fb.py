@@ -16,14 +16,14 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 
 # Import login functionality
-from facebook_login import build_driver, login_and_save
+from f1_facebook_login import build_driver, login_and_save
 
 
 # Configuration
 G = """
+https://www.facebook.com/groups/1194594703901281/
 https://www.facebook.com/groups/1359445864770043/
-https://www.facebook.com/groups/batdongsanhcm1
-https://www.facebook.com/groups/nhadatquan7namsa
+https://www.facebook.com/share/g/1J4wtjjQdW/
 https://www.facebook.com/groups/1620447884651557/
 https://www.facebook.com/groups/nhadatquan7namsaigon/
 https://www.facebook.com/groups/1194594703901281/
@@ -33,7 +33,7 @@ https://www.facebook.com/groups/745712154058340/
 """
 GROUP_URLS = [url.strip() for url in G.split("\n") if url.strip()]
 
-POSTS_DIR = Path("auto post fb/posts")
+POSTS_DIR = Path(r"D:\job\study-every-thing\auto post fb\posts")
 GROUP_LOAD_TIMEOUT_SECONDS = 30
 POST_DIALOG_TIMEOUT_SECONDS = 30
 POST_INTERVAL_MIN_SECONDS = 300  # Minimum wait time between posts
