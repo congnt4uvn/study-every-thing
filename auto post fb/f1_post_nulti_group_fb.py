@@ -402,7 +402,7 @@ def run_multi_group_post_loop(driver: webdriver.Chrome) -> None:
         print(f"\n[LOOP] Waiting {wait_time:.3f}s before next post...\n")
 
 
-        filename = "gr_p.txt"
+        filename = r"D:\job\study-every-thing\gr_p.txt"
         new_text = current_group_url + "\n\n"
 
         # 1. Open the file in read/write mode ('r+')
