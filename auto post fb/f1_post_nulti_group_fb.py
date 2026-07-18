@@ -403,7 +403,7 @@ def run_multi_group_post_loop(driver: webdriver.Chrome) -> None:
 
 
         filename = r"D:\job\study-every-thing\gr_p.txt"
-        new_text = current_group_url + "\n\n"
+        new_text = current_group_url +  current_post  + "\n\n"
 
         # 1. Open the file in read/write mode ('r+')
         with open(filename, "r+") as file:
