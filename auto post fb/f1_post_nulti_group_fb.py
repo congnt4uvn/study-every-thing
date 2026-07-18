@@ -21,25 +21,25 @@ from f1_facebook_login import build_driver, login_and_save
 
 # Configuration
 G = """
-https://www.facebook.com/groups/785225373106811/
-https://www.facebook.com/groups/1116390892661061/
-https://www.facebook.com/groups/6688909131219490
-https://www.facebook.com/groups/6010773078979303/
-https://www.facebook.com/groups/744635730390896/
+https://www.facebook.com/groups/1067196077772747/
+https://www.facebook.com/groups/1384960275389807/
 https://www.facebook.com/groups/895293681714864/
 https://www.facebook.com/groups/batdongsansaigon3/
 https://www.facebook.com/groups/nhachinhchutphochiminh/
 https://www.facebook.com/groups/3643861382324918/
 https://www.facebook.com/groups/520865190229284/
+https://www.facebook.com/groups/nhadatquan7namsaigon/
+https://www.facebook.com/groups/1194594703901281/
+https://www.facebook.com/groups/785225373106811/
+https://www.facebook.com/groups/1116390892661061/
+https://www.facebook.com/groups/6688909131219490
+https://www.facebook.com/groups/6010773078979303/
+https://www.facebook.com/groups/744635730390896/
 https://www.facebook.com/groups/204882203644959/
 https://www.facebook.com/groups/1359445864770043/
 https://www.facebook.com/share/g/1J4wtjjQdW/
 https://www.facebook.com/groups/1620447884651557/
 https://www.facebook.com/groups/206767735704497/
-https://www.facebook.com/groups/nhadatquan7namsaigon/
-https://www.facebook.com/groups/1194594703901281/
-https://www.facebook.com/groups/1067196077772747/
-https://www.facebook.com/groups/1384960275389807/
 https://www.facebook.com/groups/1154086175278915/
 https://www.facebook.com/groups/744635730390896/
 https://www.facebook.com/groups/2006136186389604/
@@ -400,6 +400,22 @@ def run_multi_group_post_loop(driver: webdriver.Chrome) -> None:
         # Wait before next action
         wait_time = random.uniform(POST_INTERVAL_MIN_SECONDS, POST_INTERVAL_MAX_SECONDS)
         print(f"\n[LOOP] Waiting {wait_time:.3f}s before next post...\n")
+
+
+        filename = "gr_p.txt"
+        new_text = current_group_url + "\n\n"
+
+        # 1. Open the file in read/write mode ('r+')
+        with open(filename, "r+") as file:
+            # 2. Read the existing content
+            old_content = file.read()
+
+            # 3. Move the file pointer back to the very beginning (index 0)
+            file.seek(0)
+
+            # 4. Write the new text followed by the old content
+            file.write(new_text + old_content)
+
         time.sleep(wait_time)
 
 

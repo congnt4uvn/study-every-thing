@@ -17,33 +17,33 @@ import f1_facebook_login
 import f2_facebook_login_account2
 
 # Configuration
-POST_URLS = [
+G = """
+https://www.facebook.com/share/p/1EXKLYWXMP/
+https://www.facebook.com/share/p/17j6iMPFPy/
+https://www.facebook.com/share/p/1BNzab5Kig/
+https://www.facebook.com/share/p/1Hw5L49YsE/
+https://www.facebook.com/share/p/199mXYe3FD/
+https://www.facebook.com/share/p/1C2XPTZnbT/
+https://www.facebook.com/share/p/1BncCspwEj/
+https://www.facebook.com/share/p/19L4ZFkcXJ/
+https://www.facebook.com/share/p/1K962dv7tA/
+https://www.facebook.com/share/p/1GQ7vJvDQA/
+https://www.facebook.com/share/p/1EH6pszAAF/
+https://www.facebook.com/share/p/1BqFCk7GA3/
+https://www.facebook.com/share/p/1BMp9DdAVY/
+https://www.facebook.com/share/p/19BQfjWYUa/
+https://www.facebook.com/share/p/1CmrgcCcEf/
+https://www.facebook.com/share/p/1BT7zTuhsm/
+https://www.facebook.com/share/p/1cnAbq1kTE/
+https://www.facebook.com/share/p/19FTPF54ww/
+https://www.facebook.com/share/p/18uVUFpkf1/
+https://www.facebook.com/share/p/1BknfAbQ52/
+https://www.facebook.com/share/p/1PJQrepyte/
+https://www.facebook.com/share/p/1H2SLSGSmm/
+https://www.facebook.com/share/p/1JNBF6Dv9G/
+"""
+POST_URLS = [url.strip() for url in G.split("\n") if url.strip()]
 
-
-"https://www.facebook.com/share/p/1EXKLYWXMP/",
-"https://www.facebook.com/share/p/17j6iMPFPy/",
-"https://www.facebook.com/share/p/1BNzab5Kig/",
-"https://www.facebook.com/share/p/1Hw5L49YsE/",
-"https://www.facebook.com/share/p/199mXYe3FD/",
-"https://www.facebook.com/share/p/1C2XPTZnbT/",
-"https://www.facebook.com/share/p/1BncCspwEj/",
-"https://www.facebook.com/share/p/19L4ZFkcXJ/",
-"https://www.facebook.com/share/p/1K962dv7tA/",
-"https://www.facebook.com/share/p/1GQ7vJvDQA/",
-"https://www.facebook.com/share/p/1EH6pszAAF/",
-"https://www.facebook.com/share/p/1BqFCk7GA3/",
-"https://www.facebook.com/share/p/1BMp9DdAVY/",
-"https://www.facebook.com/share/p/19BQfjWYUa/",
-"https://www.facebook.com/share/p/1CmrgcCcEf/",
-"https://www.facebook.com/share/p/1BT7zTuhsm/",
-"https://www.facebook.com/share/p/1cnAbq1kTE/",
-"https://www.facebook.com/share/p/19FTPF54ww/",
-"https://www.facebook.com/share/p/18uVUFpkf1/",
-"https://www.facebook.com/share/p/1BknfAbQ52/",
-"https://www.facebook.com/share/p/1PJQrepyte/",
-"https://www.facebook.com/share/p/1H2SLSGSmm/",
-"https://www.facebook.com/share/p/1JNBF6Dv9G/"
-]
 
 COMMENTS = [
     "inbox",
