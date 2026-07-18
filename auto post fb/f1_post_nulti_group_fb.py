@@ -21,6 +21,11 @@ from f1_facebook_login import build_driver, login_and_save
 
 # Configuration
 G = """
+https://www.facebook.com/groups/6688909131219490
+https://www.facebook.com/groups/6010773078979303/
+https://www.facebook.com/groups/batdongsansaigon3/
+https://www.facebook.com/groups/nhachinhchutphochiminh/
+https://www.facebook.com/groups/3643861382324918/
 https://www.facebook.com/groups/1194594703901281/
 https://www.facebook.com/groups/1359445864770043/
 https://www.facebook.com/share/g/1J4wtjjQdW/
@@ -30,6 +35,8 @@ https://www.facebook.com/groups/1194594703901281/
 https://www.facebook.com/groups/744635730390896/
 https://www.facebook.com/groups/2006136186389604/
 https://www.facebook.com/groups/745712154058340/
+https://www.facebook.com/groups/3643861382324918/
+
 """
 GROUP_URLS = [url.strip() for url in G.split("\n") if url.strip()]
 
@@ -409,7 +416,8 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    while True:
+        main()
 
 
 
