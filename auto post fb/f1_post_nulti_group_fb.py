@@ -21,6 +21,7 @@ from f1_facebook_login import build_driver, login_and_save
 
 # Configuration
 G = """
+https://www.facebook.com/groups/1067196077772747/
 https://www.facebook.com/groups/1384960275389807/
 https://www.facebook.com/groups/895293681714864/
 https://www.facebook.com/groups/batdongsansaigon3/
@@ -40,7 +41,6 @@ https://www.facebook.com/share/g/1J4wtjjQdW/
 https://www.facebook.com/groups/1620447884651557/
 https://www.facebook.com/groups/206767735704497/
 https://www.facebook.com/groups/1154086175278915/
-https://www.facebook.com/groups/1067196077772747/
 https://www.facebook.com/groups/744635730390896/
 https://www.facebook.com/groups/2006136186389604/
 https://www.facebook.com/groups/745712154058340/
@@ -402,8 +402,8 @@ def run_multi_group_post_loop(driver: webdriver.Chrome) -> None:
         print(f"\n[LOOP] Waiting {wait_time:.3f}s before next post...\n")
 
 
-        filename = r"D:\job\study-every-thing\gr_p.txt"
-        new_text = current_group_url + "\n" + current_post  + "\n\n"
+        filename = "D:\job\study-every-thing\gr_p.txt"
+        new_text = current_group_url + "\n\n"
 
         # 1. Open the file in read/write mode ('r+')
         with open(filename, "r+") as file:
