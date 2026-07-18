@@ -7,6 +7,5 @@ Dt:  32M2 ( 4M X 8M )
 
 ib: 0358 965 708
 
-#batdongsantanphat
 
 

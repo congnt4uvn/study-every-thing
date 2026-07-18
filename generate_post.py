@@ -65,7 +65,6 @@ Diện tích: {selected_dimensions_key}
 - S.ổ hồng r.iêng
 - Gần chợ, trường học, nhiều tiện ích
 {selected_contact_prefix} {formatted_phone_number}
-#batdongsantanphat
 """
 
     try:
