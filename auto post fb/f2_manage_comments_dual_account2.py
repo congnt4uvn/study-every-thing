@@ -18,7 +18,7 @@ import f2_facebook_login_account2
 
 # Configuration
 G = """
-https://www.facebook.com/share/p/1EXKLYWXMP/
+#https://www.facebook.com/share/p/1EXKLYWXMP/
 https://www.facebook.com/share/p/17j6iMPFPy/
 https://www.facebook.com/share/p/1BNzab5Kig/
 https://www.facebook.com/share/p/1Hw5L49YsE/
