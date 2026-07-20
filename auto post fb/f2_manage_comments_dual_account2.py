@@ -18,7 +18,6 @@ import f2_facebook_login_account2
 
 # Configuration
 G = """
-#https://www.facebook.com/share/p/1EXKLYWXMP/
 https://www.facebook.com/share/p/17j6iMPFPy/
 https://www.facebook.com/share/p/1BNzab5Kig/
 https://www.facebook.com/share/p/1Hw5L49YsE/
@@ -33,14 +32,15 @@ https://www.facebook.com/share/p/1BqFCk7GA3/
 https://www.facebook.com/share/p/1BMp9DdAVY/
 https://www.facebook.com/share/p/19BQfjWYUa/
 https://www.facebook.com/share/p/1CmrgcCcEf/
+https://www.facebook.com/share/p/1JNBF6Dv9G/
 https://www.facebook.com/share/p/1BT7zTuhsm/
 https://www.facebook.com/share/p/1cnAbq1kTE/
 https://www.facebook.com/share/p/19FTPF54ww/
 https://www.facebook.com/share/p/18uVUFpkf1/
 https://www.facebook.com/share/p/1BknfAbQ52/
 https://www.facebook.com/share/p/1PJQrepyte/
+https://www.facebook.com/share/p/1EXKLYWXMP/
 https://www.facebook.com/share/p/1H2SLSGSmm/
-https://www.facebook.com/share/p/1JNBF6Dv9G/
 """
 POST_URLS = [url.strip() for url in G.split("\n") if url.strip()]
 
