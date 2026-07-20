@@ -5,7 +5,7 @@ echo.
 
 :loop
 echo [%date% %time%] Starting git operations...
-
+git pull 
 git add .
 if errorlevel 1 (
     echo Error adding files
