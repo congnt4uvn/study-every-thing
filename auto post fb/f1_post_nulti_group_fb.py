@@ -20,10 +20,12 @@ from f1_facebook_login import build_driver, login_and_save
 
 
 # Configuration
-G = """
+"""
 https://www.facebook.com/groups/1067196077772747/
 https://www.facebook.com/groups/1384960275389807/
-https://www.facebook.com/groups/895293681714864/
+
+"""
+G = """
 https://www.facebook.com/groups/batdongsansaigon3/
 https://www.facebook.com/groups/nhachinhchutphochiminh/
 https://www.facebook.com/groups/3643861382324918/
