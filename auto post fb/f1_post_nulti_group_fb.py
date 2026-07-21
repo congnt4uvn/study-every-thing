@@ -37,15 +37,8 @@ https://www.facebook.com/groups/1116390892661061/
 G = """
 https://www.facebook.com/groups/nhadatquan7namsaigon/
 https://www.facebook.com/groups/1194594703901281/
-
 https://www.facebook.com/share/g/1J4wtjjQdW/
 https://www.facebook.com/groups/1620447884651557/
-
-https://www.facebook.com/groups/744635730390896/
-https://www.facebook.com/groups/2006136186389604/
-https://www.facebook.com/groups/745712154058340/
-https://www.facebook.com/groups/3643861382324918/
-https://www.facebook.com/groups/380792843023840/
 
 """
 GROUP_URLS = [url.strip() for url in G.split("\n") if url.strip()]
