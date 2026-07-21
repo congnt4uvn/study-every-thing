@@ -19,34 +19,14 @@ from selenium.webdriver.support.ui import WebDriverWait
 from f1_facebook_login import build_driver, login_and_save
 
 
-# Configuration
-"""
-https://www.facebook.com/groups/1067196077772747/
-https://www.facebook.com/groups/1384960275389807/
-https://www.facebook.com/groups/895293681714864/
-https://www.facebook.com/groups/batdongsansaigon3/
-https://www.facebook.com/groups/nhachinhchutphochiminh/
-https://www.facebook.com/groups/3643861382324918/
-https://www.facebook.com/groups/520865190229284/
-https://www.facebook.com/groups/785225373106811/
-https://www.facebook.com/groups/1116390892661061/
 
-
-
-"""
 G = """
-https://www.facebook.com/groups/nhadatquan7namsaigon/
-https://www.facebook.com/groups/1194594703901281/
-https://www.facebook.com/share/g/1J4wtjjQdW/
-https://www.facebook.com/groups/1620447884651557/
-
 https://www.facebook.com/groups/301358937273552
 https://www.facebook.com/groups/1947581212160988
 https://www.facebook.com/groups/1611220702485725
 https://www.facebook.com/groups/muabannhadatquan8tphcm
 https://www.facebook.com/groups/MuabannhaSG/
 https://www.facebook.com/groups/nhadatquan8binhchanh
-
 https://www.facebook.com/groups/nhadatquan7namsaigon
 https://www.facebook.com/groups/1194594703901281/
 https://www.facebook.com/groups/batdongsanhcm1/
@@ -54,7 +34,6 @@ https://www.facebook.com/groups/1620447884651557/
 https://www.facebook.com/groups/khunhadat
 https://www.facebook.com/groups/2033587110301271
 https://www.facebook.com/groups/334883536965707
-
 """
 GROUP_URLS = [url.strip() for url in G.split("\n") if url.strip()]
 
