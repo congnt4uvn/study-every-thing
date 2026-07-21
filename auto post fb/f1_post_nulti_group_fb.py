@@ -28,14 +28,16 @@ https://www.facebook.com/groups/batdongsansaigon3/
 https://www.facebook.com/groups/nhachinhchutphochiminh/
 https://www.facebook.com/groups/3643861382324918/
 https://www.facebook.com/groups/520865190229284/
+https://www.facebook.com/groups/785225373106811/
+https://www.facebook.com/groups/1116390892661061/
+
+
 
 """
 G = """
 https://www.facebook.com/groups/nhadatquan7namsaigon/
 https://www.facebook.com/groups/1194594703901281/
-https://www.facebook.com/groups/785225373106811/
-https://www.facebook.com/groups/1116390892661061/
-https://www.facebook.com/groups/6688909131219490
+
 https://www.facebook.com/groups/6010773078979303/
 https://www.facebook.com/groups/744635730390896/
 https://www.facebook.com/groups/204882203644959/
