@@ -1,5 +1,32 @@
 
 
+Quận 8 - Hồ Thành Biên - Giáp Quận 5 - 28M - Nở hậu nhẹ -  2Tỷ4
+
+2 tầng  
+
+3.8x7.9 
+
+2.4 tỷ
+
++ Nhà 1 trệt 1 lầu, 2 phòng ngủ, 2 nhà vệ sinh.
++ Giáp sát Quận 5, Quận 10...thuận tiện đi lại các Quận trung tâm.
++ Gần chợ, gần trường học,gần trung tâm thương mại...
+
+✅ SHR mua bán công chứng ngay trong ngày.
+
+
+
+
+
+![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/48e1a503-6f3e-436b-a648-675e56afeba3_1784712400472_b959494b.jpg?Expires=1785489524&Key-Pair-Id=KX5HYW72PVJI2&Signature=C9PUiSV9OT6VTabbrIyqy1xI2~JyrPi-HKtlZfFqQwNB3U95VHTDnHhPDFssvhywGzCXk2Y14KKzi0VTR91qb4ys9OlQuhk~wr4aAqbloirY7Tx7eaHqAu7mJQmXUX5PHf4CDXJ7mc-njlpA3ysClYcBq5HrhsS-xItMHfoG~J5s6s0digOajg1lgn~VZ5ASQMu39PgtBs4HCZcmljanFQfAjPIhp~kdoQwLNLGXgVSzBvrRzISq5xrj-OBm7fdYqzlXX7N7dmConiBu3wnM9hmkhgFhmv5l8y2twLcRmF1DedLA8vl1ZIQigOQZaKa262Uo1oHyodhE~gf4o69PoQ__)
+![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/bd342c89-f348-4d8f-a6da-38c6fe8efcbc_1784712399094_e34cbd42.jpg?Expires=1785489524&Key-Pair-Id=KX5HYW72PVJI2&Signature=bm~HxRbpdz3UW3AAjuMvyA2FOnwa5ZEl~NAXAjZrgthNBjJie~I8iyXIwvVx1PE1U73QIFMki7AK4HqTa4DGpEGDyNNLFLNkV6QVMj7qFHLosGogXl8jVtY-8UBfSBRntH12iZzOBe14AaOWKJVaWLo5OVXB3nh2RwTCpUUfY3JlGnAPKbUkAr9CRvjMTJkXLRb4U1rzk5smMdOLr0Pk6EMZeQ5IsRpb8ohLXqrUqk3rESH23Pckb4bQH54hdlaDHtUhhdtRVUZO1K48NUMPKpzsx-OUCfJnynH1okCgLDitpj80kobiEjfbRMWACkqTmQlhz3khaCpO8gTU9XaxdQ__)
+![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/dcddf556-4b4a-43fd-a3de-f0c97ea2d517_1784712400028_63320ae2.jpg?Expires=1785489524&Key-Pair-Id=KX5HYW72PVJI2&Signature=SEs79qX0v5~GjT~O2uX9O~MPiqt~wVZBmUyGJljtgBQ0zH2bOb3TK~5qvn1~3O2jqGzUDKRWx04~8aBS16bey2AhaReX0jltwR6MSiiGdUvVeRlJxTU~TSskY0JI3VcD-S7eLl3kkDtmqK~vu7uA2PMtBgm82-aeS8GK9P5XHgimQvE2Kx37o-T17q4u-GyN0zuOw5YrYlkCV84DFPZlg~bDA0~yp~NQs5989yim3-27ww~oJfoqph7JaI2LIXxkMDhhGWZwVD~pO220xRRJLUPAfb0RBYbrswua2nGcumstAkRMESxjxmruWDHCXrr9Q7KAxoRz~Go7f-2~nk14cw__)
+![Image 4](https://dms3amyi97gvv.cloudfront.net/Property/4e974b87-9530-4a71-96c4-dc2796be18bd_1784712400156_851c5ef1.jpg?Expires=1785489524&Key-Pair-Id=KX5HYW72PVJI2&Signature=tCONCNQdjLKIzt2iDe3ajUt2~C7FNJSONa3YL0HNXW5BrKRfIFV~MnjLs7JSg6qtcVOEkNW1D0yRVL~1PD2BY1m-2F8Ex6WnaPh8OJXaDiKgd6sQUgMTCyWEnUtPaosIMTcjvv~1~UkX2ZecrV9LDX6sikeQ-doISpQvqc55LKgk2b7SGdjoF9XVP38bamNDXIQRBt30RvctLP52mabLfuXEXcrJIF2tc66KPlsqSqMxW0SHdgMvR8NHU5SCjodnRfyK~7haAMPgZ6c6kwr9M5to1bTndOjgM4JlgkPavdnvXkMb2xhMCyOSBMRSKTdblbJ4MXd8par52iCBbP-kEg__)
+![Image 5](https://dms3amyi97gvv.cloudfront.net/Property/0fefe858-7ddc-482e-9329-8b22a202245f_1784712399994_6fcc5871.jpg?Expires=1785489524&Key-Pair-Id=KX5HYW72PVJI2&Signature=JSISL6W2iPNcBc62m6iPwpTz1Www~RvHfJaq9nPYQ5-ByY~GE57kiljpZQDBaB6n98Y2WR9gMouAe~un2ywnC4fORmnjBqKp9qfhEhi0RaffAyIecFcVZ2SbilMrnY2FNkuyH4tBB1PJkvxR6x1e9c7agILAEVpPSf9hsOnC99dZvfta7F1gNCZKBF5I59KAfbt8iNpxkrsbhiFHpZ2I24KC5tjhz7Nioyp6QHNt7m8C6~iXCg0avYvsY3T6okOsAwietn9PljG6cudJsbldwdgW8hjOrOEUrsJ8FQqbkHkZiUmRf3Gc~cIOFhg9MbITO0YP8y8zbT8N1xiECFGo-g__)
+![Image 6](https://dms3amyi97gvv.cloudfront.net/Property/3e9fc1ce-bab6-46ef-9018-f7cfbc784aff_1784712402243_4b695bf7.jpg?Expires=1785489524&Key-Pair-Id=KX5HYW72PVJI2&Signature=nwUVKpma7uJuREZP-XSuYarDBSLAO7QG1D5i1tnoFPUssfBQ8Rk6~qbuTxEcD88LDrGTyRdcWymmWLTyfr5Jd2TDNftDuAWtUetyHE-1DwsVOaUgXr00Hgsfm8YhklVXEvf0osmp9L478zUnGc01VdO-T3nzbf~DXNQ6peUVGcl-M5owcAR4I3UYjrsRVUacChcnkSxaCDAtfi9yEkL15thBXT2kvFoxRNiQsEry4jcr1g99dnxg4i2X9tMaY1N7uA8nas6FnMF5Br66Xp9bwyaWliNg2JO62UX0twybgjBKxG9HfyQk-PTEuUSZ1TvklwK~mNQGg-BpMKp-wuBUEw__)
+
+
+
 Lâm Văn Bền 26m2 2 tầng
 
  3x9 
