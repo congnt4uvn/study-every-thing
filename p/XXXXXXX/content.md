@@ -1,5 +1,21 @@
 
 
+2PN , 2 tỷ75- Đoàn Văn Bơ , Q4
++ Diện tích: 4,5x7  tổng 33m2 sổ hồng công nhận. 
++ Kết cấu : Xây dựng 2 Tầng, 2 PN, 1 Toilet+ Giá chào : 2,75 Tỷ ( thương lượng lộc với chủ )
++ Pháp Lý: Sổ riêng, hoàn công đủ sẵn sàng công chứng, khu dân cư
+
+
+
+
+
+
+![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/1c29cff0-aa4b-4928-b060-796623581d56_1772674630271_a9f5a072.jpg?Expires=1785491448&Key-Pair-Id=KX5HYW72PVJI2&Signature=KjgwufyRT8Y3N-A8CEs0cutvAU6~ou-FSqQLXObHTQwaFUNHUZNPdAgK9SJiJJEe6H5Swy-SaM74zJpP5t-bknUS~SltQltJ~PuhUzHRBRuJ-gnk364oeJlEhVURMyf9GrUoRSse3SKg8tDLaFxgxv3F4Dck11FhQMn70~TtJGdk4XY8OU0ZOz3RbUceS1p4jtXonZyCWcDECcLGE37lFQzLIIEbVtnzir-7uYeGKuLxkyH0FcgBJySRhXgC4wy4kn36SHPMOHgCe6eRLHbFVoYdoMbKYiH-SF6R9dCBvs5nvrot~Uyoy8kp7DGU087ZDllkJS2dWMzPNGCIgRhAuA__)
+![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/fa78930c-90d6-4bf0-b9d4-0562997c4c54_1772674632088_00c057fa.jpg?Expires=1785491448&Key-Pair-Id=KX5HYW72PVJI2&Signature=HoYp2IBOidvcd7ZgOOOdlpAodh-PqtbblHXtSv~s1pITGWmFfyVyYRf3~Tr7suNrZaj6K8aNkDKRuYf8ahXnuqBJgS1WpFilMG0dmg4Zgk-llubeyVtTCicCZqckOXlLNG1UbheW-4mVSGszFNkvRKGpv4aUf-zxm0zNK42tgPbtA5P1HO~MaNuySpDscUBG31HKS1dJDPVX-8a67Vv9dwvXTcQtcMWPGxJQIkF~K7ErHHYWzYbFg2LR7XaXATD3kGf6dtAkJ--5ZFyBiDCj9Xq50MLdRFpS-wzZW5XQvglQ2XYZ8bJqrY4f591Vn2uWPtN~WdA-~CZZC8jGOfbYBA__)
+![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/9ae85518-20d8-4383-8a8d-f93287d1af3d_1772674633420_6bb1d21c.jpg?Expires=1785491448&Key-Pair-Id=KX5HYW72PVJI2&Signature=kG~aVVKOYckNDPVRhDseyPGai1TG4zxgfpBM11s4HSnEhraUaX2wL37mj5FsVY1lmVa5dwKfMMSo7IKT6QrAz~E1ROxGcBhmO7bdKMIWc0LSr5CqtXLqz40qTtkL~R1VLYcD141xXYtqPFZ4YlxyvUMWonjRY82GvC19ILr9S59thAos3CoHB76xPutKLzJ0xnlXsh7TAG4zw3ozvXwm7mvjuPwP5S1DNTO5-pQsf0qAt4izmwK63aNqNPHdqlv1rVFhsVj9mAxjFo~OmseKtnmDhR7KAo2OqQyU4jQK1Dnmmf0kAO3oEhxIccEjOqdaa3JJEDFgkoE5RlUMeTGfow__)
+
+
+
 NHÀ 2 TẦNG HẺM XE HƠI 6M –  LÊ VĂN LƯƠNG, PHƯỚC KIỂN, NHÀ BÈ
  Diện tích: 3.6m x 8m 
  Kết cấu: 2 tầng, gồm 2 phòng ngủ - 2 WC 
