@@ -1,5 +1,36 @@
 
 
+Đoàn Văn Bơ 25m2
+
+ 2 tầng 
+ 
+  2.1 x 10 
+
+  nở hậu 3m
+
+  2.8 tỷ phường 15 quận 4 
+
+- Nhà có 2 PN + 2 WC 
+
+- Sổ Hồng hoàn công đủ ,sổ vuông vức ,công chứng trong ngày
+
+ - Khu dân cư hiện hữu không bị quy hoạch
+
+ - Tiện ích : sát bên Đại Học Nguyễn Tất Thành, UBND, cách phố đi bộ Nguyễn Huệ khoảng 1km...đường bê tông cao ráo bao không ngập nước
+
+- Giá chào 2.8 tỷ (thương lượng) 
+
+
+
+
+
+![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/ca63f161-4b9b-4697-bb89-e93d3563a6c6_1784621810967_917e4ff4.jpg?Expires=1785489854&Key-Pair-Id=KX5HYW72PVJI2&Signature=MW~LM-FM2lCj9PQntzkV8MmhxhisKHwipv1AbxXSAm0Nblukzg76JoC8G4ZxTQ5dB6kPcVUFzOTeIia05EELi0fyCaTl3b-skDl7mmmDABQnFZz1-4OB9Kk0qHAS2GJDzXboHJMjboRxU9pYlJMf12sjtW1AvIS1tQi3okW1FYNslDC02al2ZD7XfBrBaqpI7WCj7w82pIJSd4BkdvRGSoxFZ1cmkTkwoI6qH~ABYRyWXjvdOZhPsH4slESiFnKJ9~viphF~v6raiaT6~JONEBh6gRxaB4ukq3NZljldIdYyxcrfDDHAn0spO6wWcQqfbHN5ai48D9jR4JsTRaJiPQ__)
+![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/9e0558eb-b44b-443c-baf5-412bb6b01db9_1784621810969_b82e02f2.jpg?Expires=1785489854&Key-Pair-Id=KX5HYW72PVJI2&Signature=SaeBMR-JBrjB7~PLRFSiyey9Ihxv4wOD8m6UuDTXv7XEYV10Xms27JseP1aV5Uly3M4Shrkj4t8bM9tbVYi9hjOeCoY8SAO4J6sKMAQFacDdW7oV0GA17AKz1ebYsBAfMJ1aM6FSZoXrStawFojCJN8Dzd29QFm7l8er6adwXM8KODss69iiGSRA2KGwi8PA1mZIM07uHwGOix3ToU051lQbLCr4eFSCvcML~Jr-uFsUL81a3~bLGMGMQYdmGnLE54kiByvG-w3OaiLRajfD9nZdYI1zsazp9kVOmcm12MoHpdILJmdd44pEt0tW-D3m90kZT~gf8hdAxtXfHuz4sQ__)
+![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/6091adf0-7251-402e-887b-19010236c6d7_1784621811006_24c2d29c.jpg?Expires=1785489854&Key-Pair-Id=KX5HYW72PVJI2&Signature=L9kp2gKhBYwjd6c-v2cKSHEHMwGJnQYAdvmOm2sSs6FwnXUD-DHu3ruviJazIh1p9VvBPc0mtmDl9Ru0~QFO3tM4yQTstox0ZuOJ4yaahkupTAIWb3eR-DmJX6AsTSjQcgjFRDMSzBOPYHyiL4ggpff8xxntiKl9Z1RCa6evPQFSq5Jil2aTcSHuy5iOuFeCWIaug6aa4dAhS1g~Z1Lb8xvTSo-6sP6eXOYDyu2bJXqiAVNPWCXp7JE2Pad1W~KsFilG6ELAiBPIRVDL-J5nbZdiyM2U0fLJpnYbZtAh8m~B9c2gEjyii58OOLc5J5NUFXbcr2KVG3AZ0Ix2OQSrXw__)
+![Image 4](https://dms3amyi97gvv.cloudfront.net/Property/0abbdb76-5544-4c60-96be-d49b57ba7570_1784621810969_935827cc.jpg?Expires=1785489854&Key-Pair-Id=KX5HYW72PVJI2&Signature=QXI1cjtaouNxfkHkZt5k8kv7HW44QU3wVus2xUqZ0nyuX-W-siSZTqkT6Cfcwdph~3-3IjONAtG5JNn5cPHyzH3Eda5SBKoP9SnRCQpJvRGE~Ryj0MNTWX6fyPWK8xkbvO0a8LbGxsqJz8ePRiDXXnkvS-FncHiMq7slxexyVD5qrsQLrp99BnYmaGM8KPXWyEPtjX5JyUNOsokHc6~2goF3DEMogf1dHFaogeVl2Ai7Tb0GlrPflDee2H~kB4-O4CPAJ3ECPyX6p9kiFmNduRP78zfWn1PLxlPJWGv-IpQSK~AnBqPtzF1NO0XbXGvNCanlZRCpYpOE5m4fHfhEMA__)
+
+
+
 Quận 8 - Hồ Thành Biên - Giáp Quận 5 - 28M - Nở hậu nhẹ -  2Tỷ4
 
 2 tầng  
