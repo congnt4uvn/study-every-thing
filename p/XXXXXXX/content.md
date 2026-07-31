@@ -1,5 +1,20 @@
 
 
+NHÀ 2 TẦNG SỔ RIÊNG 2.5 TỶ HẺM 1716 HUỲNH TẤN PHÁT 
++ Diện tích: 40m sổ công nhận đủ 39m.
++ Kết cấu : Xây dựng  2 tầng, 2 , 1 
+
+
+
+
+
+![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/3b4b785c-0246-4f05-a332-21828eb18125_1784381069598_c4efd50d.jpg?Expires=1785489555&Key-Pair-Id=KX5HYW72PVJI2&Signature=WX0TEXjt966XP7oXwBpY1hJHU3Kqqur6lJk1JWA21dQ5NVp8WwicV66G32v4mYzfbE6P9408zFb4XZTvaFiZ6xXM2tWB3MxZH-2a3Nxfq8zJUkUJto5xs6K1l0TGUB39w9zTwg-sVlA-1Qd0Hu9Y06fWMaZODnbHMh3q4O-mVm1dYVZG4iEo7eGD3L~GjTk~sQNNygo1oo07HgYUyD60tbSW47F5hg4aDNjJeE7at8z0FO68meQalGAAJYXhu6tXDUocxd-c3KxxQ7s-ObQArneykHYMNCKHtH2Y1OMp7nT4cBJSBN5tRLLoLs8MWusRauv9i9WVPyoBFlOEiXV92Q__)
+![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/09cd763d-b1ea-4fbd-954c-fbead673f685_1784381070483_c3f8b5cd.jpg?Expires=1785489555&Key-Pair-Id=KX5HYW72PVJI2&Signature=KluHWykvwUlZquoxd1NyJn3S6Bh-N7jsHCYVWgNoWfLCUVD7M0ADJV31RZlq2DTcXVbFWNOIIQpWFfXa6FeW5r016DFmD2tDuFLzqvoG3o1i8Pc8tSIHQ2qy-RIdxRJnXj7vmMU1PJJkAEnq128Gzl8zYFl8hDNyx-lwmbDLoDDAo6-AnoxS751xcr99z0eL~8O77F0CBf7eMnhQevkh2OFAj7hsdr~23Bq5v03cn4WnstrQZNb7wvkFaQ6tKsm-KuRHyOI9x50raAX1Gp7dbdfNmG0LsbAzfiKbzjdim5NLTmwRgsiKfDj4eTKDmIVFDBFlFzyJ3ZcQlq0JNjRRyQ__)
+![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/2c472dee-435d-48cd-9a71-0da068efb41e_1784381070505_116cd325.jpg?Expires=1785489555&Key-Pair-Id=KX5HYW72PVJI2&Signature=L41shhtAxFQ9DxHvlmDdAKmSBTpvKdfQNYoZZ4Bi9sfXRT~pDxtl~3QkKMmJZ2OKUTmI8AZ7m822gQtIyvYybBJnPVdsQ1~2I~NvZHsF7r16eaMcOki7KCPGMkRTjaNBDlLj6LkROccu6B9VqtiiLrKrPOrzvPPAEtqL6JdWL~Y4B4kxSLF8JydZnvTuDbGllaHN6Y1tV81EKhtG6f2KNuThQZf-Et2ZM96yKUiFVC~mgSE5Av7291S7GBmGwDxyNAqDhnmhuuGg1h~A5fTAM3WTe6zKlPwq5HkODlAZsj~Mwdv7Zk4iHUbwrRvTVhKDjvDc1LXFAcAL3LLkTvReKw__)
+![Image 4](https://dms3amyi97gvv.cloudfront.net/Property/3ac83d98-b0be-4f90-bad3-8b03fb79e277_1784381070485_ffb0fa3e.jpg?Expires=1785489555&Key-Pair-Id=KX5HYW72PVJI2&Signature=OLqGX7hL0ykHv8grw~blVCI7kg58OaRlUHszMKKNLp2O2Y4QTq5yWH8Bzcok-HK7Xri0y~qmTkVnSdxqlgXOund0a4C1aOOaNpqULS4B~Barh6jd0DDYzodfoXyxEcqrRlL~M7vksVXz-bPqii1oyzKFf8LTv~MU-LigVU1INHiW~MWQSZBXq8PznhSTL7zP2Jz5dbhlMBSB6tGaFkXW3yugQmo~KZPtd9MZ3kVQ8oe0DEjb8pQpEUYMaMMlSAhRg~qJRMU0YHtUFNW0Wjp9lk7UjIy1sFjOkOfwAtqKJDW3NkHCia4b-QQ90ELWvCpRn8VRwFMH3uoo1hIOLJ-ZKg__)
+
+
+
 Đoàn Văn Bơ 25m2
 
  2 tầng 
