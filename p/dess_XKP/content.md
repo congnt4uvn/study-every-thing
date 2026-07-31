@@ -1,0 +1,19 @@
+![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/1000013693_1770265705873_f62cac82.jpg?Expires=1785474542&Key-Pair-Id=KX5HYW72PVJI2&Signature=vOhWVad3UC4XBr0aC9QLI2oK31Icxjf7jGbhcgtfuSmjZ-kn1FSKoFo34roVk5sYFFIdnnjMjRdi6dXDXWIzsvnY-cYUKPElziw4x3H0GMTVuq69qAKKn6Xivp8CFR5v83Zt5cdpzlqU033A2kcGG6OGSaAf9nS9pahNh1RFnbABTjzqe613hsffq52pKe2t2yIDHLiQlodguinMRsnECrRJzjLCk8uxRfHbkvZJLKT81lxLXXhb1~8~nj88PpJ~gBZ7cgiiPuUdh1taP5GMiI3MIxlzxwou0KiDKaAanpZ51QkGxakGjJ5YbCfshGPRFl~5ibVYs8~5WcQtd-mypg__)
+![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/1000016508_1779243997809_7e5aeab1.jpg?Expires=1785474542&Key-Pair-Id=KX5HYW72PVJI2&Signature=vKTx1KKkEfH5TSoT0hPAIR58wZVX8BH3P2TRFEqrlJ6ijygfZkX7d05zSzDA8Kv3vPPFktU1gjZXrfLpEJ-exx-c0H9XTxitFd35R9wWzGfVLcoRXkrVmxBcUwsRmQCJjM44FQwKChxy04gWtTWrls7Dv6lCJ1815KSE5TQMU7nxV3VOD1qBmU28278pbRUa8kVYVm6zWK~9Piz55UV0P1aWjTUBjZqGTdysT50diWQHzygB3Kvbmes3B8WOn-zSROv8ZM5gyOv9-p6fS1JuwWFMqp5jLLCze9jySRMmNxrXShBGNsYarlNb0CkslrPl8kjmHwP3kyLvJADMt3v7Ow__)
+![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/1000016510_1779243998399_41c5a815.jpg?Expires=1785474542&Key-Pair-Id=KX5HYW72PVJI2&Signature=Rl8Anll1KZ27z6LF0EUz6mMFaRJwiuH19G-2y2jP-V8ChphrF4aoKhjmcjSuZ9AA02De1s4GZ2WXUZkz~9IiCauDws8n7poo3BOPWIYYBzn8lN6aGDNL9qZqwwkNQfa3s5Olr2ls86lsO3lQB1g7hdnlPSbWenyB1PoBWsRXFSRsHosbq8~T1dklxUHg-8HgqDHTd9OCWdonSjs2mKokDo3~OGsvK1gghRWL0je3Va1wu2~lwkk0hdkT9w4JJ3MfUDVLhIGC9edFBM0bw530nNmkoflDERi2ZiJBVeiYcXZxQue7Cql24EYJji~3PMFniRSIkQnzO1I0SbKVpJGniA__)
+![Image 4](https://dms3amyi97gvv.cloudfront.net/Property/1000016517_1779244001983_ba9a392c.jpg?Expires=1785474542&Key-Pair-Id=KX5HYW72PVJI2&Signature=vrvvOfdtg6NS7T2yHaznfaLkvBdWiKEplCptpL9z0XkAgefdhHLWVzFNVMqwxDPcpZzwk~d1LeVvw4zJHJRJ1wWDOprNp9KqSKesdO5ctm6OJL6b55ySwypZuOHa1boLbKNp7s8KSUYUMIqfTa7aeIdlwA17bLwAH9q2vHnuPqeB0-F76tycQwGXkfy0tFYUGFkTTJOJDkWQZtyVCz9d89JMNoAftVU-G9UwiJKbRRLZ71v6Z2T7FRIL6gAG5ylhc9gvi4583RotJpzv2iLut3OQETzdEFtNW66C0a-d5AcFHa7EgJ-AFYT8BYGhG5-ovEuPNlmdNjc6~q6JLeqI9w__)
+![Image 5](https://dms3amyi97gvv.cloudfront.net/Property/1000013676_1770265705290_e47ac37c.jpg?Expires=1785474549&Key-Pair-Id=KX5HYW72PVJI2&Signature=kVzrIlAcVGnucr4Q5icQOlpV1Y8nxkanGz3z1tKJ~QHUTb7s7H7ii6WhyBfkjigrHGXvaVzgvYY5PvGlR9ii8LZRbODwJXSx7f8TdBR~H1-0uoQOHLLaeQm6lY0erACxqmOnsncFtjtwOJf2MivVDMHfR9vswQOSErcw6~KY-8vaH-wVzc6SScLEXjmXRf99i-9k3vFxo0YddijRGGB~OKwt5HatqNgidwCLPPFvcX~wabNfoU49kMPPTSypWJAqBIf6lN2yZhnQ9UX83V6Fbd69WlJeBoitKPBe2LDKzd9CWNWN0~wx0B9~YM6TuVp41WqKSI2K9Pk~gLVOm1WtvQ__)
+
+
+
+ Nguyễn Thị Tần 23.1m2,  2 tầng
+ ngang 2 x11 
+ nở hậu 3.2m  Diện tích đất: 23.1m² công nhận đủ trên sổ
+
+gia: 2.550 Tỷ Phường Chánh Hưng (P2 cũ) Quận 8, 
+ nhà cách mặt tiền 70m. Ngay chợ Rạch Ông. Sát cầu chữ Y
+ + Kết cấu: Trệt, 1 lầu, 2 phòng ngủ, 2.wc, ban công thoáng mát, đầy đủ công năng
++ Hướng cửa: Đông Bắc
++ Pháp lý rõ ràng: Sổ Hồng Riêng. Hoàn công đủ 2 tầng
+
+
