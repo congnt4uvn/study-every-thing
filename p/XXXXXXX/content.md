@@ -1,0 +1,27 @@
+
+
+Phạm Hữu Lầu 42m2,  2 tầng 
+
+3.1 x 13.3
+
+ 2.85 tỷ
+
+✅ 1 trệt, 1 lầu, 2 PN, 2WC, sân trước nhà rộng rãi, bếp, 1 phòng khách, 1 ban công siêu rộng.
+
+
+✅ Ngay vị trí trung tâm Quận 7, cách PMH chỉ 5p, cách chợ chỉ 100m, thuận tiện di chuyển sang trung tâm các quận không lo kẹt xe.
+
+
+✅ Tiện ích xung quanh đầy đủ, không thiếu thứ gì.
+
+✅ SHR mua bán công chứng ngay trong ngày.
+
+
+
+
+
+![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/17468_1778871941499_a02502d8.jpg?Expires=1785487293&Key-Pair-Id=KX5HYW72PVJI2&Signature=F9wCyaeswB2vwWUuockVWLVzyD8qySH-OBWv6X-4KR7eqpawoGNRvOz9QZ0HVhfFsa6SxzLOy1XNCKsbvDGDz5Jj7JgLFiDNv5VI66rBcuVok1mWGZooGlLqgcWZEEFZXoPV3ej9gRmr5ATaplegs83xyW0VOfPqQQ2bFJEq-EENgscKt0yRL7GEqML46XvbJHc54-1m3Pk21sBoY~wMudxGVFhLtWJDOTsk6Ul5TUtbXe8RnDYVpamo0G4ITGXJtG~0LZ6one7eiGSfB4ULI1OSXznQdR~TdX1i106jGlpMQXQ3l6LbnA75k4aRSWnVpOERrBbjm5GrFAS3-1Q6Kw__)
+![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/17469_1778871941461_fc836c71.jpg?Expires=1785487293&Key-Pair-Id=KX5HYW72PVJI2&Signature=yRJsHGtC89aegx3S5TS6vIZn1vIDpFmlenSKXKHRppLbDtUyanIbX1mTR9WfreddHSw7NM1aSdBUfTh0E20bQkh5-26AYpy7fs1exFU46B0Tstgbd4aVkqiiqea01u9gmbv5hBp~63ZozxJUYvgdG-Eqr~lhqByzxmD~j7epwrkEdvJoQ9o0C7irS6TqcuFpfWXnK5YwCMsEwnXTYqBV1uEjeCqQyBDuPF8-CSFEYra1A6XKUGah5~RXpqXOVGAUFUCwI2Iey~6YR9mZsKLbM5zb2c~rUdxJRLYMbgnP80LGWOvyn818kcV4w-TjQu~eX0eEUQkM2j5uK1s-D8vFTg__)
+![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/17472_1778871941454_f0ee583a.jpg?Expires=1785487293&Key-Pair-Id=KX5HYW72PVJI2&Signature=aN~6eP3bdwkbkNTVNrof1QgbRrUqGXKtY2K1LgyEcu021a8xmrQTsO-SC6v4p4QOaqcA1lv9JRK1jfr0SqeN2mlhrIYbIMgvPe-RoD0A8w2YIbmLOW-c8xcw6mBL0nnmvJu0kROJmNhb8hYOFom07fEnTZZXglgUjmzpsV5yi5vaGOHnXTskrP6z1GKB1GpnRlnFKe1~kdox7JS5r16-widGFYFCKMaQeFljjPbI8WDyyvmSH0cFFk8VHeSRpv9FIs-JyzQMNxCVqeCzBvxO9hoNICD4UYy0oA67kb38-TZ9QBcvsBAUa3b1HZ7muQ7byccY8Fxo4CMeI5oOiDukgQ__)
+![Image 4](https://dms3amyi97gvv.cloudfront.net/Property/17470_1778871941396_36149f61.jpg?Expires=1785487293&Key-Pair-Id=KX5HYW72PVJI2&Signature=YtRPqSdXVZ3DKEoezLXTsgtm4ADhcFWFdPq4RtJNA0DDRzG8HuHxSuCjnEeIxfkrUCjvtD4KkGHGWAatitRZWGyGcMoJxXOq3aJFJeqNO3SehVSMW2n6Qz7wYPxjq9Q1iSZvxLaIqyOQJadZi2m-AQXyUXF82ahdBaP8HU0IQEG-mAo6RAgKEyqnJoAr1oPQA9ym14zHU2O2GtsVLuTsV0pyBCsQxtvmkt2~BkAePFyvk7Z3nrgkFrwVn9bMsSFgYehmtsjgKGkS5LojcwZ3Napy6XY6LTcH4v9XvAEYpzgv2~RGruXsAHHdTwJbhU6QqAnuxGsGA43oT3N3sgyHXg__)
+![Image 5](https://dms3amyi97gvv.cloudfront.net/Property/17559_1778871945303_74a4b9d6.jpg?Expires=1785487293&Key-Pair-Id=KX5HYW72PVJI2&Signature=ENwUzSzpcpz5RYWwqwgZWtWmEm9piKIRih0IjKJKhQ43UEbpN0FB7oFHchqNBmf0RapRB8NZjNmUtxACglpyhPN1~ssvwNI5jMmZ017bYrk0v0R5wvkBFC1LOyGcUnijZ2IkbMMMmUPKIO-po0mmgPsInUlypDNiiCaxIVuWWS5fLI3XyFEYQV0~QfUabEdBiCH4iJb9eJYac1F5oLwt5gPP20Pg5B~icy6wyhY29r0vLdKKbpxg49rIHkmF22Ks8i8~1xScpebCeSzZ~0rYpMACLpX-VnAx0CBXGItF8FjBYMZ43DoC4F-oKVeyDui7BTjvXiO81dCVC-VGPMBbyA__)
