@@ -1,5 +1,27 @@
 
 
+NHÀ 2 TẦNG HẺM XE HƠI 6M –  LÊ VĂN LƯƠNG, PHƯỚC KIỂN, NHÀ BÈ
+ Diện tích: 3.6m x 8m 
+ Kết cấu: 2 tầng, gồm 2 phòng ngủ - 2 WC 
+ Phòng khách rộng rãi, bố trí hợp lý cho gia đình trẻ 
+ Hẻm rộng 6m, xe hơi quay đầu thoải mái 
+ Khu dân cư hiện hữu, an ninh, hàng xóm thân thiện 
+ Hoàn công đầy đủ, pháp lý chuẩn 
+
+
+
+
+
+
+![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/27721_1780587290832_eecd158e.jpg?Expires=1785489956&Key-Pair-Id=KX5HYW72PVJI2&Signature=kJFKG9sOVfkdTTx5UE8ImhJzrNyVK7YSlvMVwdA-I~UpTdfhDx0BvewK2V0Rrp8PBVpMbdIzu2e-oYWTXfCaR5zeWhncLB7CkiMcDWUCg~Q3aXE8yyog~EtlTBsaOBVUVVhbZ-OKlbPPmt-fEGd-yTwR0cQes5oTSU5yOHXTahBjxHFd7i0o2SeMYXnkb5p2~LyKWMvK7y-Gbohjg9bMKUDSgaZB~Hg7ncxQtmlzlrHArh6UTlEb-AWHBvio-45~VCY7EwJZhbilGYx2c3AES2dohjfjVh4k0ZH8vgZiT88oa9hBtscsi-6oKScIZC1EqcbVYV5jg-fK5l51qoWO9Q__)
+![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/27720_1780587290901_e15c1182.jpg?Expires=1785489956&Key-Pair-Id=KX5HYW72PVJI2&Signature=hG54QOIEL3Ie4UxDe89SdG3AZWe0UJDWsSQly1C2MAFw06uYzcJQ-XI3vWQFUL2xLpJWNsqJcU57w6evZOpPU3LEJ9zJMMdb05FSsLQptODMOzQZfYhihIjHTCdUuO1kISq8OrReXkAuXFvri0XolmtK5Ccpl1t7le~DCETepleTsD5m0GOgQ98EYhVvwqnz8c53S5jtYd89tzOZEs7IwksueuNe7yy9Z6hrTWO22xu9OoMDAET2vtatLnDV9VD~ns2EiD7fqCy2iim41zH1qUEHmUMdg0dmhLg6ZWSlssFHKD9Wunb-MrJgrD5T-qTRgkGn7AbhV1SKbrUrfYDkMg__)
+![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/27723_1780587289501_5a32ba8a.jpg?Expires=1785489956&Key-Pair-Id=KX5HYW72PVJI2&Signature=hlOH2MxHhggSu0l8UEMUoJemNRSlFl1IjHgPHAAg4gMBYLXzJhcKclAOTszyb88BzWKUrE6rwj9fl~dmVXu2gVIQ~aPB3BeJI7sIao8Osf9AEMucqnpWVjKZa7QCAu-eYLrKiICKAp6QzrgyQHqLsOCwUiEoZatWA7MoyJbDe9wpn~SLeTaXTQTEUAKAkjm~TMCGllBg4WdsiCk4V8mmwVqhHcVF9Q60~kNuthIBlCqV8-BLd0vdOlpd3a4IG5EnQTXnmlQHEzEUNkiySkQNsI07P6Rm0niDSJ1458O5Ns7-eBmV9EDnPJEuz2OoQDIIZvyMNOI6kZvr~UZZCPF9qQ__)
+![Image 4](https://dms3amyi97gvv.cloudfront.net/Property/27722_1780587289197_a5ecc73b.jpg?Expires=1785489956&Key-Pair-Id=KX5HYW72PVJI2&Signature=Dz35ODqBEs5oW~5MDQOEvKl225s2wEROx7EzE-dg5uqUF1ooCDlhoLgdQQoReBPCMR6o5WXZITny8-na79N8Xuq4DpGtn8zEDF8MGMKb0-Xj3lJFL8PxPzaMpyHN-MLwR9pxUw0cxVQkGCnWUznvf7yTwwW1LxEBYOtQlF00G2M4BOUpvIGEuZQC-0OrWK-0BtAeKxQwTgCulCzbW2CkSqax~SVVw97tUKgFnhR0MI7-FNk41QAPPFEwS8zYM7GTaO9MeuH65doxlOPccEdAndqgr1gpa2DiHanwHdgQvKrQ1LObo8QsLjj~x5AOzcxJPkIIYWgTjBG9cLjbfWb5GA__)
+![Image 5](https://dms3amyi97gvv.cloudfront.net/Property/27725_1780587289179_2496137a.jpg?Expires=1785489956&Key-Pair-Id=KX5HYW72PVJI2&Signature=JgDwf16RaveMKPMVjcveEzhNHD2sk~qBJ0EVbKy1daRJQjm2Rgl6ykJgplRY~YrfuscZdlPsQ6Z5r0E5IaMxbZ8z10VrbQJ5~VlJj6l~qSWrLlbKv~ryhmN1xPh9G33BhSS8E76hOmr8SKXsdf2TKEmLfDaWXOB9E~593GbspX9S8CSqzX~3LyghvNJ2Z9e7Ur-NgILaOzKEUaOrfpTIODh5l~U~KEZzyX9RPnXA3LYHBFxGKGxsoEKOx3uhQnRvHuGevqrGCZR1mdo88hny8jLtPeZIRzq32lQpV9tgRO8-QL5WnfxKIhC1ZsOHLmtU2YuZyrDgW1eO4eznY3hriA__)
+![Image 6](https://dms3amyi97gvv.cloudfront.net/Property/27716_1780587288209_ead1a699.jpg?Expires=1785489956&Key-Pair-Id=KX5HYW72PVJI2&Signature=MZhsVkz6-Z~O7t9LKmoUdmfU69AiYCEJLSYbiGyCRYuMhuUAP88XSzwB90HBsZvgKfDye10da6~FY8jkaGsIsJeS66cjypxWxP-p21fQwBFPde90EJ-cSbE~gS~WwuHW4bSxbFrPaWtUAakRlVRQEVayErCE9YwZ3vaxXZ36Xr3Fe1FKbNdmAdrN3eKbAEVJobqHIX8Mk4Bxh6vCnVX0I3hG8FJdNRI8qJ-WndLV3FdBrFYNkIMgCFY3tGI9VbpFvWYhhaZ-7cNUmUfIyw8QmX3Mk71pOMeGNFNFrxuvAd2LXyaeFMv0MpoCJWxI7ey65pmERifxLhYY3l4fe5UhJg__)
+
+
+
  NHÀ 2 TẦNG / SÂN RỘNG, HUỲNH TẤN PHÁT, SÁT PHÚ MỸ HƯNG * QUẬN 7
  Xây Dựng : Trệt, Lầu / Sân Rộng, 1 Pn Lớn ( ngăn làm 2 Pn ), 2 Wc, Ban Công Thoáng Mát !
 🇻🇳 Pháp Lý : Sổ Hồng Riêng, Hoàn Công, Hỗ Trợ Vay NH !
