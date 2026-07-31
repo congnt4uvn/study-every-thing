@@ -1,5 +1,22 @@
 
 
+ NHÀ 2 TẦNG / SÂN RỘNG, HUỲNH TẤN PHÁT, SÁT PHÚ MỸ HƯNG * QUẬN 7
+ Xây Dựng : Trệt, Lầu / Sân Rộng, 1 Pn Lớn ( ngăn làm 2 Pn ), 2 Wc, Ban Công Thoáng Mát !
+🇻🇳 Pháp Lý : Sổ Hồng Riêng, Hoàn Công, Hỗ Trợ Vay NH !
+
+
+
+
+
+
+![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/db80e484-ecfe-4f8b-bfa8-614027ffe605_1784371936783_a04870b8.jpg?Expires=1785489749&Key-Pair-Id=KX5HYW72PVJI2&Signature=PAkzr3XuwHerg8T9Awo5TbqZtGY-gq4mV52nL8oR24J7oIDTFvy9nL6hXRuCR223hbfcCX3QiOwoQdILIlVYisX9RrpHjymS40nimix4TsJ~SiPAZQBfmbxVa96FcKhXOoUSpQ0dv81jkbePZ1o7tJxms00x8wuH~CAXHwpw1gxApeIqyoEnAEA2aUGLaTvLRUHXItwdaFgOoKflx~T8lW9Y70NTJZ~C06Tk8GgpSIsIWuJCqYw5wNaj9C7r9hOrBKMTNikfnynIRMNJo3jzqc~B~BjX3PSMpxhrOWusEA0nkpU~itRy3D0sa7vrPnCBVxe61vBl-A38SQWtmrKP9g__)
+![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/2e0cfdbc-fbfb-4318-bbf0-704420c8fc82_1784371936856_34a58afd.jpg?Expires=1785489749&Key-Pair-Id=KX5HYW72PVJI2&Signature=GAHhDtInyK8IPWY6yLXiTX7sg~T9bpteyvh~sMj5UJDNVmCNXgcfEUsfZ56hVjcwtNfM6RmqnzWVIDgLyEcsCl~ouB7eGr5micVmxKMwLm1hpyBwZcglMDALRlZNPxtj-C0mqoIE7phCSqWMxX0aZ5R-tqlK1Mo6lE1LyKLdlMCVR4PulEBUpOED6D8ij8CDVf8B5iV0F02t9Wqaig4JXidXggvejW41VhUMKPNJn0p3kc5Hw7vyu395pNMdmVOyILSAWfGUC10nd3oiEGpS-jWC4BFPPXRQ8VXHXO7BTuF122xjcrGTuCtxrE5dIoX~wtqEY7c1GN6zlEH1X9sjjg__)
+![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/b0959384-7ec9-4143-9387-6a9c29385a89_1784371936778_15c0ca5d.jpg?Expires=1785489749&Key-Pair-Id=KX5HYW72PVJI2&Signature=XaG6Vft7K3qI~LSHfrtK71kVxpfn924P48R2hhx9QmkSTQFmrhEQBXZTNvY23Io65kWvtVUxd3d694gahSWARXZ4CQ2hMUo8ydAyZ2vKi4lhbHxUtb9v4nVlJ-3WdWc~StqJ3hiL8h1N2lsbwZLUn2J0IeE0dcxGQC6gxkNXjMrmrayKNHBGMze~jSAnPCzeRlCZJo3RML7Y-ZgXLpuspPf~~7jQlbzzncunuCQHsKyJg9~bYblaroh2K9bOB38lJzz~ZCOsSBtBa0iwf1DQzQZDEQHrHAB2dMxByD9sNut7i~~XD5KbgHMd5Rjf9X7V3I92zIkWXWHIQ485MzlG1w__)
+![Image 4](https://dms3amyi97gvv.cloudfront.net/Property/737f9608-8d34-4670-bc6e-7bebabc4053f_1784371937431_b6998d87.jpg?Expires=1785489749&Key-Pair-Id=KX5HYW72PVJI2&Signature=ZLmNIUFw2GRU~lE89s9uLgf9GPGJuy~bRaRwfkscogH33rcWdyK2DGvxHhSRFJUDUYGVM6uz7jRJCa15pCLFhhNEe13mImPirU~MQ8Y7nELjkvai~p3Ecxq28f~pLYwnubBm8dWurEFm1MdRU5bNblFNBatwcfMy8OEnu3fk6FGgG1onJw5kzk7nQISzC7vnjhPdNcfLP4O7JC9aw0TkSQrC2dl87Ms31R1xOdL-vA5ClU5s2r12bhvsOOQm0vXFNqwiQCAUYGIrxkhhArY5jpTvQ9ZNLNybub0PtQtzwjkl-O1UgEdq6Q-4HOvDSJwYmzz4aReH5toAVOrl5KT-vg__)
+![Image 5](https://dms3amyi97gvv.cloudfront.net/Property/4df281f0-92a3-4955-95af-f6ff5f1dab13_1784371937453_5a098a51.jpg?Expires=1785489749&Key-Pair-Id=KX5HYW72PVJI2&Signature=ZPtopGbxIIeWvJE7AQxRZtNCGNHdV-tr77FbjTJeVM~lDdvWLiQXKEw5q8SwWg7w5rRys-sqrlh7fPUCIqm67e2ohXx8z05yKPgFu2rnTtX22-lQuV7WLwx4gj75Av9aaR1c0nSWxWckWgS7UJNaI~JlqyaIzxPw6GPS0zgFlz9-uyhFf~qV-n3mxUy9XsW4VQaGBNEwAIEZs3FX1UTUeS0jbFF9K48iCf6bk8jg~BS2nWT~O9SBVAsVXTOqh9MzSkHYPC5Fsu6A-Ui5AVU5Fn-j5RfIy1QyB7cVnifTNxzd4NQiH98asLeOmy-RiidmIkW5cCVtWIEI43gXR4HEdw__)
+
+
+
 NHÀ 2 TẦNG SỔ RIÊNG 2.5 TỶ HẺM 1716 HUỲNH TẤN PHÁT 
 + Diện tích: 40m sổ công nhận đủ 39m.
 + Kết cấu : Xây dựng  2 tầng, 2 , 1 
