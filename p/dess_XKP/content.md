@@ -1,20 +1,17 @@
 
 
- Nguyễn Thị Tần 23.1m2,  2 tầng
- ngang 2 x11 
- nở hậu 3.2m  Diện tích đất: 23.1m² công nhận đủ trên sổ
+710. Huỳnh Tấn Phát 26 m2,  2 tầng ,  
+2.6 x 10
+ 2.5 tỷ
 
-gia: 2.550 Tỷ Phường Chánh Hưng (P2 cũ) Quận 8, 
- nhà cách mặt tiền 70m. Ngay chợ Rạch Ông. Sát cầu chữ Y
- + Kết cấu: Trệt, 1 lầu, 2 phòng ngủ, 2.wc, ban công thoáng mát, đầy đủ công năng
-+ Hướng cửa: Đông Bắc
-+ Pháp lý rõ ràng: Sổ Hồng Riêng. Hoàn công đủ 2 tầng
+Trệt, Lầu / Sân Rộng, 1 Pn Lớn ( ngăn làm 2 Pn ), 2 Wc, Ban Công Thoáng Mát !
+Pháp Lý : Sổ Hồng Riêng, Hoàn Công, Hỗ Trợ Vay NH !
 
 
 
 
-![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/1000013693_1770265705873_f62cac82.jpg?Expires=1785474542&Key-Pair-Id=KX5HYW72PVJI2&Signature=vOhWVad3UC4XBr0aC9QLI2oK31Icxjf7jGbhcgtfuSmjZ-kn1FSKoFo34roVk5sYFFIdnnjMjRdi6dXDXWIzsvnY-cYUKPElziw4x3H0GMTVuq69qAKKn6Xivp8CFR5v83Zt5cdpzlqU033A2kcGG6OGSaAf9nS9pahNh1RFnbABTjzqe613hsffq52pKe2t2yIDHLiQlodguinMRsnECrRJzjLCk8uxRfHbkvZJLKT81lxLXXhb1~8~nj88PpJ~gBZ7cgiiPuUdh1taP5GMiI3MIxlzxwou0KiDKaAanpZ51QkGxakGjJ5YbCfshGPRFl~5ibVYs8~5WcQtd-mypg__)
-![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/1000016508_1779243997809_7e5aeab1.jpg?Expires=1785474542&Key-Pair-Id=KX5HYW72PVJI2&Signature=vKTx1KKkEfH5TSoT0hPAIR58wZVX8BH3P2TRFEqrlJ6ijygfZkX7d05zSzDA8Kv3vPPFktU1gjZXrfLpEJ-exx-c0H9XTxitFd35R9wWzGfVLcoRXkrVmxBcUwsRmQCJjM44FQwKChxy04gWtTWrls7Dv6lCJ1815KSE5TQMU7nxV3VOD1qBmU28278pbRUa8kVYVm6zWK~9Piz55UV0P1aWjTUBjZqGTdysT50diWQHzygB3Kvbmes3B8WOn-zSROv8ZM5gyOv9-p6fS1JuwWFMqp5jLLCze9jySRMmNxrXShBGNsYarlNb0CkslrPl8kjmHwP3kyLvJADMt3v7Ow__)
-![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/1000016510_1779243998399_41c5a815.jpg?Expires=1785474542&Key-Pair-Id=KX5HYW72PVJI2&Signature=Rl8Anll1KZ27z6LF0EUz6mMFaRJwiuH19G-2y2jP-V8ChphrF4aoKhjmcjSuZ9AA02De1s4GZ2WXUZkz~9IiCauDws8n7poo3BOPWIYYBzn8lN6aGDNL9qZqwwkNQfa3s5Olr2ls86lsO3lQB1g7hdnlPSbWenyB1PoBWsRXFSRsHosbq8~T1dklxUHg-8HgqDHTd9OCWdonSjs2mKokDo3~OGsvK1gghRWL0je3Va1wu2~lwkk0hdkT9w4JJ3MfUDVLhIGC9edFBM0bw530nNmkoflDERi2ZiJBVeiYcXZxQue7Cql24EYJji~3PMFniRSIkQnzO1I0SbKVpJGniA__)
-![Image 4](https://dms3amyi97gvv.cloudfront.net/Property/1000016517_1779244001983_ba9a392c.jpg?Expires=1785474542&Key-Pair-Id=KX5HYW72PVJI2&Signature=vrvvOfdtg6NS7T2yHaznfaLkvBdWiKEplCptpL9z0XkAgefdhHLWVzFNVMqwxDPcpZzwk~d1LeVvw4zJHJRJ1wWDOprNp9KqSKesdO5ctm6OJL6b55ySwypZuOHa1boLbKNp7s8KSUYUMIqfTa7aeIdlwA17bLwAH9q2vHnuPqeB0-F76tycQwGXkfy0tFYUGFkTTJOJDkWQZtyVCz9d89JMNoAftVU-G9UwiJKbRRLZ71v6Z2T7FRIL6gAG5ylhc9gvi4583RotJpzv2iLut3OQETzdEFtNW66C0a-d5AcFHa7EgJ-AFYT8BYGhG5-ovEuPNlmdNjc6~q6JLeqI9w__)
-![Image 5](https://dms3amyi97gvv.cloudfront.net/Property/1000013676_1770265705290_e47ac37c.jpg?Expires=1785474549&Key-Pair-Id=KX5HYW72PVJI2&Signature=kVzrIlAcVGnucr4Q5icQOlpV1Y8nxkanGz3z1tKJ~QHUTb7s7H7ii6WhyBfkjigrHGXvaVzgvYY5PvGlR9ii8LZRbODwJXSx7f8TdBR~H1-0uoQOHLLaeQm6lY0erACxqmOnsncFtjtwOJf2MivVDMHfR9vswQOSErcw6~KY-8vaH-wVzc6SScLEXjmXRf99i-9k3vFxo0YddijRGGB~OKwt5HatqNgidwCLPPFvcX~wabNfoU49kMPPTSypWJAqBIf6lN2yZhnQ9UX83V6Fbd69WlJeBoitKPBe2LDKzd9CWNWN0~wx0B9~YM6TuVp41WqKSI2K9Pk~gLVOm1WtvQ__)
+
+![Image 1](https://dms3amyi97gvv.cloudfront.net/Property/4df281f0-92a3-4955-95af-f6ff5f1dab13_1784371937453_5a098a51.jpg?Expires=1785478529&Key-Pair-Id=KX5HYW72PVJI2&Signature=Gkadtle40Y0ciE2ISbDKrEB9pj-lkan~XkSMFoF5m4148CoYx5MOF0d~96g3qKFsge2fx7GkTtPbxYkS989qSY4M39H5HrbyEoL0lEhIEl5yYfAMUIHTO8wWY4VZE-wqh5zpzpNJdezuemESHvxuqjudKkz9P-NefPX~KEcMfNexa4wVPWpBp2-0dKYAzdSgYX9Lc27CldK4Eg7Ze9QR8RmXVydpmBKsuqj8kMjBaYITVGnUFktPTiWphT1eQeW28rzY0Uu~mFWJsxqFydZCBT0L6Y2OuTXv04PNatXW23HxCpItVlu24nWuzJkvcQqEGOla2kmlgl4EsZKY2i0cPw__)
+![Image 2](https://dms3amyi97gvv.cloudfront.net/Property/dfed35ea-77fd-46ef-9ece-801992873810_1784371935422_84f62014.jpg?Expires=1785478952&Key-Pair-Id=KX5HYW72PVJI2&Signature=YAZnFrSg9mqLzWy2HOY2fEmfMRaafdRyVT2pkBV1rbN9IZzrHkmptyT0G3XgaTqTpPr3lLu399Hb1xoAozj2c2tMUDgFyMoVdPlJWsgQI0NCFc~v5AuAOeuGaq8HNNZO1JXaZOS7gjttAqQYEGxqxUTX1MjgMPvJJBG~NWW89PwikbhYm9u8U9Y4eHbu-ukNXHsB5wfgG2nN76SFdjhaX5d6rEdHGM3CPs2b~SLEdhUNv2~hFYejwb70cLnwj7ZzUjDVhxZ7cDV44lQYMK7l4x~4kiHz2mXQDQE1o-KdEzAP3pyPFdXdHeaMk5e8Zn8M0utjKPw2f9Ad3DSYv3XZbw__)
+![Image 3](https://dms3amyi97gvv.cloudfront.net/Property/db80e484-ecfe-4f8b-bfa8-614027ffe605_1784371936783_a04870b8.jpg?Expires=1785478529&Key-Pair-Id=KX5HYW72PVJI2&Signature=Xb~R688iG3GE3ltaB5s3Ig2O4D1LSoNCjOwHaFy65Gf7fktvLMdTVTjZM6j4M0RVY~77L~Qy4VMPOwztnQ-yZQOpkkRYjffz0EiaWlc5t7R20AT9vX010G1iui0je9yQ9XodmDErWK2rRn~L1qYU6MckR0C6zxRAX2JpYAQj4bWngeASCcSKO7V429pTfIuuPhzPXLOqMwcpmMcpyOV8HWXKdMPKsrvTo~iL0am5ZupLYdSH8suHtXNcMCVbGyR0sT7UKXQz8aiCmcfsc269zMkiuPcBJYAdooyyGiL5Ry16NZjcVwhDFLe~15V~eBA2rMRhCVcWWZ64LeRvn5ULQw__)
+![Image 4](https://dms3amyi97gvv.cloudfront.net/Property/b0959384-7ec9-4143-9387-6a9c29385a89_1784371936778_15c0ca5d.jpg?Expires=1785478529&Key-Pair-Id=KX5HYW72PVJI2&Signature=VFpoB53a9zDKJWDty20EGiHzY942hdaqssbPu7SZv1glJRVU-TOR1FrK8vl9K4Hf51ttQ7v~wGPDn509c1m20VPQnIQ6uIEvFX3cXfTmaXdPtQY4ZM2v-zuIdggkZ3N4OukX3PvrjR~wCq0~R5LjP6I-E8Is2hYAbX7RL4XConZOo179X3~gok1XhJSco4PbdPXUXTcprIpzLnKFYpTHCsz5D4jcid8r7fO8kIU1YzON~tPCX1wPONSXP-mL7LYpbcM1ym6DZMIKjqaSpQrnn5UVwVq5MidUl1kjHFu~cScKtMpd5LelAxURAgDbGiKkswR9zAqBhj6OAjkyC3mUlQ__)
